@@ -10,6 +10,5 @@ chromadb
 langchain-chroma
 langchain_google_genai
 marker-pdf
-unstructured[md]
-llama-parse
-langchain-google-firestore
+unstructured
+unstructured[pdf]
