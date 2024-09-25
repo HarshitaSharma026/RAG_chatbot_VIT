@@ -1,19 +1,7 @@
- 
- 
- 
- 
-School of Computer Science and Engineering 
- 
- 
- 
- 
- 
- 
+School of Computer Science and Engineering  
 CURRICULUM AND SYLLABI 
 (2024-2025) 
 M.Tech. Computer Science and Engineering (Information Security)  
- 
- 
 M. Tech Computer Science and Engineering 
 Specialization in Information Security 
  
@@ -22,19 +10,12 @@ Specialization in Information Security
 CREDIT STRUCTURE  
  
 Category-wise Credit distribution 
- 
- 
- 
 Discipline  Core 24 
 Specialization Elective 12 
 Projects and Internship 26 
 Open Elective 3 
 Skill Enhancement 5 
 Total Credits 70 
-
-CURRICULUM 
-M.Tech.-CSE (Information Security) - (2024) 
- 
  
 Discipline Core  Specialization Elective  Projects and Internship  Open Elective  Skill Enhancement  Total Credits  
 24 12 26 3 5 70 
@@ -80,14 +61,11 @@ S. No. Course Code  Course Title  Course Type  Version L T P J C
 2 MSTS501P Qualitative Skills Practice Soft Skill 1.0 0 0 3 0 1.5 
 3 MSTS502P Quantitative Skills Practice Soft Skill 1.0 0 0 3 0 1.5 
 
- 
- 
- 
- 
- 
- 
+
  
 Discipline Core 
+
+Syllabus Data Structures  and Algorithms
 Course code Course title L T P C 
 MCSE501L  Data Structures  and Algorithms  3 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -144,6 +122,8 @@ Springer.
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus Data Structures  and Algorithms  LAB
 Course code Course title L T P C 
 MCSE501P  Data Structures  and Algorithms  LAB 0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -187,6 +167,8 @@ Springer.
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus Design and Analysis of Algorithms
 Course code Course title L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -248,6 +230,8 @@ Algorithms, and Applications, 1st Edition, Pearson Education, 2014.
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus Design and Analysis of Algorithms Lab
 Course code Course title L T P C 
 MCSE502P Design and Analysis of Algorithms Lab 0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -296,6 +280,8 @@ Algorithms, and Applications, 1st Edition, Pearson Education, 2014.
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus Computer  Architecture  and Organization 
 Course code Course title L T P C 
 MCSE503L  Computer  Architecture  and Organization  3 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -362,6 +348,8 @@ Software Multi-threading, 2010, Intel Press, BPB Publications
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus  Computer  Architecture  and Organization  LAB
 Course code Course title L T P C 
 MCSE503P  Computer  Architecture  and Organization  LAB 0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -423,6 +411,8 @@ Software Multi-threading, 2010, Intel Press, BPB Publications
 Mode of Evaluation:  CAT / Mid-Term Lab/ FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus  OPERATING  SYSTEMS
 Course code Course title L T P C 
 MCSE504L  OPERATING  SYSTEMS  3 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -489,6 +479,8 @@ McGraw-Hill Education.
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
+
+Syllabus OPERATING  SYSTEMS  LAB
 Course code Course title L T P C 
 MCSE504P  OPERATING  SYSTEMS  LAB 0 0 2 1 
 Pre-requisite Nil Syllabus version 
@@ -545,6 +537,7 @@ Mode of Evaluation:  CAT / Mid-Term Lab/  FAT
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
  
+Syllabus Computer  Networks
 Course code Course title L T P C 
 MCSE505L  Computer  Networks  3 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -608,6 +601,7 @@ Mode of Evaluation: CAT / Written Assignment / Quiz  / FAT
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
  
+Syllabus Computer  Networks  Lab
 Course code Course title L T P C 
 MCSE505P  Computer  Networks  Lab 0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -649,6 +643,8 @@ Mode of Evaluation:  CAT / Mid-Term Lab/  FAT
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
  
+
+Syllabus DATABASE SYSTEMS
 Course code Course title L T P C 
 MCSE506L  DATABASE SYSTEMS  3 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -718,6 +714,8 @@ Studies 26-07-2022
 Approved by Academic 
 Council No. 67 Date 08-08-2022 
  
+
+Syllabus DATABASE  SYSTEMS  LAB
 Course code Course title L T P C 
 MCSE506P  DATABASE  SYSTEMS  LAB 0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -793,12 +791,11 @@ Recommended  by Board of Studies 26-07-2022
 Approved  by Academic  Council No. 67 Date 08-08-2022 
  
  
- 
- 
- 
- 
- 
+
 Discipline Elective 
+
+Syllabus INFORMATION SECURITY AND RISK 
+MANAGEMENT
 Course code INFORMATION SECURITY AND RISK 
 MANAGEMENT L T P C 
 MCSE608L   3 0 0 3 
@@ -860,7 +857,9 @@ Edition, Apple Academic Press, New York.
 Mode of Evaluation:  CAT / Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No.67 Date 08-08-2022 
- 
+
+
+Syllabus CRYPTOSYSTEMS
 Course code CRYPTOSYSTEMS  L T P C 
 MCSE609L   2 0 0 2 
 Pre-requisite NIL Syllabus version 
@@ -924,6 +923,7 @@ Mode of Evaluation: CAT /  Assignment / Quiz  / FAT
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No.67 Date 08-08-2022 
  
+Syllabus CRYPTOSYSTEMS  LAB 
 Course code CRYPTOSYSTEMS  LAB L T P C 
 MCSE609P   0 0 2 1 
 Pre-requisite NIL Syllabus version 
@@ -964,6 +964,9 @@ Mode of Evaluation:  Continuous  Assessment  / FAT
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No. 67 Date 08-08-2022 
  
+
+Syllabus PENETRATION TESTING AND VULNERABILITY 
+ASSESSMENT
 Course code PENETRATION TESTING AND VULNERABILITY 
 ASSESSMENT L T P C 
 MCSE610L   2 0 0 2 
@@ -1032,7 +1035,9 @@ Press, New Jersey.
 Mode of Evaluation:  CAT / Assignment /  Quiz / FAT 
 Recommended  by Board of Studies 26-07-2022 
 Approved  by Academic  Council No.67 Date 08-08-2022 
- 
+
+Syllabus PENETRATION  TESTING  AND VULNERABILITY 
+ASSESSMENT LAB 
 Course code PENETRATION  TESTING  AND VULNERABILITY 
 ASSESSMENT LAB L T P C 
 MCSE610P   0 0 2 1 

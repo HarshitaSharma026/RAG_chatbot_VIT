@@ -1,19 +1,7 @@
- 
- 
- 
- 
- 
-School  of Computer  Science  and Engineering  
- 
- 
- 
- 
- 
+School  of Computer  Science  and Engineering   
 CURRICULUM  AND  SYLLABI 
 (2024 -2025)  
-M. Tech  Computer  Science  and Engineering  
- 
-M.Tech  Computer  Science  and Engineering   
+M. Tech  Computer  Science  and Engineering  (CSE)
  
 CURRICULAM  AND  SYLLABUS 
 2024 -2025  
@@ -117,42 +105,10 @@ n L T P J Credits
 1 MENG501P  Technical  Report  Writing  Lab Only  1.0 0 0 4 0 2.0 
 2 MSTS501P  Qualitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
 3 MSTS502P  Quantitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
+
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Course Code  Course Title  L T P C 
+Syllabus Data Structures and Algorithms 
+Course Code  Course Title  L T P C
 MCSE501L  Data Structures and Algorithms  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
   1.0 
@@ -213,51 +169,14 @@ edition, 2020, Springer.
 Press, 2008.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
+Approved by Academic Council  No. 67 Date  08-08-2022   
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1645
+
+Syllabus Data Structures and Algorithms Lab
 Course Code  Course Title  L T P C 
-MCSE501P  Data Structures and Algorithms L ab 0 0 2 1 
+MCSE501P  Data Structures and Algorithms Lab 0 0 2 1 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -299,18 +218,11 @@ Press, 2008.
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
- 
- 
-  
- 
- 
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1646
+
+Syllabus Design and Analysis of Algorithms
 Course Code  Course Title  L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -379,44 +291,12 @@ Algorithms, and Applications, 1st Edition, Pearson Education, 2014.
 3. Jon Kleinberg and EvaTardos, Algorithm Design, Pearson Education, 1“Edition, 2014.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
+Approved by Academic Council  No. 67 Date  08-08-2022   
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1648
+
+Syllabus Design and Analysis of Algorithms Lab
 Course Code  Course Title  L T P C 
 MCSE502P  Design and Analysis of Algorithms Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -470,8 +350,10 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1649
+
+Syllabus Computer Architecture and Organisation (CAO)
 Course Code  Course Title  L T P C 
-MCSE503L  Computer Architecture and Organi sation  3 0 0 3 
+MCSE503L  Computer Architecture and Organisation  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -549,8 +431,10 @@ Approved by Academic Council  No. 67 Date  08-08-2022
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1651
+
+Syllabus Computer Architecture and Organi sation Lab
 Course Code  Course Title  L T P C 
-MCSE503P  Computer Architecture and Organi sation L ab 0 0 2 1 
+MCSE503P  Computer Architecture and Organi sation Lab 0 0 2 1 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -615,44 +499,11 @@ Through Software Multi -threading, 2010, Intel Press,  BPB Publications
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1653
+
+Syllabus Operating Systems 
 Course Code  Course Title  L T P C 
 MCSE504L  Operating Systems  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -725,28 +576,11 @@ Jersey, USA.
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No.67 Date  08-08-2022  
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1655
+
+Syllabus Operating  Systems Lab
 Course Code  Course Title  L T P C 
 MCSE504P  Operating  Systems Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -810,33 +644,11 @@ Environment: Advanc Progra UNIX Envir_p3 . Addison -Wesley.
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1657
+
+Syllabus Computer Networks
 Course Code  Course Title  L T P C 
 MCSE505L  Computer Networks  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -903,41 +715,12 @@ Edition , Morgan Kaufmann, United States of America.
 2. Andrew S. Tanenbaum, “Computer Networks”, 2013, 6th Edition, Pearson, Singapore.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
+Approved by Academic Council  No. 67 Date  08-08-2022   
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1659
+
+Syllabus Computer Networks Lab
 Course Code  Course Title  L T P C 
 MCSE505P  Computer Networks Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -981,18 +764,11 @@ Reference Books
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
- 
- 
- 
-  
- 
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1660
+
+Syllabus Database Systems 
 Course Code  Course Title  L T P C 
 MCSE506L  Database Systems  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -1062,39 +838,12 @@ GIS”. Morgan Kaufmann, 2002.
 Longman Publishing Co., Inc.; 2003 Jan 1.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
+Approved by Academic Council  No. 67 Date  08-08-2022   
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1662
+
+Syllabus Database Systems Lab 
 Course Code  Course Title  L T P C 
 MCSE506P  Database Systems Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -1177,31 +926,11 @@ O'Reilly Media, Inc., 2004.
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67 Date  08-08-2022  
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1664
+
+Syllabus Artificial Intelligence
 Course Code Course Title  L T P C 
 MCSE601L  Artificial Intelligence  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -1279,37 +1008,12 @@ Charu C. Aggarwal, “Data Classification: Algorithms and Applications”, CRC P
 2014.  
 Mode of Evaluation: CAT, Assignment, Quiz and FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
+Approved by Academic Council  No. 67 Date  08-08-2022   
 Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1691
+
+Syllabus Machine Learning 
 Course Code Course Title  L T P C 
 MCSE60 2L Machine Learning  2 0 0 2 
 Pre-requisite  NIL Syllabus version  
@@ -1402,6 +1106,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1693
+
+Syllabus Machine Learning Lab
 Course Code Course Title L T P C 
 MCSE60 2P Machine Learning Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -1456,6 +1162,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1694
+
+Syllabus Deep Learning
 Course Code Course Title  L T P C 
 MCSE603L  Deep Learning  2 0 0 2 
 Pre-requisite  Nil Syllabus version  
@@ -1525,41 +1233,12 @@ Media, 2017
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
 Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1696
-Course Code Course Title  L T P C 
+
+Syllabus Deep Learning Lab
+Course Code Co urse Title  L T P C 
 MCSE603P  Deep Learning Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
   1.0 
@@ -1611,8 +1290,10 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1697
+
+Syllabus Information Security and Risk Management
 Course Code Course Title L T P C 
-MCSE608L  Information Security and Risk Management  3 0 0 3 
+MCSE608L    3 0 0 3 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -1679,45 +1360,13 @@ standards”, 2018, First Edition, Apple Academic Press, New York.
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
 Recommen ded by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
 Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1681
+
+Syllabus Cryptosystems
 Course Code Course Title L T P C 
-MCSE609L  Cryptosystems  2 0 0 2 
+MCSE609L     2 0 0 2 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -1778,49 +1427,12 @@ Proceedings of the 67th Academic Council (08.08.2022)
 2011, Tata Mcgraw  Hill education private limited, India  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
+Approved by Academic Council  No. 67  Date  08-08-2022   
 Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1683
+
+Syllabus Cryptosystems Lab
 Course Code Course Title L T P C 
 MCSE609P  Cryptosystems Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -1861,15 +1473,11 @@ Reference Books (s)
 Mode of Evaluation: Continuous Assessment / FAT 
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
- 
 Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1684
+
+Syllabus  Penetration Testing and Vulnerability Assessment 
 Course Code Course Title L T P C 
 MCSE610L  Penetration Testing and Vulnerability Assessment  2 0 0 2 
 Pre-requisite  NIL Syllabus version  
@@ -1947,40 +1555,13 @@ Packt Publishing Ltd, United Kingdom .
 Defense”, 2005, Cisco Press, New Jersey.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
 Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
+Approved by Academic Council  No. 67  Date  08-08-2022   
 Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1686
+
+Syllabus Penetration  Testing  and Vulnerability  
+Assessment Lab
 Course Code Course Title L T P C 
 MCSE610P  Penetration  Testing  and Vulnerability  
 Assessment Lab 0 0 2 1 
@@ -2042,14 +1623,11 @@ Defense”, 2005, Cisco Press, New Jersey.
 Mode of Evaluation: Continuous A ssessment / FAT  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council    No. 67  Date  08-08-2022  
- 
- 
-  
- 
- 
 Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1688
+
+Syllabus Big Data Frameworks and Technologies
 Course Code Course Title  L T P C 
 MCSE614L  Big Data Frameworks and Technologies  2 0 0 2 
 Pre-requisite  NIL Syllabus version  
@@ -2145,6 +1723,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1671
+
+Syllabus Big Data Frameworks and Technologies Lab
 Course Code Course Title  L T P C 
 MCSE614P  Big Data Frameworks and Technologies Lab  0 0 2 1 
 Pre-requis ite NIL Syllabus version  
@@ -2185,16 +1765,11 @@ Algorithms and Analytics for Hadoop an d Other Systems” - O’Relly 2012
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
-  
- 
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1672
+
+Syllabus Data Analytics
 Course C ode Course Title  L T P C 
 MCSE6 15L Data Analytics  2 0 0 2 
 Pre-requisite  Nil Syllabus version  
@@ -2270,29 +1845,11 @@ Guanhua Wang -Distributed Machine Learning with Python, Packt Publishing, 2022.
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1674
+
+Syllabus Data Analytics Lab 
 Course Code Course Title  L T P C 
 MCSE615P  Data Analytics Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -2338,14 +1895,11 @@ Selection, and Data Transforms in Python, First Edition, 2020.
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
- 
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1675
+
+Syllabus Data Visualization 
 Course Code Course Title  L T P C 
 MCSE616L  Data Visualization  2 0 0 2 
 Pre-requisite  NIL Syllabus version  
@@ -2414,30 +1968,11 @@ Sanger Institute, United Kingd om, 2013.
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1677
+
+Syllabus Data Visualization Lab
 Course Code Course Title  L T P C 
 MCSE616P  Data Visualization Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus Version  
@@ -2483,6 +2018,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1678
+
+Syllabus Control Engineering
 Course Code Course Title L T P C 
 MCSE621L  Control Engineering  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -2553,11 +2090,11 @@ Publishers, 6th Edition, 2018.
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
 Recommended by Board of Studies  29-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1630
+
+Syllabus Control Engineering Lab 
 Course C ode Course Title L T P C 
 MCSE621P  Control Engineering Lab  0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -2604,6 +2141,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1631
+
+Syllabus Framework of Cyber Physical  Systems
 Course Code Course Title L T P C 
 MCSE622L  Framework of Cyber Physical  Systems  3 0 0 3 
 Pre-requ isite NIL Syllabus version  
@@ -2687,8 +2226,10 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1633
+
+Syllabus Cyber Physical Systems Design
 Course Code Course Title L T P C 
-MCSE623L              Cyber Physical Systems Design  2 0 0 2 
+MCSE623L Cyber Physical Systems Design  2 0 0 2 
 Pre-requisite  NIL Syllabus ve rsion  
   1.0 
 Course Objectives  
@@ -2764,6 +2305,7 @@ Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1635
  
+Syllabus Cyber Physical Systems Design  Lab
 Course Code Course Title L T P C 
 MCSE623P  Cyber Physical Systems Design  Lab 0 0 2 1 
 Pre-requisite  NIL Syllabus version  
@@ -2818,7 +2360,9 @@ Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1636
  
-Course C ode Course Title L T P C 
+
+Syllabus Real Time Systems 
+Course Code Course Title L T P C 
 MCSE624L  Real Time Systems  2 0 0 2 
 Pre-requisite  NIL Syllabus version  
   1.0 
@@ -2897,8 +2441,10 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1638
+
+Syllabus Fault Tolerant Systems
 Course Code Course Title L T P C 
-MCSE625L  Fault Tolerant System s 3 0 0 3 
+MCSE625L  Fault Tolerant Systems 3 0 0 3 
 Pre-requisite  NIL Syllabus version  
   1.0 
 Course Objectives  
@@ -2968,6 +2514,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1640
+
+Syllabus Industry 4.0 
 Course Code Course Title L T P C 
 MCSE626L  Industry 4.0  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -3036,6 +2584,8 @@ Approved by Academic Council  No. 67  Date  08-08-2022
 Item 67/27 - Annexure - 31
 Proceedings of the 67th Academic Council (08.08.2022) 
 1642
+
+Syllabus Internship I/ Dissertation I  
 Course Code  Course Title  L T P C 
 MCSE69 8J Internship I/ Dissertation I     10 
 Pre-requisite  NIL Syllabus version  
@@ -3068,17 +2618,11 @@ Mode o f Evaluation:  Assessment on the project - Dissertation report to be subm
 presentation, project reviews and Final Oral Viva Examination.  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
- 
- 
-  
- 
- 
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1667
+
+Syllabus Internship II/ Dissertation II
 Course Code  Course Title  L T P C 
 MCSE69 9J Internship II/ Dissertation II     12 
 Pre-requisite  NIL Syllabus version  
@@ -3112,16 +2656,11 @@ Mode of Evaluation: Assessment on the project - Dissertation report to be submit
 presentation, project reviews and Final Oral Viva Examination.  
 Recommended by Board of Studies  26-07-2022  
 Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
- 
- 
- 
-  
- 
 Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1668
+
+Syllabus Français Fonctionnel 
 Course code Course Title L T  P C
 MFRE501L Français Fonctionnel 3 0 0 3
 Pre-requisite NIL Syllabus version
@@ -3203,6 +2742,8 @@ Assessment Test
 Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 136
+
+Syllabus Deutsch für Anfänger 
 Course code Course Title L  T P C
 MGER501L Deutsch für Anfänger 3  0 0 3
 Pre-requisite NIL Syllabus version
@@ -3282,6 +2823,8 @@ Assessment Test
 Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 138
+
+Syllabus Advanced Competitive Coding
 Course Code Course Title L T P C 
 MSTS601L Advanced Competitive Coding  3 0 0 3 
 Pre-requisite  NIL Syllabus version  
@@ -3352,6 +2895,8 @@ Approved by Academic Council  No. 69 Date  16-03-2023
 Item 69/31 - Annexure - 28
 Proceedings of the 69th Academic Council (16.03.2023)
 192
+
+Syllabus Technical Report Writing
 Course code Course Title L T P C
 MENG501P Technical Report Writing 0 0 4 2
 Pre-requisite Nil Syllabus version 
@@ -3423,6 +2968,8 @@ Assessment Test
 Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 130
+
+Syllabus Qualitative Skills Practice
 Course Code Course Title L T PC
 MSTS501P Qualitative Skills Practice 0 0 3 1.5
 Pre-requisite Nil Syllabus version
@@ -3491,6 +3038,8 @@ Test
 Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 132
+
+Syllabus Quantitative Skills Practice
 Course Code Course Title L T P C 
 MSTS502P Quantitative Skills Practice 0 0 3 1.5
 Pre-requisite Nil Syllabus version

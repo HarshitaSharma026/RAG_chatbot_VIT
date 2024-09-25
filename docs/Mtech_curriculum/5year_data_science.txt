@@ -1,32 +1,9 @@
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 School  of Computer  Science  and Engineering 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 CURRICULUM  AND  SYLLABI 
- 
-           M.Tech (CSE) – (Data  Science) – 5 year  Integrated(2024-2025)
-Report On : 28-08-2024 10:39:16 AM Page 1 of
-6Category Credit Detail
+M.Tech (CSE) – (Data  Science) – 5 year  Integrated(2024-2025)
+
+
+Category Credit Detail
 Sl.No. Description Credits Maximum Credit
 1 PC - Programme Core 81 81
 2 PE - Programme Elective 48 48
@@ -37,9 +14,7 @@ Sl.No. Description Credits Maximum Credit
 7 NC - Non Credit Course 5 5
 Total Credits225
 Programme Core
-sl.no Course Code Course Title Course Type Ver
-sio
-nLTPJCredits
+sl.no Course Code Course Title Course Type VersionLTPJCredits
 1 CSI1001 Principles of Database Systems Embedded
 Theory and Lab1.020203.0
 2 CSI1002 Operating System Principles Embedded
@@ -85,9 +60,7 @@ Theory and Lab1.030204.0
 24 MDI4001 Machine Learning for Data Science Embedded
 Theory and Lab1.030204.0
 Programme Elective
-sl.no Course Code Course Title Course Type Ver
-sio
-nLTPJCredits
+sl.no Course Code Course Title Course Type VersionLTPJCredits
 1 CSI1005 User Interface Design Embedded
 Theory and Lab1.120203.0
 2 CSI3006 Soft Computing Techniques Embedded
@@ -228,6 +201,8 @@ nLTPJCredits
 2 EXC4097 Co-Extra Curricular Basket Basket 1.000002.0
 Report On : 28-08-2024 10:39:16 AM Page 5 of
 6
+
+Syllabus Principles of Database Systems
 CSI1001 Principles of Database Systems L  T P J C 
   2 0 2 0  3 
 Pre-requisite  Syllabus version 
@@ -328,6 +303,8 @@ Approved by Academic Council No. 59 Date 24-09-2020
  
  
 Proceedings of the 59th Academic Council [24.09.2020] 810
+
+Syllabus Operating System Principles
 CSI1002  Operating System Principles L  T P J C 
   2 0 2 0  3 
 Pre-requisite  Syllabus version 
@@ -411,19 +388,9 @@ Total Laboratory Hours  30 hours
 Mode of evaluation: 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Proceedings of the 59th Academic Council [24.09.2020] 812
+ Proceedings of the 59th Academic Council [24.09.2020] 812
+
+Syllabus Formal Languages and Automata Theory
 CSI1003 Formal Languages and Automata Theory L  T P J C 
   3 0 0 0  3 
 Pre-requisite  Syllabus version 
@@ -486,32 +453,10 @@ Brokecole Cengage Learning , 2012.
 4.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Approved by Academic Council No. 59 Date 24-09-2020  
 Proceedings of the 59th Academic Council [24.09.2020] 814
+
+Syllabus Computer Organization And Architecture
 CSI1004  Computer Organization And Architecture L  T P J C 
   3 0 0 0  3 
 Pre-requisite  Syllabus version 
@@ -585,26 +530,9 @@ Economy Edition, Sixth Edition, 2003
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 816
+
+Syllabus Software Engineering Principles
 CSI1007 Software Engineering Principles  L T P J C 
   2 0 2 0 3 
 Pre-requisite Nil Syllabus version 
@@ -701,6 +629,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 259
+
+Syllabus DIGITAL LOGIC AND COMPUTER DESIGN 
 CSI2001  DIGITAL LOGIC AND COMPUTER DESIGN  L T P J C 
   3 0 2 0 4 
 Pre-requisite  Nil Syllabus version 
@@ -798,6 +728,8 @@ Approved by Academic Council  No. 61  Date  18.02.2021
  
   
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 262
+
+Syllabus Data Structures and Algorithm Analysis
 CSI2002 Data Structures and Algorithm Analysis L T  P J C 
 3 0 2 0
 Pre-requisite Nil Syllabus version
@@ -883,6 +815,8 @@ Mode of assessment: CAT / Assignment / Quiz / FAT / Seminar
 Recommended by Board of Studies 05.02.2020 
 Approved by Academic Council No. 61 Date 18.02.2021 
 Proceedings of the 61st Meeting of the Academic Cou ncil [18.02.2021] 264
+
+Syllabus Advanced Algorithms
 CSI2003 Advanced Algorithms L T P J C 
   2 0 2 0 3 
 Pre-requisite CSI2002 / CSE2003 Syllabus version 
@@ -979,6 +913,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 266
+
+Syllabus Advanced Database Management Systems
 CSI2004 Advanced Database Management Systems L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -1038,6 +974,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 268
+
+Syllabus Principles of Compiler Design 
 CSI2005 Principles of Compiler Design L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -1106,6 +1044,8 @@ Approved by Academic Council No. 61 Date 18-02-2021
  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 270
+
+Syllabus Microprocessor and Interfacing Techniques
 CSI2006 Microprocessor and Interfacing Techniques L T P J C 
   2 0 2 0 3 
 Pre-requisite Nil Syllabus version 
@@ -1222,6 +1162,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18.02.2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 273
+
+Syllabus Data Communication and Networks 
 CSI2007 Data Communication and Networks L T P J C 
   3 0 2 0 4 
 Pre-requisite Nil Syllabus version 
@@ -1316,6 +1258,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 275
+
+Syllabus Programming in Java 
 CSI2008 Programming in Java L T P J C 
   3 0 2 0 4 
 Pre-requisite Nil Syllabus version 
@@ -1405,6 +1349,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 277
+
+Syllabus Cloud Computing Methodologies
 CSI3001 Cloud Computing Methodologies L T P J C 
         3 0 2 0 4 
 Pre-requisite Nil Syllabus version 
@@ -1489,6 +1435,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 279
+
+Syllabus Applied Cryptography and Network Security
 CSI3002 Applied Cryptography and Network Security L T P J C 
   2 0 2 0 3 
 Pre-requisite Nil Syllabus version 
@@ -1584,6 +1532,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18.02.2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 281
+
+Syllabus Artificial Intelligence and Expert Systems
 CSI3003 Artificial Intelligence and Expert Systems L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -1650,6 +1600,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 283
+
+Syllabus Data Science Programming
 CSI3004  Data Science Programming  L T P J C 
   2 0 2 0 3 
 Pre-requisite  NIL  Syllabus version  
@@ -1739,6 +1691,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 285
+
+Syllabus Advanced Data Visualization Techniques
 CSI3005  Advanced Data Visualization Techniques  L T P J C 
   3 0 2 0 4 
 Pre-requisite  Nil Syllabus version  
@@ -1819,6 +1773,9 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 287
+
+Syllabus Fundamentals of Electrical and Electronics 
+Engineering
 EEE1024 Fundamentals of Electrical and Electronics 
 Engineering L T P J C 
   2 0 2  0 3 
@@ -1909,13 +1866,10 @@ Instrumentation Dhanpat Rai Publications, 2012.
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 818
+
+
+Syllabus Discrete Mathematics and Graph Theory
 MAT1014  Course title L T P J C 
  Discrete Mathematics and Graph Theory  3 2 0 0 4 
 Pre-requisite  None  Syllabus  Version  
@@ -2002,7 +1956,8 @@ Digital Assignments,  Quiz, Continuous Assessments, F inal Assessment Test
 Recommended by Board of Studies   
 Approved by Academic Council  No. 47  Date  05-10-2017  
  
-MAT102 2 Linear Algebr a LTPJC
+Syllabus Linear Algebra
+MAT1022 Linear Algebra LTPJC
 30003
 Pre-requisite MAT 1011 Syllabus  Version
 1.0
@@ -2063,6 +2018,8 @@ Digital Assignments,Continuous Assessments, Final Asse ssment Test
 Recommended by Board of Studies 30.06.2021
 Approved by Academic Council 63 Date 23.09.2021Item 63/17 - Annexure - 14
 Proceedings of the 63rd Academic Council [23.09.2021] 907
+
+Syllabus Advances in Web Technologies
 MDI3001  Advances in Web Technologies  L T P J C 
   3 0 2 0 4 
 Pre-requisite   Syllabus version  
@@ -2222,6 +2179,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 291
+
+Syllabus Foundations of Data Science
 MDI3002  Foundations of Data Science  L T P J C 
   
  3 0 0 0 3 
@@ -2308,6 +2267,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 293
+
+Syllabus Machine Learning for Data Science
 MDI4001  Machine Learning for Data Science   L T P J C 
   3 0 2 0 4 
 Pre-requisite  NIL  Syllabus version  
@@ -2389,6 +2350,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 295
+
+Syllabus  User Interface Design
 CSI1005  User Interface Design   L T P J C 
   2 0 2 0 3 
 Pre-requisite  NIL  Syllabus version  
@@ -2478,6 +2441,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 331
+
+Syllabus Soft Computing Techniques 
 CSI3006 Soft Computing Techniques L  T P J C 
 3 0 0   
 Pre-requisite Nil Syllabus version  
@@ -2556,6 +2521,8 @@ Mode of assessment:
 Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 297
+
+Syllabus Advanced Python Programming
 CSI3007 Advanced Python Programming LT P J C 
 2 0 4 0 4 
 Pre-requisite Syllabus version  
@@ -2634,6 +2601,8 @@ Mode of Evaluation: Project/Activity
 Approved by Academic Council No.61 Date 18-02-2021 
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 299
+
+Syllabus Internet of Everything
 CSI3008 Internet of Everything L T P J C 
   3 0 2 0 4 
 Pre-requisite Nil Syllabus version 
@@ -2734,6 +2703,8 @@ Mode of evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar
 Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 301
+
+Syllabus Advanced Wireless Networks
 CSI3009 Advanced Wireless Networks L T P J C 
 3 0 2 0 4 
 Pre-requisite Syllabus version 
@@ -2816,6 +2787,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 303
+
+Syllabus Computer Graphics and Multimedia
 CSI3011 Computer Graphics and Multimedia L T P J C 
   3 0 2 0 4 
 Pre-requisite NIL  Syllabus version 
@@ -2898,6 +2871,8 @@ Approved by Academic Council No. 61 Date 18-02-2021
  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 307
+
+Syllabus Distributed Systems
 CSI3012 Distributed Systems L T P J C 
   3 0 2 0 4 
 Pre-requisite Nil Syllabus version 
@@ -2983,6 +2958,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 309
+
+Syllabus Blockchain Technologies
 CSI3013 Blockchain Technologies  L T P J C 
   3 0 0 4 4 
 Pre-requisite Nil Syllabus version 
@@ -3060,6 +3037,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 311
+
+Syllabus Software Verification and Validation 
 CSI3014 Software Verification and Validation  L T P J C 
   3 0 0 0 3 
 Pre-requisite NIL Syllabus version 
@@ -3126,6 +3105,8 @@ Recommended by Board of Studies: 11-02-2021
 Approved by Academic Council   No.61                                                     Date:         18-02-2021    
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 313
+
+Syllabus Software Project Management
 CSI3015  Software Project Management  L T P J C 
   3 0 0 0 3 
 Pre-requisite  Nil Syllabus version  
@@ -3203,6 +3184,8 @@ Approved by Academic Council No. 61 Date 18-02-2021
  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 315
+
+Syllabus Machines and Controls 
 CSI3016 Robotics: Machines and Controls  L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -3262,6 +3245,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 317
+
+Syllabus Advanced Data Compression Techniques
 CSI3019  Advanced Data Compression Techniques L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -3324,6 +3309,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 323
+
+Syllabus Advanced Graph Algorithms
 CSI3020 Advanced Graph Algorithms L T P J C 
   3 0 0 0 3 
 Pre-requisite Nil Syllabus version 
@@ -3389,6 +3376,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 325
+
+Syllabus Advanced Computer Architecture
 CSI3021 Advanced Computer Architecture L T P J C 
   3 0 0 0 3 
 Pre-requisite CSI1004 Syllabus version 
@@ -3453,6 +3442,8 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 327
+
+Syllabus Cyber Security and Application Security 
 CSI3022 Cyber Security and Application Security  L T P J C 
   3 0 2 0 4 
 Pre-requisite NIL Syllabus version 
@@ -3540,6 +3531,8 @@ Total Laboratory Hours 30 hours
 Recommended by Board of Studies 11-02-2021  
 Approved by Academic Council No. 61 Date 18-02-2021  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 329
+
+Syllabus Applications of Differential and Difference 
 MAT2002  Applications of Differential and Difference 
 Equations  L T P J C 
   3 0 2 0 4 
@@ -3647,6 +3640,7 @@ Studies
 Approved by Academic 
 Council  No. 37  Date  16-06-2015  
  
+Syllabus Engineering Chemistry
 CHY1701 Engineering Chemistry L T P J C 
 3 0 2 0 4 
 Pre-requisite Chemistry of 12th standard or equivalent  Syllabus version  
@@ -3770,6 +3764,8 @@ Mode of Evaluation: Viva-voce and Lab performance & FAT
 Recommended by Board of 
 Studies 06-06-2018
 Approved by Academic Council 50th ACM Date 14.06.2018 
+
+Syllabus PROBLEM SOLVING AND PROGRAMMING
 CSE1001  PROBLEM SOLVING AND PROGRAMMING  L T P J C 
   0 0 6 0 3 
 Pre-requisite NIL Syllabus version 
@@ -3821,6 +3817,9 @@ Mode of Evaluation:      PAT / CAT  / FAT
 Recommended by Board of Studies  
 Approved by Academic Council No. 37 Date 16-06-2015 
  
+
+Syllabus PROBLEM SOLVING AND OBJECT ORIENTED 
+PROGRAMMING
 CSE1002 
 PROBLEM SOLVING AND OBJECT ORIENTED 
 PROGRAMMING L T P J C 
@@ -3927,6 +3926,8 @@ Mode of assessment: PAT / CAT  / FAT
 Recommended by Board of Studies 04-04-2014 
 Approved by Academic Council No. 37 Date 16-06-2015 
  
+
+Syllabus Technical English - I 
 ENG1901 Technical English - I L T P J C
 0 0 4 0 2 
 Pre-requisite  Syllabus Version 
@@ -4031,6 +4032,8 @@ List of Challenging Experiments (Indicative)
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
 Recommended by Board of Studies 08.06.2019 
 Approved by Academic Council 55 Date: 13.06.2019 
+
+Syllabus Technical English - II
 ENG1902 Technical English - II L T P J C
 0 0 4 0 2 
 Pre-requisite  Syllabus Version 
@@ -4145,6 +4148,8 @@ Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments a
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
 Recommended by Board of Studies 08.06.2019 
 Approved by Academic Council 55 Date: 13.06.2019 
+
+Syllabus Advanced Technical English
 ENG1903 Advanced Technical English L T P J C
 0 0 2 4 2 
 Pre-requisite Syllabus Version 
@@ -4233,6 +4238,8 @@ Total  Hours (J-Component)  60 Hours
 Mode of evaluation: Quizzes, Presentation, Discussion, Role play, Assignments and FAT  
 Recommended by Board of Studies 08.06.2019 
 Approved by Academic Council 55 Date: 13.06.2019 
+
+Syllabus ETHICS AND VALUES
 HUM1021 ETHICS AND VALUES L T P J C 
 2 0 0 0 2 
 Pre-requisite Nil Syllabus version 
@@ -4286,6 +4293,8 @@ Mode of Evaluatio n: CAT, Assignment, Quiz, FAT and  Seminar
 Recommended by Board of Studies 26.07.2017 
 Approved by Academic Council 46th ACM Date 24.08.2017 
  
+
+Syllabus Calculus for Engineers
 MAT1011  Calculus for Engineers  L T P J C 
   3 0 2 0 4 
 Pre- requisite                       Syllabus  Version  
@@ -4385,6 +4394,7 @@ Mode of Assessment:
 Recommended by Board of Studies  12-06-2015 
 Approved by Academic Council  No.  37  Date   16-06-2015  
  
+Syllabus Statistics for Engineers
 MAT2001  Statistics for Engineers  L T P J C 
   3 0 2 0 4 
 Prerequisites   MAT1011 – Calculus for Engineers  Syllabus Version :         
@@ -4481,6 +4491,8 @@ Weekly Assessment, Final Assessment Test
 Recommended by Board of Studies  25-02-2017 
 Approved by Academic Council  47 Date: 05-10-2017 
  
+
+Syllabus LEAN START- UP MANAGEMENT
 MGT1022 LEAN START- UP MANAGEMENT L T P J C 
 1 0 0 4 2 
 Pre-requisite Nil Syllabus version 
@@ -4673,6 +4685,8 @@ Mode of evaluation: CAT / FAT
 Recommended by Board of Studies  25.06.2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
 Proceedings of the 59th Academic Council [24.09.2020] 594
+
+Syllabus Advanced C Programming 
 CSE2010 Advanced C Programming L T  P J C 
   2 0 2 0  3 
 Pre-requisite Nil Syllabus version 
@@ -4786,31 +4800,9 @@ structures (with and without pointers) 6 hours
 Total Laboratory Hours  30 hours 
 Recommended by Board of Studies 09-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 789
+
+Syllabus Data Warehousing and Data Mining
 CSI3010   Data Warehousing and Data Mining  L T P J C 
   3 0 2 0 4 
 Pre-requisite  Nil Syllabus Revision  
@@ -4908,6 +4900,8 @@ Approved by Academic Council  No.61  Date:  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 305
+
+Syllabus Business Intelligence
 CSI3017  Business Intelligence  L T P J C 
   3 1 0 0 4 
 Pre-requisite  Nil Syllabus version  
@@ -4987,6 +4981,8 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 319
+
+Syllabus Advanced Java 
 CSI3018  Advanced Java   L T P J C 
   2 0 2 0 3 
 Pre-Requisite  CSI2008  Syllabus version  
@@ -5081,6 +5077,9 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 321
+
+Syllabus Advances in Data Base Administration and 
+Security
 MDI4007 Advances in Data Base Administration and 
 SecurityLTPJC
 30003
@@ -5132,6 +5131,8 @@ Reference Books
 2.Sixth Edition, McGraw Hill, 2011.
 R. Elmasri, S.B.  
 Pearson Education/Addison Wesley, 2010.
+
+Syllabus Foundation English
 ENG1000 Foundation English -I L T P J C
 0 0 4 0  2 
 Pre-requisite  Syllabus Version  
@@ -5225,6 +5226,8 @@ List of Challenging Experiments (Indicative)
 Mode of Evaluation: Quizzes, Presentation, Discussion, Role Play, Assignments 
 Recommended by Board of Studies 08-06-2019
 Approved by Academic Council 55 Date 13.06.2019 
+
+Syllabus Foundation English -II
 ENG2000 Foundation English -II L T P J C
 0 0 4 0  2 
 Pre-requisite  Syllabus version 
@@ -5319,6 +5322,8 @@ List of Challenging Experiments (Indicative)
 Mode of Evaluation: Presentation, Discussion, Role Play, Assignments , FAT 
 Recommended by Board of Studies 08.06.2019 
 Approved by Academic Council 55 Date 13.06.2019 
+
+Syllabus Environmental Sciences
 CHY1002  Environmental Sciences  L T P J C 
   3 0 0 0 3 
 Pre-requisite   Syllabus version  
