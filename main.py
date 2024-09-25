@@ -3,11 +3,16 @@ import json
 import streamlit as st
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
+import google.generativeai as genai
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from dotenv import load_dotenv
 
 load_dotenv()
+
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
+os.environ["LANGCHAIN_TRACING_V2"]="true"
 # setting up working directory
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
