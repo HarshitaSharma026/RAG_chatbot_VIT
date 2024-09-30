@@ -68,24 +68,6 @@ Discipline Core
 Syllabus Data Structures  and Algorithms
 Course code Course title L T P C 
 MCSE501L  Data Structures  and Algorithms  3 0 0 3 
-Pre-requisite NIL Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To familiarize the concepts of data structures and algorithms focusing on space and time 
-complexity. 
-2. To provide a deeper insight into the basic and advanced data structures. 
-3. To develop the knowledge for the application of advanced trees and graphs in real- world 
-scenarios.  
- 
-Course Outcomes  
-After completion of this course, the student shall be able to: 
-1. Understand and analyze the space and time complexity of the algorithms. 
-2. Identification of suitable data structure for a given problem. 
-3. Implementation of graph algorithms in various real-life applications. 
-4. Implementation of heaps and trees for querying and searching. 
-5. Use of basic data structures in advanced data structure operations. 
-6. Use of searching and sorting in various real-life applications. 
- 
 Module:1  Growth of Functions  3 hours 
 Overview and importance of algorithms and data structures- Algorithm specification, Recursion, 
 Performance analysis, Asymptotic Notation - The Big-O, Omega and Theta notation, Programming 
@@ -171,22 +153,6 @@ Approved  by Academic  Council No. 67 Date 08-08-2022
 Syllabus Design and Analysis of Algorithms
 Course code Course title L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
-Pre-requisite NIL Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To provide a mathematical framework for the design and analysis of algorithms. 
-2. To disseminate knowledge on how to create strategies for dealing with real-world problems. 
-3. To develop efficient algorithms for use in a variety of engineering design settings. 
- 
-Course Outcomes  
-On completion of this course, student should be able to: 
-1. Apply knowledge of computing and mathematics to algorithm design. 
-2. Apply various algorithm paradigms to solve scientific and real-life problems. 
-3. Demonstrate the string matching and network flow algorithms relating to real-life problems. 
-4. Understand and apply geometric algorithms. 
-5. Apply linear optimization techniques to various real-world linear optimization problems. 
-6. Explain the hardness of real-world problems with respect to algorithmic design. 
- 
 Module:1  Greedy, Divide and Conquer  Techniques  Introduction  6 hours 
 Overview  and Importance  of Algorithms - Stages of algorithm  development:  Describing  the 
 problem, Identifying a suitable technique, Design of an algorithm, Illustration of Design Stages - Greedy 
@@ -284,29 +250,6 @@ Approved  by Academic  Council No. 67 Date 08-08-2022
 Syllabus Computer  Architecture  and Organization 
 Course code Course title L T P C 
 MCSE503L  Computer  Architecture  and Organization  3 0 0 3 
-Pre-requisite NIL Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To provide knowledge on the basics of computer architectures and organization that lays the 
-foundation to study high-performance architectures 
-2. To design and develop parallel programs using parallel computing platforms such as 
-OpenMP, CUDA 
-3. To evaluate the performance using profiling tools and optimize parallel codes using various 
-optimization techniques  
- 
-Course Outcomes  
-After completion of this course, the student shall be able to: 
-1. Outline the developments in the evolution of computer architectures and parallel 
-programming paradigms 
-2. Comprehend the various programming languages and libraries for parallel computing 
-platforms 
-3. Use of profiling tools to analyze the performance of applications by interpreting the given 
-data 
-4. Evaluate efficiency trade-offs among alternative parallel computing architectures for an 
-efficient parallel application design 
-5. Develop parallel programs using OpenMP and CUDA and analyze performance parameters 
-such as speed-up, and efficiency for parallel programs against serial programs 
- 
 Module:1  Computer  Evolution  And Performance  5 hours 
 Defining Computer Architecture and Organization, Overview of Computer Components, Von Neumann 
 Multi-threading, Comparisons of Single Core, Multi Processors, and Multi-Core architectures, Metrics 
@@ -415,25 +358,6 @@ Approved  by Academic  Council No. 67 Date 08-08-2022
 Syllabus  OPERATING  SYSTEMS
 Course code Course title L T P C 
 MCSE504L  OPERATING  SYSTEMS  3 0 0 3 
-Pre-requisite Nil Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To focus the core functionalities required to develop and manage operating systems. 
-2. To encompass process management, synchronization strategies, memory management, file 
-systems, device management, and virtualization. 
-3. To introduce the concepts and features of real-time operating systems as well as 
-virtualization. 
- 
-Course Outcomes  
-After completion of this course, the student shall be able to: 
-1. Understand the fundamental operating system abstractions, including processes, threads, 
-semaphores, and file systems. 
-2. Implement scheduling, devising and addressing synchronization issues. 
-3. Gain an understanding of memory management tasks. 
-4. Develop real-time working prototypes of different small-scale and medium-scale embedded 
-systems. 
-5. Comprehend the basics of virtualization and differentiate types of virtualization. 
- 
 Module:1  Introduction  to Operating  Systems 4 hours 
 Computer Organization and Architecture - OS definition  OS history  OS Operations  OS design 
 issues - Operating systems structures - Library files - Systems calls  Interrupts - Kernel approaches  
@@ -540,22 +464,6 @@ Approved  by Academic  Council No. 67 Date 08-08-2022
 Syllabus Computer  Networks
 Course code Course title L T P C 
 MCSE505L  Computer  Networks  3 0 0 3 
-Pre-requisite NIL Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To learn various network models, layers and their protocols. 
-2. To gain a fundamental understanding of routing algorithms. 
-3. To comprehend the basics of wireless as well as mobile networks and their characteristics. 
- 
-Course Outcomes  
-After completion of this course, the student shall be able to: 
-1. Explore the basics of Computer Networks and various performance metrics. 
-2. Interpret the application layer services and their protocols. 
-3. Evaluate the requirements for reliable services and implications of congestion at the transport 
-layer services. 
-4. Analyse various functionalities required in the control and data plane at network layer services. 
-5. Infer the characteristics of wireless as well as mobile networks and their security standards. 
- 
 Module:1  Computer  Networks  and the Internet 7 hours 
 Internet: A Nuts-and-Bolts Description - Network Protocols - The Network Edge: Access Networks and 
 Physical Media - The Network Core: Packet Switching, Circuit Switching -  Network of Networks -  
@@ -647,25 +555,6 @@ Approved  by Academic  Council No. 67 Date 08-08-2022
 Syllabus DATABASE SYSTEMS
 Course code Course title L T P C 
 MCSE506L  DATABASE SYSTEMS  3 0 0 3 
-Pre-requisite NIL Syllabus version 
-  v. 1.0 
-Course Objectives  
-1. To understand the underlying principles of Relational Database Management Systems 
-2. To focus on the modeling and design of secured databases and usage of advanced data 
-models 
-3. To implement and maintain the structured, semi-structured, and unstructured data in an 
-efficient database system using emerging trends 
- 
-Course Outcomes  
-On completion of this course, students must be able to 
-1. Design and implement a database depending on the business requirements, considering 
-various design issues 
-2. Understand the concepts of Indexing, Query optimization, transaction management, 
-concurrency control, and recovery mechanisms 
-3. Learn to apply parallel and distributed databases in Real-time scenarios 
-4. Categorize and design the structured, semi-structured, and unstructured databases 
-5. Characterize the database threats and their countermeasures 
- 
 Module:1  Design and Implementation  of Relational  Model 6 hours 
 Database System Concepts and Architecture, Entity-Relationship (ER) Modelling, Relational Model- 
 Keys, and Integrity Constraints, Mapping ER model to Relational Schema, Normalization, Boyce Codd 
@@ -799,20 +688,6 @@ MANAGEMENT
 Course code INFORMATION SECURITY AND RISK 
 MANAGEMENT L T P C 
 MCSE608L   3 0 0 3 
-Pre-requisite Nil Syllabus version 
-  v.1.0 
-Course Objectives  
-1. To learn about security policies and their impacts. 
-2. To assess the framework, lifecycle and controls of security under a variety of scenarios. 
-3. To analyze the security risk calculations and mitigating them by using various policies. 
- 
-Course Outcome  
-Upon completion of this course, the student will be able to: 
-1. Understand the principles and policies of information security.  
-2. Analyze and explore the information security controls. 
-3. Assess and evaluate the risk management practices of information security. 
-4. Identify the disasters and recovering from them with appropriate decisions. 
- 
 Module:1  Information  Security Principles  6 hours 
 Information Security- Assets and Types - Threat, Vulnerability, Risk and Impact - Information Security 
 Policy Concepts - Need for Information Security. 
@@ -862,21 +737,6 @@ Approved  by Academic  Council No.67 Date 08-08-2022
 Syllabus CRYPTOSYSTEMS
 Course code CRYPTOSYSTEMS  L T P C 
 MCSE609L   2 0 0 2 
-Pre-requisite NIL Syllabus version 
-  v.1.0 
-Course Objectives  
-1. To learn the concept of Cryptosystems. 
-2. To understand the design of cryptanalytics and security algorithms. 
-3. To explore various authentication and hashing algorithms. 
- 
-Course Outcome  
-Upon completion of this course, the student will be able to: 
-1. Understand the fundamental of Cryptosystems requirements. 
-2. Identify and apply the concept of Cryptographic algorithms. 
-3. Analyze and explore the use of authentication and hashing. 
-4. Gain a deep insight into attacks and emerging security algorithms. 
-5. Explore and analyze of signature and key exchange algorithms. 
- 
 Module:1  Mathematical  Foundations  of Cryptosystems  4 hours 
 Cryptographic attacks  Modular arithmetic   Theorem,  Theorem, Extended 
 Euclidean Algorithm, Chinese Remainder Theorem - Solovay Straseen Test - The Jacobi Symbol  
@@ -970,25 +830,6 @@ ASSESSMENT
 Course code PENETRATION TESTING AND VULNERABILITY 
 ASSESSMENT L T P C 
 MCSE610L   2 0 0 2 
-Pre-requisite NIL Syllabus version 
-  v.1.0 
-Course Objectives  
-1. To comprehend the security framework related occurrences and knowledge on expected 
-protections, and countermeasures against normal vulnerabilities. 
-2. To identify security weaknesses in a network, machine, and in software. 
-3. To make students familiarization with cyber kill-chains. 
- 
-Course Outcome  
-Upon completion of this course, the student will be able to: 
-1. Identify flaws and vulnerabilities in applications, websites, networks, systems, protocols, 
-and configurations using both manual techniques and assistive tools. 
-2. Deploy and test exploits over targeting operating systems and services 
-3. Rich knowledge on legal and ethical issues related to vulnerability and penetration testing. 
-4. Ability to perform pentest on target and generate a report based on the test and determine 
-the security threats and vulnerabilities in computer networks. 
-5. Using the acquired knowledge into practice for testing the vulnerabilities and identifying 
-threats. 
- 
 Module:1  Pentesting  and Information  Security 4 hours 
 Pentester  Types of Hackers  Pentest Methodology  Pentest Types  Vulnerability Scanning  
 Vulnerability Assessments  Pentest Target and Specializations - Asset Management: CIA Triad  

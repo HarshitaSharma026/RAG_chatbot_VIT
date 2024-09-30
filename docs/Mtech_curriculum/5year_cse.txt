@@ -182,26 +182,6 @@ nLTPJCredits
 Syllabus Advanced C Programming
 CSE2010 Advanced C Programming L T  P J C 
   2 0 2 0  3 
-Pre-requisite Nil Syllabus version 
-  1.0 
-Course Objectives: 
-1. In depth understanding of storage classes, memory allocation and pointer manipulation. 
-2. High level and low level organization of files. 
-3. Explore the power of macros and preprocessor directives.  
- 
-Expected Course Outcome: 
-At the end of this course students will be able to: 
-Learn various control structures and derived data types for solving real world problems using 
-user defined functions. 
-Explore dynamic memory allocations strategies and user defined data types. 
-Realize the features of various Input and Output methods including files. 
-Idealize the power of preprocessor directives and recognize programming methods 
-Able to modularize the programming using various input, output, mathematical and utility 
-functions in C and unix system interfaces. 
-Able to design the software in c using features of graphics, embedded programming 
-concepts. 
-Apply the learned concepts and design algorithmic solutions for the real world problems. 
- 
 Module:1  Control Structures, Functions and Pointer 3 hours 
 Review of C fundamentals : Data types, Operators and Expressions, Control structures, Arrays, 
 Functions, String, Pointers and Structures.  
@@ -249,7 +229,6 @@ basic embedded c programming. Software development using c: Building a wind ows 
 skeleton, software engineering using c, efficiency, porting programming.     
  
 Module:8  Contemporary issues 2 hours 
- 
  Total Lecture hours:  30 hours 
 Text Book(s) 
 1. Byron Gottfried and JitenderChhabra , “Programming with C (Schaum's Outlines Series)”, 
@@ -293,52 +272,12 @@ structures (with and without pointers) 6 hours
 Total Laboratory Hours  30 hours 
 Recommended by Board of Studies 09-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 789
+
+
 Syllabus Principles of Database Systems
 CSI1001 Principles of Database Systems L  T P J C 
-  2 0 2 0  3 
-Pre-requisite  Syllabus version 
-  1.0 
-Course Objectives: 
-1. To understand the basic concepts of DBMS and ER Modeling.  
-2. To comprehend the concepts normalization, query optimization and relational algebra. 
-3.To apply the concurrency control, recovery, security and indexing for the existent 
-domain problems.  
-Expected Course Outcome: 
-1.Acquire a good understanding of the architecture and functioning of database 
-management systems  
-2. Ability to construct an ER model, derive the relational schemas from the model  
-3. Analyze and improve a database design by normalization.  
-4.Ability to associate the basic database storage structure and access techniques including B 
-Tree and B+ Tress 
-5. Analyze the basics of query evaluation and heuristic query optimization techniques. 
-6. Learn concepts of concurrency control for the desirable database problem. 
-7. Analyze the fundamental concepts of recovery mechanisms and learn the recent trends in 
-database. 
+  2 0 2 0  3  
 Module:1  DATABASE SYSTEMS CONCEPTS AND 
 ARCHITECTURE 4 hours      
 Need  for  Database  Systems   Characteristics  of  Database Approach  Actors in DBMS-  
@@ -412,36 +351,12 @@ Total Laboratory Hours  30  hours
 Mode of assessment: Assessment Examination, FAT Lab Examination 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 810
+
+
 Syllabus Operating System Principles
 CSI1002  Operating System Principles L  T P J C 
   2 0 2 0  3 
-Pre-requisite  Syllabus version 
-  1.0 
-Course Objectives: 
-1. To introduce Operating system concepts, designs and provide the skills required to implement 
-the services. 
-2. To understand the structure and organization of the file system. 
-3. To understand what a process is and how processes are synchronized and scheduled. 
-4. To understand different approaches of memory management, system call for managing 
-process and file system. 
-Expected Course Outcome:  
-Upon completion of the course, the students will be able to 
-1. Gain extensive knowledge on principles and modules of operating systems 
-2. Interpret the evolution of OS functionality, structures, layers and different system calls to find 
-the stages of various process states. 
-3. Design a model scheduling algorithm to compute various scheduling criteria. 
-4. Apply and analyze communication between inter process and synchronization techniques. 
-5. Implement page replacement algorithms, memory management and to apply the file system 
-techniques. 
-6. Representing virtualization and demonstrating the various Operating system tasks and the 
-principle algorithms for enumerating those tasks. 
 Module:1 Introduction 4 hours 
 Computer-System Organization, Computer-System Architecture, Operating- System Structure 
 (monolithic, layered, modular, micro-kernel models), Operating-System Operations, Operating-
@@ -503,37 +418,12 @@ Total Laboratory Hours  30 hours
 Mode of evaluation: 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 812
+
+
 Syllabus Formal Languages and Automata Theory 
 CSI1003 Formal Languages and Automata Theory L  T P J C 
-  3 0 0 0  3 
-Pre-requisite  Syllabus version 
-  1.0 
-Course Objectives: 
-The objective of this course is to learn 
-1. Types of grammars and models of automata. 
-2. Limitation of computation: What can be and what cannot be computed.  
-3. Establishing connections among grammars, automata and formal languages and realize the 
-theoretical concepts and techniques involved in the software system development  
-Expected Course Outcome: 
-After successfully completing the course the student should be able to 
-1. Model, compare and analyse different computational models 
-2. Apply rigorously formal mathematical methods to prove properties of languages, grammars 
-and automata. 
-3. Identify limitations of some computational models and possible methods of proving them. 
-4. Explain the abstract concepts mathematically with notations 
+  3 0 0 0  3  
 Module:1 Introduction to Languages and Grammars 4 hours 
 Recall on Proof techniques in Mathematics - Overview of a Computational Models - Languages 
 and Grammars - Alphabets - Strings - Operations on Languages, Overview on Automata  
@@ -580,58 +470,10 @@ Brokecole Cengage Learning , 2012.
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 Recommended by Board of Studies 16-09-2020 
 Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Proceedings of the 59th Academic Council [24.09.2020] 814
 Syllabus Computer Organization And Architecture
 CSI1004 Computer Organization And Architecture L  T P J C 
   3 0 0 0  3 
-Pre-requisite  Syllabus version 
-  1.0 
-Course Objectives: 
-1. To familiarize students with the fundamental components, architecture, register organization 
-and performance metrics of a computer. 
-2. To make students capable for understanding and analyzing the effects of each instruction 
-execution and the data path in those instruction execution.  
-3. To impart the knowledge of data representation in binary and understand implementation of 
-arithmetic algorithms in a typical computer.  
-4. To make students understand the importance of memory systems, IO interfacing techniques 
-and external storage and their performance metrics for a typical computer.  
-Expected Course Outcome: 
-1. Understand the general architecture of a computer system and the instruction based 
-architecture. 
-2. Illustrate various binary data representations for fixed and floating point data. Validate 
-efficient algorithm for arithmetic operations. 
-3. Explain the importance of hierarchical memory organization. Able to construct larger 
-memories. Analyze and suggest efficient cache mapping technique and replacement algorithms 
-for given design requirements. Get the idea about different external storage devices.  
-4. Understand the need for an interface. Compare and contrast memory mapping and IO 
-mapping techniques. Describe and Differentiate different modes of data tra nsfer. Appraise the 
-synchronous and asynchronous bus for performance and arbitration.  
-5. Understand some system performance enhancement techniques such as pipeline concepts, 
-parallel execution, etc. Introduction to some of the advanced architectures. 
 Module:1 Introduction to computer architecture 4 hours 
 Introduction to computer systems - Overview of Organization and Architecture  Components, 
 Registers and register files, Connections  Von Neumann machine (IAS Machine)  Architecture 
@@ -678,51 +520,13 @@ Computer Architecture and Organization by William Stallings, PHI Pvt. Ltd., East
 Economy Edition, Sixth Edition, 2003  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Approved by Academic Council No. 59 Date 24-09-2020  
 Proceedings of the 59th Academic Council [24.09.2020] 816
+
+
 Syllabus Software Engineering Principles
 CSI1007  Software Engineering Principles   L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-1.0 
-Course Objectives:  
-1.To introduce the essential software engineering concepts involved in developing software 
-products and components  
-2. To impart development skills  during design, implementation  and  testing of reliable software 
-systems across  various disciplines  
-3. To familiarize engineering practices and standards used in developing software products and 
-components  
-Course Outcome:  
-1. Apply the principles of Software engineering methodology during software development and 
-deployment process.  
-2. Document various processes like Requirement Engineering, Design and Testing.  
-3. Demonstrate an ability to use the techniques and tools necessary for significant application 
-domains  
-4. Apply software testing and quality knowledge and engineering methods for various 
-applications  
-5. Analyze the effectiveness of managing software projects through various techniques like 
-Estimations, Sch eduling and Quality Models  
-6. Apply benchmarking standards in process and in product.  
-Student Learning Outcomes (SLO):  6,9,13  
 Module:1  Introduction  5 hours  
 Software Engineering - Need, Importance and its characteristics - Software Process - Generic 
 process model -Prescriptive process model -specialized, unified process -Agile development -Agile 
@@ -800,27 +604,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 259
 Syllabus DIGITAL LOGIC AND COMPUTER DESIGN
 CSI2001  DIGITAL LOGIC AND COMPUTER DESIGN  L T P J C 
-  3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To acquaint students with the basic concepts of digital and binary systems.  
-2. To analyze and design combinational and sequential logic circuits for real world applications. 
-3. To apply the theoretical concepts in designing the circuits using appropriate tools and hardwares.  
- 
-Expected Course Outcomes:  
-Upon completion of the course, the students will be able to  
-1. Differen tiate and represent the different types of number system.  
-2. Express and reduce the logic functions using Boolean Algebra and K- map.  
-3. Design minimal combinational logic circuits. 
-4. Analyze the operation of medium complexity standard combinational circui ts like the encoder, 
-decoder, multiplexer, demultiplexer. 5. Analyze and Design the Basic Sequential Logic Circuits  
-6. Outline the construction of Basic Arithmetic and Logic Circuits  
-7. Acquire design thinking capability, ability to design a component wit h realistic constraints, to 
-solve real world engineering problems and analyze the results.  
-  
-Student Learning Outcomes (SLO):  2,5,14  
-   
+  3 0 2 0 4   
 Module:1  Introduction to  Digital Logic  3 hours  
 Number System, Base Conversion, Binary Codes, Complements, Logic gates, Universal gates, 
 Positive and Negative Logic  
@@ -898,27 +682,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Data Structures and Algorithm Analysis
 CSI2002 Data Structures and Algorithm Analysis L T  P J C 
 3 0 2 0
-Pre-requisite Nil Syllabus version
-1.0
-Course Objectives:
-1. To provide the knowledge about linear and non-linear data structures
-2. To provide the knowledge about algorithm analyses
-3. To focus on the design of algorithms and data structure in various domains
-4. To focus on various graph algorithms like shortest path algorithm, minimum spanning tree,
-etc.,
-5. To provide familiarity with main thrusts of work in algorithms – sufficient to give some
-context for formulating and seeking known solutions to an algorithmic problem
-Course Outcomes:
-Upon completion of the course, the students will be able to 
-1. Solve real life computing problems by using data structures
-2. Select the suitable data structures for storage and management of different types of data.
-3. Apply the algorithm design techniques to analyze, solve and evaluate computing problems.
-4. Analyze algorithms asymptotically and compute the performance analysis of algorithms with
-the same functionality.
-5. Choose an appropriate design paradigm that solves the given problem efficiently along with
-appropriate data structures.
-6. Solve complexities of problems in various domains
-Student Learning Outcomes (SLO): 1, 5, 9
 Module:1 Introduction to Data Structures 5 hours
 Introduction to Data Structure, Importance of Data Structure, Types of Data Structures, Arrays, 
 Structures, Union, Pointers, Storage Allocation: Static and Dynamic Allocation. 
@@ -981,24 +744,11 @@ Mode of assessment: CAT / Assignment / Quiz / FAT / Seminar
 Recommended by Board of Studies 05.02.2020 
 Approved by Academic Council No. 61 Date 18.02.2021 
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 264
+
+
 Syllabus Advanced Algorithms 
 CSI2003  Advanced Algorithms  L T P J C 
   2 0 2 0 3 
-Pre-requisite  CSI2002 / CSE2003  Syllabus version  
-  1.0 
-Course Objectives:  
-1. To focus on the design of algorithms in various domains  
-2. To provide a foundation for designing efficient algorithms.  
-3. To provide familiarity with main thrusts of work in algorithms - sufficient to give some 
-context for formulating and seeking known solutions to an algorithmic problem.  
-Course Outcome:  
-1. Familiarize students with different algorithmic techniques  
-2. Apply advanced methods of designin g and analyzing algorithms.  
-3. Choose appropriate algorithms and use it for a specific problem.  
-4. Understand different classes of problems concerning their computation difficulties.  
-5. Implement algorithm, compare their performance characteristics, and estimate their 
-potential effectiveness in applications.  
-Student Learning Outcomes (SLO):  1,5,14  
 Module:1  Algorithm Design Techniques  5 hours  
 Revisit of Greedy algorithms, divide -conquer, dynamic programming. Backtracking: General 
 method, N -queen problem, Subset sum, Graph coloring, Hamiltonian cycles. Branch and Bound: 
@@ -1082,22 +832,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 266
 Syllabus Advanced Database Management Systems
 CSI2004  Advanced Database Management Systems  L T P J C 
-  3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To design conceptual and physical database tuning  
-2. To comprehend the concepts of parallel, distributed, multimedia and spatial database  
-3. To learn the concepts of mobile and cloud database   
-4. To understand the concepts of security and emerging technologies in database.  
-Course Outcome:  
-1. Acquire the concept of physical database design and tuning  
-2. Learn the concept of parallel a nd distributed database  
-3. Obtain the knowledge of multimedia and spatial database  
-4. Apply the concepts of mobile and cloud database in realtime applications  
-5. Distinguish various emerging database technologies and Analyze various security issues 
-in databases  
-Student Learning Outcomes (SLO):  1, 5, 7  
+  3 0 0 0 3   
 Module:1  Database Design Techniques  5 hours  
 Review of DBMS Techniques – EER – Physical database design and tuning – Advanced 
 transaction processing and Query processing  
@@ -1145,22 +880,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Principles of Compiler Design
 CSI2005  Principles of Compiler Design  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To provide foundation for study of high performance compiler design.  
-2. To make students familiar with lexical analysis and semantic analysis.  
-3. To understand the principles of code optimization techniques.  
-Course Outcome:  
-1. Demonstrate the functioning of a Compiler and to develop a firm and enlightened grasp 
-of concepts such as higher level programming, assemblers, automata theory, and formal 
-languages, language specifications.  
-2. Develop language specifications using context free grammars (CFG).  
-3. Apply the ideas, the techniques, and the knowledge acquired for the purpose of 
-developing software systems.  
-4. Construct symbol tables and generating  intermediate code.  
-5. Obtain insights on compiler optimization  
-Student Learning Outcomes (SLO):  1,2,5 
+
 Module:1  Introduction to Compilation and Lexcial Analysis  7 hours  
 Introduction to programming language translators -Structure and phases of a compiler -Design 
 issues - Patterns - lexemes -Tokens -Attributes -Specification of Tokens - Extended Regular 
@@ -1216,33 +936,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Microprocessor and Interfacing Techniques
 CSI2006  Microprocessor and Interfacing Techniques  L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:   
-1. To acquaint students with basic concepts of block diagram, architecture, pin diagram, 
-addressing modes and instruction set of an 8086/ARM microprocessor.  
-2. To teach students syntax and semantics of assembly language programming and its 
-constructs. To facilitate students to practice sample assembly programs and develop logic 
-for other operations.  
-3. To explore specia l architectural features and various peripheral IC‟s for designing a 
-typical computing system.  
-4. To understand the need for numeric co -processor. Also develop skill on open source 
-prototyping boards for developing any smart systems for contemporary issues.  
-Course Outcome:  
-At the end of this course, students will be able to  
-1. Explain the design aspects of a typical microprocessor and illustrate its capabilities.  
-2. Practice and emulate assembly programs. To develop logic at assembly level for various 
-operations.  
-3. Understand need for and working of Stack, Interrupt Service Routines (ISRs) and 
-Procedures. Practice assembly programs for file handling and other operations using ISR.  
-4. Illustrate interfacing of basic devices viz. memory, IO, data converters and motors.  
-5. Illustrate interfacing of special purpose programmable devices viz. timer/counter, 
-interrupt controller, display controller, communication and direct memory access.  
-6. Explain the design aspects of numeric co -processor and illustrate its capabilities with 
-samp le assembly programs.  
-7. Explore open source prototyping board, sample sensors and actuators and develop smart 
-solutions for socio -economic issues.  
-Student Learning Outcomes (SLO):  2,5,9  
 Module:1  Intel x86/ARM Processors  5 hours  
 Architecture and Signal Description, Register and Memory Organization, General Bus 
 Operations and IO Addressing Capability, Special Processor Activities, Min and Max Modes, 
@@ -1335,28 +1028,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 273 
 Syllabus Data Communication and Networks
 CSI2007  Data Communication and Networks  L T P J C 
-  3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
- 
-Course Objectives:  
-1. Build an understanding of the fundamental concepts of computer networking, protocols, 
-architectures, and applications  
-2. Gain expertise in design, implement and analyze performance perspective of TCP/IP layered 
-Architecture  
-3. Deal with the major issues of the layers of the model.  
- 
-Course Outcomes:  
-1. Describe the layered structure of a typical networked architecture  
-2. Id entify and analyze the different types of network topologies, error and flow control 
-mechanisms  
-3. Design sub -netting and enhance the performance of routing mechanisms.  
-4. Compare various congestion control mechanisms and identify suitable Transport layer 
-protocol for real time applications  
-5. Identify various Application layer protocols for specific applications  
-6. Design and Implement various Network protocols  
-  
-Student Learning Outcomes (SLO):  2,5,6  
+  3 0 2 0 4  
 Module:1  Basics  of Data  Communication  and Computer  Network  5 hours  
 Definition and Uses of Computer Network, Criteria for a Data Communication Network, 
 Components of Data Communication, Classification of Computer network, Network Topology, 
@@ -1433,23 +1105,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Programming in Java 
 CSI2008  Programming in Java  L T P J C 
   3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. Understand Object Oriented Programming & Functional Programming in Java, Handling   
-Exceptions and Multithreading.  
-2. Able to perform File Handling, Manipulating Strings, Generic Programming.  
-3. Use of Java for Event Handling and Web applications using Servlets.  
-Course Outcome:  
-At the end of this course students should be able to:  
-1. Analyze the programs involving the fundamental program const ructs.  
-2. Choose the appropriate OOP technique for solving the real world problem.  
-3. Demonstrate exception handling and use of threads in Java.  
-4. Propose the use of Generic programming and file handling for different scenarios.  
-5. Explore various methods for manip ulating strings and several collections.  
-6. Choose appropriate elements to facilitate event handling and GUI programming.  
-7. Design and develop web applications using Servlets with JDBC.  
-Student Learning Outcomes (SLO):  1, 9, 14  
 Module:1  Introduction to Java Programming  
  4 hours  
 Overview of Java Language: Introduction, Java Virtual Machine, program structure, Java tokens,   
@@ -1525,23 +1180,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Cloud Computing Methodologies
 CSI3001  Cloud Computing Methodologies  L T P J C 
         3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-1.0 
-Course Objectives:  
-1. To introduce the concept of Virtualization and cloud computing  
-2. To provide students a sound foundation of the Cloud Computing enabling them to start 
-using and adopting Cloud Computing services and tools in their real life scenarios  
-3. To enable students explore some important cloud computing driven commercial systems 
-such as Google Apps, Microsoft Azure and Amazon Web Services and other businesses 
-cloud applications.  
-Course Outcome:  
-1. Analyze and study the basics of cloud computing, cloud models and its applications  
-2. Appreciate the requirements of various service paradigms  in Cloud Computing  
-3. Analyze, identify and select suitable type of virtualization  
-4. An ability to use techniques, tools, skills in a secured cloud environment  
-5. Design, implement and evaluate a cloud -based system, process, component, or program to 
-meet desired needs  
-Student Learning Outcomes (SLO):  5,9,17  
 Module:1  Introduction  5 hours  
 Overview of Computing Paradigm, Cloud Computing - NIST Cloud Computing Reference  
 Architecture, Types of Cloud Deployment Models - Private, Public, Hybrid, Agency Clouds  
@@ -1612,24 +1250,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Applied Cryptography and Network Security
 CSI3002  Applied Cryptography and Network Security  L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To learn the emerging concepts of cryptography and algorithms  
-2. To defend the security attacks on information systems using secure algorithms and 
-Authentication process  
-3. To categorize and analyze the key concepts in network and wireless security  
-Course Outcome:  
-1. Infer the need of security to introduced strong cryptosystems.  
-2. Analyze the cryptographic algorithms f or information security.  
-3. Identify the authentication schemes for membership authorization.  
-4. Identify computer and network security threats, classify the threats and develop a security 
-model for detect and mitigate the attacks.  
-5. Identify the requirements for secure communication and challenges related to the secure 
-web services  
-6. Identify the need of ethical and professional practices, risk management using emerging 
-security solutions.  
-Student Learning Outcomes (SLO):  1, 9, 18  
 Module:1  Introduction to Cryptography  4 hours  
 Security trends, Security attacks, Security mechanism, Elementary number theory, Pseudo -
 random bit generation. Basic security services:  confidentiality, integrity, availability, non -
@@ -1710,25 +1330,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Artificial Intelligence and Expert Systems
 CSI3003  Artificial Intelligence and Expert Systems  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. Ability to understand Artificial Intelligence principles and techniques  
-2. Introduce the facts and concepts of Expert system by computational model and their 
-applications  
-3. Explore the knowledge using problem solving, search methodologies and learning 
-algorithms.  
-Course Outcome:  
-On completion of this course the students will be able to  
-1. Evaluate Artificial Intelligence (AI) methods and describe their foundations.  
-2. Apply basic principles of AI in solutions that require problem solving, inference, 
-perception, knowledge representation and learning.  
-3. Analyze and illustrate how search algorithms play vital role in problem  solving  
-4. Demonstrate knowledge of reasoning and knowledge representation for solving real 
-world problems  
-5. Understand and Illustrate the construction of expert system  
-6. Discuss current scope and limitations of AI and societal implications.  
-Student Learning Outcomes (SLO):  1, 7, 17  
+
 Module:1  Introduction to Artificial Intelligence  5 hours  
 Overview of Artificial Intelligence –History of AI – Agents and environment – concept of 
 rationality - Classification of AI systems with respect to environment.  
@@ -1779,23 +1381,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Advanced Server Side Programming
 CSI3023  Advanced Server Side Programming   L T P J C 
   2 0 2 0 3 
-Pre-requisite  NIL  Syllabus Version  
-  1.0 
-Course Objectives:  
-1. To understand different types of server -side programming and technologies like 
-Servlets, JSP, ASP, EJB, JSF, PHP, Node.  
-2. Understand the various server -side Spring Frameworks, REST, SOAP, ORM, 
-Security.  
-Course Outcome:  
-After successfully completing the course the student should be able to  
-1. Understand advanced server -side programming concepts  and use technologies like 
-Servlets, JSP, JSF and ASP  
-2. Adopt conveniently, ORM technique to bridge object and relational models of data.  
-3. Develop, real world API and Services using SOAP and REST.  
-4. Create application using Node.js and JMS API that pro vides the facility to create, send 
-and read messages.  
-5. Efficiently create fast, secure, and responsive web applications using Spring Framework.  
-Student Learning Outcomes (SLO):  5,8,20  
 Module:1  Servlets, JSP, JSF and ASP  6 hours  
 JSP, JSTL, Spring Tag Libraries, Spring Controllers , Template & Layout, Spring Form 
 Validations(Standard and Custom),jQuery, CSS3, Web Descriptor Language, AJAX, Web Socker 
@@ -1859,26 +1444,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Software Application Architecture
 CSI3024  Software Application Architecture  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the architectures, frameworks, design patterns and its application 
-architecture.  
-2. To understand the Core Java Design patterns, GOF, JEE Blue Print patterns and 
-principles.  
-3. Monolithic, Need of Micro services Architecture, MS implementation, MS tools and 
-technologies.  
-4. To understand what is an API, APIs classification and types, Technology specific APIs, 
-API Tools.  
-Course Outcome:  
-Upon Completion of the course, the students able to  
-1. Design an application components using the appropriate design patterns (where, when, 
-how and why).  
-2. Understand the difference between the Monolithic and Microservices architecture with 
-patterns.  
-3. Design an applications using Microservices architecture based tools and technologies.  
-4. Analysis APIs for various types of services using different technologies  
-Student Learning Outcomes (SLO):  2, 5,17  
 Module:1  Design Patterns  4 hours  
 Architecture Styles and Patterns, Design Patterns and Principles, Frameworks, Architecture, 
 Enterprise Architecture, Various Architecture Design pattern, Patterns History, MVC Design 
@@ -1967,22 +1532,7 @@ Syllabus Application Development and Deployment
 CSI3025  Application Development and Deployment 
 Architecture  L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand various process & methodologies to be followed during development life 
-cycle  
-2. To design the deployment architecture and preparing for the release management plan.  
-3. To use the various tools and framework associated with development and deployment of 
-the applications.  
-Course Outcome:  
-On completion of the course, the students able to:  
-1. Understand the complexities in setting up an Enterprise grade development and 
-deployment of architecture.  
-2. Analyse and make a plan for release management  
-3. Design and rollout Deployment Architecture  
-4. Analyze various tools and framework associated with development and d eployment.  
-Student Learning Outcomes (SLO):  2, 4, 17  
+
 Module:1  Development Life Cycle and Processes  4 hours  
 Waterfall, Agile & Scrum Methodologies, Iterative Development, Development Productivity 
 Tools such as Accelerators, Reusable Components, Centralized Library Repository, Application 
@@ -2065,23 +1615,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Machine Learning
 CSI3026  Machine Learning   L T P J C 
   2 0 2 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives:  
-1. Understand the basics and mathematical concepts of machine learning algorithms.  
-2. Choose and apply appropriate machine learning models for real world application.  
-3. Assess the performance of algorithms and to provide solution for various real -world 
-problems.  
-Course Outcome:  
-1. Understand the characteristics of machine learning strategies.  
-2. Apply suitable supervised learning methods to suitable problems.  
-3. Enhance the performance of learning by identifying and integrating more than one 
-machine learning  technique.  
-4. Handle unknown pattern by creating suitable probabilistic and unsupervised learning 
-models.  
-5. Choose appropriate prepro cessing methods to data before applying to real -world 
-applications and to evaluate the performance and analyse the results.  
-Student Learning Outcomes (SLO):  7, 9, 17  
 Module:1  Introduction To Machine Learning  3 hours  
 Introduction, Examples of Various Learning Paradigms, Perspectives and Issues, Version 
 Spaces, Finite and Infinite Hypothesis Spaces, PAC Learning, VC Dimension.  
@@ -2147,24 +1680,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Front End Design and Testing
 CSI3029  Front End Design and Testing  L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand JavaScript based MVC Framework, UI Componentization and steps to 
-develop a scalable UI application.  
-2. To acquire knowledge on Reactive Programming, Responsive web Design, Multi Device 
-Compatible applications (RWD), Native Mobile Apps.  
-Course Outcome:  
-1. Apply HTML, CSS to create and design websites.  
-2. Apply JavaScript effectively to create interactive and dynamic websites.  
-3. Design an d Develop Scalable Web Apps using SPA framework - AngularJS  
-4. Develop routing and servicing applications.  
-5. Apply supporting functions for logging, exception handling and performance 
-engineering.  
-6. Implement Responsive web design using Bootstrap and multi device  compatible App 
-with native mobile support.  
-7. Design and perform unit testing.  
-Student Learning Outcomes (SLO):  5, 7, 9  
 Module:1  HTML and CSS  5 hours  
 HTML5 – Form elements, Input types and Media elements, CSS3 - Selectors, Box Model, 
 Backgrounds and Borders, Text Effects, Animations, Multiple Column Layout, User Interface  
@@ -2234,22 +1749,6 @@ Syllabus Fundamentals of Electrical and Electronics Engineering
 EEE1024 Fundamentals of Electrical and Electronics 
 Engineering L T P J C 
   2 0 2  0 3 
-Pre-requisite Nil Syllabus version 
-  1.0 
-Course Objectives: 
-1] To teach the simple problem of DC and AC circuits. 
-2] To study the important concepts of Analog and digital electronics. 
-3] To measure and interpret data 
-Expected Course Outcome: 
-On the completion of this course the student will be able to:  
-1] Solve simple DC circuits using mesh and nodal analysis. 
-2] Describe the RLC components with sinusoidal sources. 
-3] Design of combinational circuits and synthesis of logic circuits 
-4] Utilize the basic concepts of semiconductor devices and circuits 
-5] Interpret the architecture of microprocessor & microcontrollers 
-6] measure the various signals using the sensors 
-7] Discuss the overview of communication systems.  
-8] Design and Conduct experiments, as well as analyze and interpret data 
 Module:1 Fundamentals of DC circuits: 5 hours 
 Mesh current analysis, Thevenin's and Maximum power transfer theorem.  
 Module:2  Fundamentals of AC Circuits: 4 hours 
@@ -2331,27 +1830,6 @@ Proceedings of the 59th Academic Council [24.09.2020] 818
 Syllabus Discrete Mathematics and Graph Theory
 MAT1014  Course title  L T P J C 
  Discrete Mathematics and Graph Theory  3 2 0 0 4 
-Pre-requisite  None  Syllabus  Version  
-   1.1 
-Course Objectives (CoB): 1,2,3  
-• To address the challenge of the relevance of lattice theory, coding theory and 
-algebraic structures to computer science and engineering problems.  
-• To use number theory, in particular congruence theory to cryptography and 
-computer science problems.  
-• To understand the concepts of graph theory and related algorithm concepts.   
- 
-Expected Course Outcome (CO): 1,2,3,4,5  
-At the end of this course, students are expected to  
-1. form truth tables, proving results by truth tables, finding normal forms,  
-2. learn proof techniques and concepts of inference theory  
-3. understand the concepts of groups and application of group codes, use Boolean 
-algebra for minimizing Boolean expressions.  
-4. learn basic concepts of graph theory, shortest path algorithms, concepts of trees and 
-minimum spanning tree and graph colouring, chromatic number of  a graph.  
-5. Solve Science and Engineering problems using Graph theory.  
- 
-Student Learning Outcomes (SLO):  1, 2, 7  
- 
 Module:1  Mathematical Logic and Statement Calculus   6 hours  
 Introduction -Statements and Notation -Connectives –Tautologies –Two State Devices and 
 Statement logic -Equivalence - Implications –Normal forms - The Theory of Inference for the 
@@ -2417,23 +1895,6 @@ Approved by Academic Council  No. 47  Date  05-10-2017
 Syllabus Linear Algebra
 MAT102 2 Linear Algebra LTPJC
 30003
-Pre-requisite MAT1011 Syllabus  Version
-1.0
-Course Objectives :
-[1] Understanding basic concepts of linear algebra to illustrate its power and utility through
-applications to computer science and Engineering.
-[2] apply the concepts of vector spaces, linear transformations, matrices and  inner product
-spaces in engineering.
-[3] solve problems in cryptography, computer graphics and wavelet  transforms
-Course Outcome :
-At the end of this course the students are expected to learn
-[1] The abstract concepts of matrices and system of linear equations using decomposition
-methods
-[2] The basic notion of vector spaces and subspaces
-[3] Apply the concept of vector spaces using linear transforms which is used in computer
-graphics and inner product spaces
-[4] Applications in image processing.
-[5] Applications of inner product spaces in cryptography
 Module:1 System of  Linear Equations : 6 hours
 Rank of matrix -Gaussian elimination and Gauss Jordan methods - Elementary matrices-
 permutation matrix - inverse matrices - System of linear equations - LU factorizations.
@@ -2480,26 +1941,6 @@ Proceedings of the 63rd Academic Council [23.09.2021] 907
 Syllabus Advanced Data Visualization Techniques
 CSI3005  Advanced Data Visualization Techniques  L T P J C 
   3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the various types of data, apply and evaluate the principles of data 
-visualization      
-2. Acquire skills to apply visualization techniques to a problem and its associated 
-dataset  
-3. To apply structured approach to create effective visualizations   
-4. To learn how to bring valuable insight from the massive dataset using visualization  
-5. To learn how to b uild visualization dashboard to support decision making  
-6.To create interactive visualization for better insight using various visualization tools   
-Course Outcome:  
- After successfully completing the course the student should be able to  
-1.  Identify the different data types, visualization types to bring out the insight.    
-2.  Relate the visualization towards the problem based on the dataset to analyze and bring out 
-valuable insight on large dataset.  
-3.  Design visualization dashboard to support the decisi on making on large scale data.   
-4.  Demonstrate the analysis of large dataset using various visualization techniques and tools.  
-  
-Student Learning Outcomes (SLO):  4, 7, 12  
 Module:1  Introduction to Data Visualization and Visualization 
 techniques  6 hours  
 Overview of data visualization - Data Abstraction - Task Abstraction - Analysis: Four Levels 
@@ -2561,28 +2002,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Soft Computing Techniques
 CSI3006 Soft Computing Techniques L  T P J C 
 3 0 0   
-Pre-requisite Nil Syllabus version  
-1.0 
-Course Objectives: 
-1. To introduce soft computing concepts and techniques and foster their abilities in
-designing appropriate technique for real-world problems.
-2. To provide adequate knowledge of non-traditional technologies and fundamentals of
-artificial neural networks, backpropagation networks, fuzzy sets, fuzzy logic, genetic
-algorithms in solving social and engineering problems.
-3. To provide comprehensive knowledge of swarm intelligence and rough set concepts
-Course Outcome: 
-The student will be able 
-1. Apply neural networks, advanced AI techniques of swarm intelligence and rough set
-concepts for solving different engineering problems
-2. Identify and describe soft computing techniques and build supervised learning and
-unsupervised learning networks.
-3. Apply fuzzy logic and reasoning to handle uncertainty and solve various engineering
-problems.
-4. Apply genetic algorithms to combinatorial optimization problems.
-5. Evaluate and compare solutions by various soft computing approaches for a given
-problem.
-6. Use existing software tools to solve real problems using a soft computing approach
-Student Learning Outcomes (SLO): 1, 7, 14 
 Module:1 Introduction to Soft Computing 3 hours  
 Overview of Soft Computing, Soft Vs Hard computing, Components of soft computing, 
 Introduction to neural networks, Fuzzy logic, Genetic algorithms. Artificial neural networks Vs 
@@ -2641,22 +2060,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 297
 Syllabus Advanced Python Programming
 CSI3007 Advanced Python Programming LT P J C 
 2 0 4 0 4 
-Pre-requisite Syllabus version  
-1.0 
-Course Objectives: 
-1. To be able to apply advanced python programming concepts for industry standard
-problems.
-2. To perform advanced Data Preprocessing tasks like Data Merging and Mugging
-3. To be able to develop powerful Web-Apps using Python
-Course Outcome: 
-1. Understand the nuances of Data Structures
-2. Derive an understanding of a classes and objects and their potential
-3. Gain knowledge of multithreading concepts and implementing the same
-4. Appreciate the difference between different data processing techniques
-5. Learn to apply Python features for Data Science
-6. Get an insight into Metrics Analysis
-7. Develop web-apps and build models for IoT
-Student Learning Outcomes (SLO): 1, 5, 14 
 Module:1 Data Structures 4 Hours       
 Problem solving using Python Data Structures : LIST, DICT, TUPLES and SET- Functions 
 and Exceptions  Lamda Functions and Parallel processing  MAPS  Filtering -  Itertools  
@@ -2721,23 +2124,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 299
 Syllabus Internet of Everything
 CSI300 8 Internet of Everything  L T P J C 
   3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. Understand the definition and significance of the Internet of Things.  
-2. Discuss the architecture, operation, communication protocols, and business benefits of 
-an IoT solution.  
-3. Hands on experience with microcontroller IDE with Wi -Fi module to connect with a 
-variety of sensors to collect the data.  
-Course Outcome:  
-1. Identify the IoT networking components with respect to OSI layer.  
-2. Design and develop IoT based applications.  
-3. Select the suitable communication protocol and software for the application.  
-4. Develop an application using microcontroller IDE with Wi -Fi module  in order to 
-comm unicate with various cloud services.  
-5. Analyze the data collected from sensors using machine learning approaches with the 
-support of python programming.  
-Student Learning Outcomes (SLO):  2,5,6  
 Module:1  Introduction to Internet of Things  5 Hours  
 Introduction to IoT - Sensing, Actuation, Networking basics, Communication protocols, Sensor 
 networks, M2M Communications, IoT characteristics. IoT Architecture - IoT functional blocks, 
@@ -2825,22 +2211,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Advanced Wireless Networks
 CSI3009  Advanced Wireless Networks  L T P J C 
 3 0 2 0 4 
-Pre-requisite  Syllabus version  
-1.0 
-Course Objectives:  
-1.To study about advanced wireless network, LTE, 4G and Evolutions from LTE to
-LTEA.
-2.To study about wireless IP architecture, Packet Data Protocol and LTE network
-architecture.
-3.To study about wireless protocols, Mobility Management and Wireless Security.
-Course Outcome:  
-1.Learn the latest 4G networks and LTE
-2.Understand about the wire less standards and design.
-3.Understand about the wireless network architecture and its concepts.
-4.Learn wireless Technologies and protocols
-5.Understand about the mobility management and cellular network.
-6.Learn the security concepts of wireless ne tworks and also the recent trends.
-Student Learning Outcomes (SLO):   2, 5  6  
+
 Module:1  Introduction  7 hours  
 Introduction to 1G/2G/3G/4G Terminology. Evolution of Public Mobile Services -Motivation 
 for IP Based Wireless Networks -Requirements and Targets for Long Term Evolution (LTE) - 
@@ -3007,25 +2378,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 305
 Syllabus Computer Graphics and Multimedia
 CSI3011  Computer Graphics and Multimedia  L T P J C 
-  3 0 2 0 4 
-Pre-requisite  NIL  Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the fundamental concepts of graphics and multimedia.  
-2. To acquire and implement the learning relate to 2D and 3D concepts in graphics 
-programming.  
-3. To comprehend the elementary 3D modeling and rendering techniques.  
-4. To analyze the fundamentals of multimedia towards its representations, perceptions, 
-communication and applications.  
- 
-Course Outcome:  
-1. Interpret the basic components of the graphics system and the color models.  
-2. Design and demonstrate the basic graphical output primitives.  
-3. Perform two and three dimensional transformations and viewing  
-4. Describe and apply methods to model and render 3D objects.  
-5. Identify and des cribe the function of the general skill sets in the multimedia systems..  
-6. Expand the knowledge about the multimedia and its communication standards.  
-Student Learning Outcomes (SLO):  2,9,11  
+  3 0 2 0 4  
 Module:1  Graphical Concepts and Display Systems     6   hours  
  Graphics Systems: Video Display Devices – Types – Raster -Scan Systems and Random -Scan 
 Systems – Input Devices – Hard -Copy Devices – Graphics Software; color models.  
@@ -3093,23 +2446,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Distributed Systems
 CSI3012  Distributed Systems  L T P J C 
   3 0 2 0 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To provide students with contemporary knowledge in distributed systems  
-2. To equip students with skills to analyze and design distributed applications.  
-3. To provide master skills to measure the performance of distributed synchronization 
-algorithms  
- 
-Course Outcome:  
-1. Elucidate the foundations and issues of distributed systems  
-2. Understand the various synchronization issues an d global state for distributed systems.  
-3. Implement the Mutual Exclusion and Deadlock detection algorithms in distributed systems  
-4. Explore the agreement protocols and fault tolerance mechanisms in distributed systems.  
-5. Describe the features of peer -to-peer and distributed shared memory systems  
-6. Demonstrate the concepts of Resource and Process management and synchronization 
-algorithm  
-Student Learning Outcomes (SLO):  2,5 
 Module:1  Introduction  6 hours            
 Introduction to Distributed Systems - Examples  –Trends in Distributed Systems – Focus on 
 resource  sharing – System Models – Networking and Internetworking – Inter process 
@@ -3181,24 +2517,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Blockchain Technologies
 CSI3013  Blockchain Technologies  L T P J C 
   3 0 0 4 4 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To provide a conceptual understanding on the function of Blockchain.  
-2. To discuss the functional elements of the bitcoin and its mining process.  
-3. To introduce the Ethereum and solidity platform  
-4. To understand how blockchain is applied to different aspects of the business.  
-5. To describe current Hyperledger projects and cross -industry use cases  
-Course Outcome:  
-At the end of this course, students will be able to:  
-1. Understand the basics of cryptographic hash functions and blockchain  
-2. Demonstrate the functional blocks of the bitcoin and cryptocurrencies  
-3. Describe the consensus algorithms and its challenges  
-4. Design the distributed application using Ethereum platform  
-5. Construct the solution by design and development of the smart contract using solidity  
-6. Identify and select suitable blockchain based applications  
-7. Analyze the challenges and issues in blockchain app lications  
-Student Learning Outcomes (SLO):  1, 6, 7 
 Module:1  Blockchain Foundations  7 hours  
 Blockchain &  Distributed Ledger Technology (DLT) - Elements of Distributed Computing: 
 Distributed Database, Two General Problem, Byzantine General problem and Fault Tolerance, 
@@ -3261,24 +2579,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Software Verification and Validation 
 CSI3014  Software Verification and Validation  L T P J C 
   3 0 0 0 3 
-Pre-requisite  NIL  Syllabus version  
-  1.0 
-Course Objectives:  
-1. To introduce the essential software engineering concepts involved  
-2. To impart skills in the design and implementation of efficient software systems across 
-disciplines  
-3. To familiarize engineering practices and standards used in developing software products 
-and components  
-Course Outcome:  
-1. Apply the principles of the engineering processes in software development.  
-2. Demonstrate software project management activities such as planning, scheduling and 
-Estimation.  
-3. Model the requirements for the software projects.  
-4. Design and Test the requirements of the software projects.  
-5. Implement the software development processes activ ities from requirements to 
-validation and verification.  
-6. Apply and evaluate the standards in process and in product.  
-Student Learning Outcomes (SLO):  1,5,6 
 Module:1  Overview of Software Engineering       5 hours  
 Introduction to Software Engineering - Software Development Life Cycle -Process Models in 
 Software Testing  
@@ -3331,30 +2631,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Software Project Management
 CSI3015  Software Project Management  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the importance of software project management and identify main stages 
-and stakeholders of a software project  
-2. To explain the purpose of a project’s planning documents and construct the scope 
-statement and the work breakdown structure  
-3. To portray how the software can assist in project management and articulate what is 
-involved in quality assurance, planning and control  on projects  
-4. To demonstrate RUP, Microsoft project 2010 & open source software project 
-management  
-tools  
-Course Outcome:  
-At the end of course student should be able to  
- 
-1. Actively participate or successfully manage a software development project by applying  
-project management concepts  
-2. Demonstrate knowledge of project management terms and techniques  
-3. Analyze the Steps involved in analyzing the Software projects and concepts to meet the 
-estimation of the software Projects.  
-4. Work on Microsoft project, IBM RUP & o pen source software project management 
-tools.  
-5. Estimate the organizing team based on industry exposure.  
-Student Learning Outcomes (SLO):  2,12,13  
 Module:1  Introduction to Project Management  7 hours  
 Importance of software project management - Stages of Project - The Stakeholder of Project - 
 Project Management Framework - Software Tools for Project Management – Microsoft Project 
@@ -3412,19 +2688,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Robotics: Machines and Controls 
 CSI3016  Robotics: Machines and Controls   L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To introduce the parts of robots, basic working concepts and types of robots  
-2. To make the students familiar with machine operations using robots  
-3. To discuss the applications and implementation of robot control systems  
-Course Outcome:  
-1. Explain the working principle of robots  
-2. Analyze the purpose of various sensor in robot for automation  
-3. Design and develop the robotic arm to handle the materials and machines  
-4. Understand the robot programming for control engineering  
-5. Conduct and design the experiments for various robot control operations  
-Student Learning Outcomes (SLO):  1,9,14  
 Module:1  Introduction  3 hours  
 History of robots, robotics and programmable automation, laws of robotics, anatomy of robots, 
 specifications of robots, Applications of robots, machine intelligence and flexible automation 
@@ -3475,25 +2738,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Advanced Data Compression Techniques
 CSI3019  Advanced Data Compression Techniques  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. Learn the fundamental of advanced data compression techniques  
-2. To introduce students to basic applications, concepts, and techniques of Data 
-Compression.  
-3.  To develop skills for using recent data compression software to solve practical problems 
-in a variety of disciplines.  
-4. To gain experience doing independent study and research.  
- 
-Course Outcome:  
-1. Understand the importance of D ata compression  
-2. Comprehend the idea of lossless and lossy compression  
-3. Understand the most common file formats for image, sound and video  
-4. Develop a reasonably sophisticated data compression application.  
-5. Select methods and techniques appropriate for the task  
-6. Develop the methods and tools for the given task  
- 
-Student Learning Outcomes (SLO):  2, 9, 17  
 Module:1  Introduction  7 hours  
 Introduction to Compression techniques – Modeling and coding – Mathematical preliminaries 
 for Lossless compression – Entropy – Information Value – Data Redundancy - Application of  
@@ -3540,22 +2784,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Advanced Graph Algorithms
 CSI3020  Advanced Graph Algorithms  L T P J C 
   3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the fundamental concepts and techniques of Graphs.  
-2. To comprehend the concepts of various graph algorithms  
-3. The module covers advanced material on graph algorithms with emphasis on 
-efficient algorithms, and explores their use in a variety of application areas.  
-4. To understand the mathematical approaches of solving graph algorithms with the 
-help of fundamental data structures . 
-Course Outcome:  
-1. Acquire the concept of conceptual and operations, properties on graphs.  
-2. Learn the concept of various graph algorithms and its uses.  
-3. Obtain the knowledge  of Exponential algorithm   
-4. Analyze the graph classes and parameter Algorithm.  
-5. Implement the concepts approximation on various graph algorithms.  
-Student Learning Outcomes (SLO):  1, 5, 9  
 Module:1  Basics of Graph and Operations  4 hours  
 Fundamental concepts - basic definitions of g raphs  and digraphs -Subgraphs and other graph 
 types -Representing graphs as matrices - Graph transformation - operations, properties, proof 
@@ -3609,22 +2837,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Advanced Computer Architecture
 CSI3021  Advanced Computer Architecture  L T P J C 
   3 0 0 0 3 
-Pre-requisite  CSI1004  Syllabus version  
-  1.0 
-Course Objectives:  
-1. Introduce the recent trends in the field of Computer Architecture and identify 
-performance related parameters.  
-2. Apply fundamental techniques to speed -up program execution.  
-3. Expose the different types of multicore architectures and Programming.  
-Course Outcome:  
-1. Understand the organization and performance characteristics of modern compu ter 
-architectures.  
-2. Interpret techniques to improve processor’s ability to exploit Instruction Level 
-Parallelism.  
-3. Point out how data level and thread level parallelisms is exploited in architectures.  
-4. Identify characteristics and challenges in multiprocessor  and multicore architectures.  
-5. Develop parallel programming for computer problems.  
-Student Learning Outcomes (SLO):  2, 12, 14  
 Module:1  Introduction to Advanced Computer Design  5 hours                            
 Fundamentals of Computer Design - Fundamentals of RISC, CISC architecture - Data path 
 implementation -Single cycle Data path - Multi cycle data path -Multi cycle Instruction execution - 
@@ -3676,28 +2888,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Cyber Security and Application Security
 CSI3022  Cyber Security and Application Security   L T P J C 
   3 0 2 0 4 
-Pre-requisite  NIL  Syllabus version  
-  1.0 
-Course Objectives:  
-1. To learn the concepts of number theory, Information and Network Security  
-2. To learn the basics of cryptography and cryptographic techniques.  
-3. To familiarize with various cyber threats, attacks, vulnerabilities, defensive mechanisms, 
-security policies, practices  
-4. To learn how to implement application level security  
- 
- 
-Course Outcome:  
-After successfully completing the cours e the student should be able to  
-1. Know the fundamental mathematical concepts related to security  
-2. Know the basic concepts of information and network security  
-3. Understand and implement the cryptographic techniques and know the real time applications 
-of various  cryptographic techniques.  
-4. Know fundamentals of cybercrimes and the cyber offenses.  
-5. Understand the cyber threats, attacks, vulnerabilities and its defensive mechanisms  
-6. Design suitable security policies  and know about the industry practices  
- 
-Student Learning Outcomes (SLO):  1,5,9 
-  
 Module:1  Number Theory Basics  5 hours  
 Finite Fields and Number Theory: Algebraic Structures(Groups) -Modular arithmetic – GCD 
 using Euclidian Algorithm – Primality Testing – Fermat’s and Euler’s theorem –Chinese  
@@ -3767,20 +2957,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus R Programming
 CSI3027  R Programming   L T P J C 
   2 0 2 0 3 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives:  
-1. To understand the fundamentals of R programming.  
-2. To comprehend the various functions and structures of R.  
-3. To design systems based on graphics and analytics using R.  
-Course Outcome:  
-1. Understand the basics of R programming in terms of vectors, matrices and lists.  
-2. Understand the working of data frames, functions and tables using R.  
-3. Apply various programming structures in solving statistical problems.  
-4. Design Systems by interfacing R with other programming languages.  
-5. Design and implement models to perform analytics on the given dataset.  
-6. Apply the R programming from a statistical perspective over the real world  problems.  
-Student Learning Outcomes (SLO):  1, 7,14  
 Module:1  Vectors in R  4 hours  
 Introduction to R – R Data Structures – Help functions in R – Vectors – Scalars – Declarations 
 – recycling – Common Vector operations – Using all and any – Vectorised operations – NA and 
@@ -3851,22 +3027,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 
 Syllabus Deep Learning
 CSI3028  Deep Learning  L T P J C 
-3 0 0 0 3 
-Pre-requisite  Nil Syllabus version  
-1.0 
-Course Objectives:  
-1.To present the basic ideas, mathematical and computational models of neural network.
-2.To under the concepts of developing various deep learning models
-3.To provide the knowledge to apply the deep learning models in various real world
-applications.
-Course Outcome:  
-1.Recognize the characteristics and role of deep learning models .
-2.Understand di fferent deep learning models and develop the transfer learning models for
-solving real -world problems.
-3.Design the sequence models for analyzing the data for variety of problems.
-4.Design the deep models to encode the original data and reconstruct data.
-5.Gener ate the generative models for unsupervised learning task.
-Student Learning Outcomes (SLO):  2,6,9  
+3 0 0 0 3  
 Module:1  Basics of Machine Learning 5 hours  
 Learning Algorithms, Building machine learning algorithm, Biological Neuron, Neural Network, 
 Linear separability, Linear perceptron, Stochastic Gradient Descent, Multilayer Perceptron, Back -
@@ -3921,31 +3082,6 @@ Equations
 MAT2002  Applications of Differential and Difference 
 Equations  L T P J C 
   3 0 2 0 4 
-Pre-requisite  MAT1011 - Calculus  for Engineers  Syllabus Version  
-  1.0 
-Course Objectives  
-The course is aimed at  
- [1] Presenting the elementary notions of Fourier series, which is vital in practical harmonic 
-analysis  
-[2] Imparting the knowledge of eigenvalues and eigen vectors of matrices and the transform 
-techniques to solve linear systems, that arise in sciences an d engineering  [3] Enriching the 
-skills in solving initial and boundary value problems  
-[4] Impart the knowledge and application of difference equations and the Z -transform in 
-discrete systems, that are inherent in natural and physical processes  
- 
-Course Outcome  
-At the end of the course the student should be able to  
- [1] Employ the tools of Fourier series to find harmonics of periodic functions from the 
-tabulated values  
-[2] Apply the concepts of eigenvalues, eigen vectors and diagonalisation in linear sy stems  
-[3] Know the techniques of solving differential equations  
-[4] understand the series solution of differential equations and finding eigen values, eigen 
-functions of Strum -Liouville’s problem  
-[5] Know the Z -transform and its application in population d ynamics and digital signal 
-processing  
-[6]demonstrate MATLAB  programming for engineering problems  
- 
-Student Learning Outcomes (SLO):  1, 2,  9  
 Module:1  Fourier series:  6 hours  
 Fourier series - Euler’s formulae - Dirichlet’s  conditions - Change of interval - Half range 
 series – RMS value – Parseval’s identity – Computation of harmonics  
@@ -4030,26 +3166,6 @@ Syllabus Foundations of Data Science
 MDI3002  Foundations of Data Science  L T P J C 
   
  3 0 0 0 3 
-Pre-requisite  NIL  Syllabus version  
-  1.0 
-Course Objectives:  
-1. To provide fundamental knowledge on data science and to understand the role of 
-statistics and optimization to perform mathematical operation in the field of data 
-science.  
-2. To understand the process of handling heterogeneous data and visualize them for 
-better understanding.  
-3. To gain the fundamental knowledge on various open source data science tools and 
-understand their process of applic ations to solve various industrial problems.  
-Course Outcome:  
-1. Ability to obtain fundamental knowledge on data science.  
-2. Demonstrate proficiency in statistical analysis of data.  
-3. Develop mathematical knowledge and study various optimization techniques to 
-perform data science operations.  
-4. Handle various types of data and visualize them using through programming for 
-knowledge representation.  
-5. Demonstrate numerous open source data science tools to solve real -world problems 
-through industrial case studies.  
-Student  Learning Outcomes (SLO):  1,5,14  
 Module:1  Basics of Data Science  5 hours  
 Introduction; Typology of problems; Importance of linear algebra, statistics and optimization 
 from a data science perspective; Structured thinking for solving data science problems, 
@@ -4117,17 +3233,6 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 Syllabus Engineering Chemistry
 CHY1701 Engineering Chemistry L T P J C 
 3 0 2 0 4 
-Pre-requisite Chemistry of 12th standard or equivalent  Syllabus version  
-  1.0 
-Course Objectives: 
-To impart technological aspects of applied chemistry  
-To lay foundation for practical application of chemistry in engineering aspects  
-Expected Course Outcome: 
-Students will be familiar with the water treatment, corrosion and its control, engineering 
-applications of polymers, types of fuels and their applications, basic aspects of 
-electrochemistry and electrochemical energy storage devices 
- 
-Student Learning Outcomes (SLO): 1,2,14 
 Module:1 Water Technology 5 hours SLO: 1,14  
 Characteristics of hard water - hardness, DO, TDS in water and their determination  numerical 
 problems in hardness determination by EDTA; Modern techniques of water analysis for industrial 
@@ -4403,25 +3508,6 @@ Approved by Academic Council  No. 37  Date  16-06-2015
 Syllabus Technical English
 ENG1901 Technical English -I L T P J C
 0 0 4 0 2 
-Pre-requisite  Syllabus Version 
-1.0 
-Course Objectives: 
-1. -free
-language in real life situations.
-2.
-communications skills.
-3.
-activities in the classroom.
-Expected Course Outcome:  
-1. Develop a better understanding of advanced grammar rules and write grammatically
-correct sentences. 
-2. Acquire wide vocabulary and learn strategies for error-free communication.
-3. Comprehend language and improve speaking skills in academic and social contexts.
-4. Improve listening skills so as to understand complex business communication in a variety
-of global English accents through proper pronunciation. 
-5. Interpret texts, diagrams and improve both reading and writing skills which would help
-them in their academic as well as professional career.  
-Student Learning Outcomes (SLO): 3,16, 18 
 Module:1 Advanced Grammar 4 hours  
 Articles, Tenses, Voice and Prepositions  
 Activity: Worksheets on Impersonal Passive Voice, Exercises from the prescribed text 
@@ -4509,23 +3595,6 @@ Approved by Academic Council 55 Date: 13.06.2019
 Syllabus Technical English
 ENG1902 Technical English -II L T P J C
 0 0 4 0 2 
-Pre-requisite  Syllabus Version 
-1.0 
-Course Objectives: 
-1. To acquire proficiency levels in LSRW skills on par with the requirements for placement
-interviews of high-end companies / competitive exams.
-2. To evaluate complex arguments and to articulate their own positions on a range of
-technical and general topics.
-3. To speak in grammatical and acceptable English with minimal MTI, as well as develop a
-vast and active vocabulary.
-Expected Course Outcome:  
-1. Communicate proficiently in high-end interviews and exam situations and all social
-situations
-2. Comprehend academic articles and draw inferences
-3. Evaluate different perspectives on a topic
-4. Write clearly and convincingly in academic as well as general contexts
-5. Synthesize complex concepts and present them in speech and writing
-Student Learning Outcomes (SLO): 3,16, 18 
 Module:1 Listening for Clear Pronunciation 4 hours  
 Ice-breaking, Introduction to vowels, consonants, diphthongs. 
 Listening to formal conversations in British and American accents (BBC and CNN) as well as 
@@ -4624,21 +3693,7 @@ Approved by Academic Council 55 Date: 13.06.2019
 
 Syllabus Advanced Technical English 
 ENG1903 Advanced Technical English L T P J C
-0 0 2 4 2 
-Pre-requisite Syllabus Version 
-1.0 
-Course Objectives: 
-1. To review literature in any form or any technical article
-2. To infer content in social media and respond accordingly
-3. To communicate with people across the globe overcoming trans-cultural barriers and
-negotiate successfully
-Expected Course Outcome:  
-1. Analyze critically and write good reviews
-2. Articulate research papers, project proposals and reports
-3. Communicate effectively in a trans-cultural environment
-4. Negotiate and lead teams towards success
-5. Present ideas in an effective manner using web tools
-Student Learning Outcomes (SLO): 3,16, 18 
+0 0 2 4 2  
 Module:1 Negotiation and Decision Making Skills through Literary 
 Analysis 5 hours 
 Concepts of Negotiation and Decision Making Skills 
@@ -4769,30 +3824,6 @@ Approved by Academic Council  46th ACM  Date  24.08.2017
 Syllabus Calculus for Engineers
 MAT1011  Calculus for Engineers  L T P J C 
   3 0 2 0 4 
-Pre-requisite                       Syllabus  Version  
-  1.0 
-Course Objectives :  
-1. To provide the requisite and relevant background necessary to understand the 
-other important engineering mathematics courses offered for Engineers and 
-Scientists.  
-2. To introduce important topics of applied mathematics, namely Single and 
-Multivariable Calculus and Vector Calculus etc.  
-3. To impart the knowledge of Laplace transform, an important transform technique 
-for Engineers which requires knowledge of int egration  
-Expected Course Outcomes:  
-At the end of this course the students should be able to  
-1. apply single variable differentiation and integration to solve applied problems in 
-engineering and find the maxima and minima of functions  
-2. understand basic  conce pts of Laplace Transforms and solve problems with 
-periodic functions, step functions, impulse functions and convolution  
-3. evaluate partial derivatives, limits, total differentials, Jacobians, Taylor series and 
-optimization problems involving several variable s with or without constraints  
-4. evaluate multiple integrals in Cartesian, Polar, Cylindrical and  Spherical 
-coordinates.  
-5. understand gradient, directional derivatives, divergence, curl and Greens’, Stokes, 
-Gauss theorems  
-6. demonstrate MATLAB code for challengin g problems in engineering  
-Student Learning Outcome (SLO):  1, 2, 9  
 Module:1  Application of Single Variable Calculus                      9 hours  
 Differentiation - Extrema on an Interval -Rolle’s Theorem and the Mean Value Theorem -
 Increasing and Decreasing functions and First derivative test -Second derivative test -
@@ -5038,25 +4069,6 @@ Approved by Academic Council  37th ACM  Date  16.06.2015
 Syllabus Engineering Physics 
 PHY1701 Engineering Physics  L  T P J C 
   3  0 2 0 4 
-Pre-requisite Physics of 12th standard or equivalent Syllabus version 
-  1.0 
-Course Objectives: 
-To enable the students to understand the basics of the latest advancements in Physics viz., 
-Quantum Mechanics, 
-Nanotechnology, Lasers, Electro Magnetic Theory and Fiber Optics. 
- 
-Expected Course Outcome: : Students will be able to 
- 1. Comprehend the dual nature of radiation and matter. 
-  
- 3. Analyze quantum ideas at the nanoscale. 
- 4. Apply quantum ideas for understanding the operation and working principle of 
-optoelectronic devices. 
- 5. Recall the Maxwell  
- 6. Design the various types of optical fibers for different Engineering applications. 
- 7. Apply the various types of optoelectronic devices for designing a typical optical fiber 
-communication system. 
- 8. Demonstrate the quantum mechanical ideas 
-Student Learning Outcomes (SLO): 2, 4, 5, 9 
 Module:1  Introduction to Modern Physics 6 hours 
 Davisson Germer Experiment, Heisenberg Uncertainty Principle, Wave function, and 
 Schrodinger equation (time dependent & independent). 
@@ -5160,21 +4172,6 @@ Proceedings of the 59th Academic Council [24.09.2020] 594
 Syllabus Foundation English -I
 ENG1000 Foundation English -I L T P J C
 0 0 4 0  2 
-Pre-requisite  Syllabus Version  
-1.0 
-Course Objectives: 
-1. To equip learners with English grammar and its application.
-2. To enable learners to comprehend simple text and train them to speak and write
-flawlessly.
-3. To familiarize learners with MTI and ways to overcome them.
-Expected Course Outcome: 
-1. Develop the skills to communicate clearly through effective grammar, pronunciation and
-writing.
-2. Understand everyday conversations in English
-3. Communicate and respond to simple questions about oneself.
-4. Improve vocabulary and expressions.
-5. Prevent MTI (Mother Tongue Influence) during usual conversation.
-Student Learning Outcomes (SLO): 3,16, 18 
 Module:1 Essentials of grammar 3 Hours  
 Understand basic grammar-Parts of Speech 
 Activity: Grammar worksheets on parts of speech  
@@ -5255,21 +4252,6 @@ Approved by Academic Council 55 Date 13.06.2019
 Syllabus Foundation English -II
 ENG2000 Foundation English -II L T P J C
 0 0 4 0  2 
-Pre-requisite  Syllabus version 
-1.0 
-Course Objectives: 
-1. To practice grammar and vocabulary effectively
-2. To acquire proficiency levels in LSRW skills in diverse social situations.
-3. To analyze information and converse effectively in technical communication.
-Expected Course Outcome: 
-1. Accomplish a deliberate reading and writing process with proper grammar and
-vocabulary.
-2. Comprehend sentence structures while Listening and Reading.
-3. Communicate effectively and share ideas in formal and informal situations.
-4. Understand specialized articles and technical instructions and write clear technical
-correspondence.
-5. Critically think and analyze with verbal ability.
-Student Learning Outcomes (SLO): 3,16, 18 
 Module:1 Grammatical Aspects  4 hours  
 Sentence Pattern, Modal Verbs, Concord (SVA), Conditionals, Connectives 
 Activity : Worksheets, Exercises 
@@ -5351,29 +4333,6 @@ Approved by Academic Council 55 Date 13.06.2019
 Syllabus Environmental Sciences 
 CHY1002  Environmental Sciences  L T P J C 
   3 0 0 0 3 
-Pre-requisite   Syllabus version  
-  1.1 
-Course Objectives:  
-1. To make students understand and appreciate the unity of life in all its forms, the  
-implications  of life style on the environment.  
-2. To understand the various causes for environmental degradation.  
-3. To understand individuals contribution in the environmental pollution.  
-4. To understand the impact of pollution at the global level and also in the loc al 
-environment.  
- 
-Expected Course Outcome:  Students will be able to  
-1. Students will recognize  the environmental issues in a problem oriented interdisciplinary 
-perspectives  
-2. Students will understand  the key environmental issues, t he science behind those problems 
-and potential solutions.  
-3. Students will demonstrate  the  significance of biodiversity and its preservation  
-4. Students will identify  various environmental hazards  
-5. Students will design  various methods for the conservation of resources  
-6. Students will formulate  action plans for sustainable alternatives that incorporate science, 
-humanity, and social aspects  
-7. Students will have foundational knowledge  enabling them  to make  sound  life decisions as 
-well as enter a career in an environmental  profession or high er education.   
-Student Learning Outcomes (SLO):  1,2,3,4,5,9,11,12  
 Module:1  Environment and Ecosystem                                    7 hours  
 Key environmental problems, their basic causes and sustainable solutions. IPAT equation. 
 Ecosystem, earth – life support system and ecosystem components; Food chain, food web, Energy 

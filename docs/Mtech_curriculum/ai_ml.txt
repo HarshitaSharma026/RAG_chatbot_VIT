@@ -100,23 +100,6 @@ n L T P J Credits
 Syllabus Data Structures and Algorithms
 Course Code  Course Title  L T P C 
 MCSE501L  Data Structures and Algorithms  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives   
-1. To familiarize the concepts of d ata structures  and algorithm s focusing on space and 
-time complexity .  
-2. To provide a deeper insight into  the basic and advanced data structures .  
-3. To develop the knowledge for the application of advanced trees and graphs in real - 
-world scenarios.  
- 
-Course Outcome s  
-1. Understand and a nalyz e the space and time complexity of the algorithms.  
-2. Identification of suitable data structure for a given problem.  
-3. Implement ation of graph algorithms in various real -life applications.   
-4. Implementation of heaps and trees for querying and searching.   
-5. Use of basic data structures in advanced data struc ture operations . 
-6. Use of searching and sorting in various real -life applications.  
- 
 Module:1  Growth of Functions  3 hours  
 Overview and importance of algorithms and data structures - Algorithm specification, 
 Recursion, Performance analysis, Asymptotic Notation - The Big -O, Omega and Theta 
@@ -214,27 +197,7 @@ Proceedings of the 67th Academic Council (08.08.2022)
 
 Syllabus Design and Analysis of Algorithms 
 Course Code  Course Title  L T P C 
-MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
- 
-1. To provide a mathematical framework for the design and analysis of algorithms. 
-2. To disseminate knowledge on how to create strategies for dealing with real -world 
-problems.  
-3. To develop efficient algorithms for use in a variety of engineering design settings.  
- 
-Course Outcomes  
-On completion of this course, student should be able to:  
-1. Apply knowledge of computing and mathematics to algorithm design.  
-2. Apply various algorithm paradigms to solve scientific and real -life problems.  
-3. Demonstrate the string matching and network flow algorithms relating to real -life 
-problems.  
-4. Understand and apply geometric algorithms.  
-5. Apply linear optimization techniques to various real -world linear optimization 
-problems.  
-6. Explain the hardness of real -world problems with respect to algorithmic design.  
- 
+MCSE502L  Design and Analysis of Algorithms  3 0 0 3  
 Module:1  Greedy,  Divide  and Conquer Techniques  Introduction  6 hours  
 Overview and Importance of Algorithms - Stages of algorithm development: Describing the  
 problem,  Identifying a suitable technique, Design of an algorithm, Illustration of Design 
@@ -344,29 +307,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Computer Architecture and Organisation (CAO)
 Course Code  Course Title  L T P C 
 MCSE503L  Computer Architecture and Organisation(CAO)  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. To provide knowledge on the basics of computer architectures and organization that 
-lays the foundation to study high- performance architectures  
-2. To design and develop parallel programs using parallel computing platforms such as 
-OpenMP, CUDA  
-3. To evaluate the performance using profiling tools and optimize parallel codes using 
-various optimization techniques  
- 
-Course Outcomes  
-1. Outline the developmen ts in the evolution of computer architectures and parallel 
-programming paradigms  
-2. Comprehend the various programming languages and libraries for parallel computing 
-platforms  
-3. Use of profiling tools to analyze the performance of applications by interpreting t he 
-given data  
-4. Evaluate efficiency trade -offs among alternative parallel computing architectures for 
-an efficient parallel application design  
-5. Develop parallel programs using OpenMP  and CUDA and analyze performance 
-parameters such as speed- up, and efficiency for parallel programs against serial 
-programs  
- 
 Module:1  Computer Evolution And Performance  5 hours  
 Defining Computer Architecture and Organization, Overview of Computer Components, Von 
 Neumann architecture, Harvard Architecture CISC & RISC, Flynn’s Classification of 
@@ -496,24 +436,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Operating Systems
 Course Code  Course Title  L T P C 
 MCSE504L  Operating Systems  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. To focus the core functionalities required to develop and manage operating systems.  
-2. To encompass process management, synchronization strategies, memory 
-management, file systems, device management, and virtualization.  
-3. To introduce the concepts and features of real -time operating systems as well as 
-virtualization.  
- 
-Course Outcomes  
-1. Understand the fundamental operating system abstractions, including proces ses, 
-threads, semaphores, and file systems.  
-2. Implement scheduling, devising and addressing synchronization issues.  
-3. Gain an understanding of memory management tasks.  
-4. Develop real -time working prototypes of different small -scale and medium -scale 
-embedded s ystems.  
-5. Comprehend the basics of virtualization and differentiate types of virtualization.  
- 
 Module:1  Introduction to Operating Systems  4 hours  
 Computer Organization and Architecture - OS definition – OS history – OS Operations – OS 
 design issues - Operating systems structures - Library files - Systems calls – Interrupts -  
@@ -640,24 +562,7 @@ Proceedings of the 67th Academic Council (08.08.2022)
 
 Syllabus Computer Networks
 Course Code  Course Title  L T P C 
-MCSE505L  Computer Networks  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. To learn various network models, layers and their protocols.  
-2. To gain a fundamental understanding of routing algorithms.  
-3. To comprehend the basics of wireless as well as mobile networks and their 
-characteristics.  
- 
-Course Outcomes  
-1. Explore the basics of Computer Networks and various performance metrics.  
-2. Interpret the application layer services and their protocol s. 
-3. Evaluate the requirements for reliable services and implications of congestion at the 
-transport layer services.  
-4. Analyse various functionalities required in the control and data plane at network layer services. 
-5. Infer the characteristics of wireless as well as mobile networks and their security 
-standards.  
- 
+MCSE505L  Computer Networks  3 0 0 3  
 Module:1  Computer Networks and the Internet  7 hours  
 Internet: A Nuts -and-Bolts Description - Network Protocols - The Network Edge: Access 
 Networks and Physical Media - The Network Core: Packet Switching, Circuit Switching -  
@@ -761,25 +666,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Artificial Intelligence
 Course Code Course Title  L T P C 
 MCSE601L  Artificial Intelligence  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. To establish theoretical knowledge and understanding in the field of Artificial 
-Intelligence and identify its possible applications.  
-2. To plan and formulate a non- trivial problem as a state space and apply intelligent 
-search algorithms to identify optimal solutions.   
-3. To develop and design methods to make decisions in complex uncertain 
-environments.  
- 
-Course Outcome s 
-At the end of the course the student will be able to  
-1. Understand the foundation of AI and apply various search algorithms to identify 
-optimal solutions in state spaces.  
-2. Represent and reason with knowledge and uncertainty to identify solutions for real 
-world problems.  
-3. Formulate plan as a state space and apply algorithms to find solutions.  
-4. To develop data driven learning agents.  
- 
 Module:1  Intelligent Agents  and Uninformed Search  6 hours  
 Foundat ions of Artificial I ntelligence  - Definitions - Evolu tion of AI - Applications of AI  - 
 Intelligent Agents  - Agents and Environment s - Nature of Environment s - Structure of 
@@ -844,26 +730,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Machine Learning
 Course Code Course Title  L T P C 
 MCSE602L Machine Learning  2 0 0 2 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. Acquire theoretical Knowledge on setting hypothesis for pattern recognition   
-2. Apply suitable mac hine learning techniques for data handling and knowledge 
-extraction   
-3. Evaluate the performance of algorithms and to provide solutions for various real -
-world applications   
- 
-Course Outcomes  
- 
-1. Recognize the characteristics of machine learning strategies     
-2. Analyze and Apply the suitable supervised learning methods for real -world 
-problems    
-3. Identify and integrate more than one technique to enhance the performance of 
-learning    
-4. Create a suitable unsupervised learning model for handling unknown patterns   
-5. Desig n a model to handle large datasets with online learning  
-  
- 
 Module:1  Introduction  4 hours  
 PAC Learning -Consistent and inconsistent hypothesis, FIND -S, Candidate Elimination, 
 deterministic and stochastic generalities, error, VC Dimensions, lower bounds -Convex 
@@ -962,24 +828,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Deep Learning
 Course Code Course Title  L T P C 
 MCSE603L  Deep Learning  2 0 0 2 
-Pre-requisite  Nil Syllabus version  
-  1.0 
-Course Objectives  
-1. Introduce major deep neural network frameworks and issues in basic neural 
-networks  
-2. To solve real -world applications using Deep learning  
-3. Providing insight into recent Deep Learning architectures  
- 
-Course Outcomes  
-At the end of this course, students will be able to:  
-1.  Understand the methods and terminologies involved in deep neural network, 
-differentiate the learning methods used in Deep- nets. 
-2. Identify and improve Hyper parameters for better Deep Network Performance 
-3. To understand and visualize Convolutional Neural Network for real -world applications  
-4. To demonstrate the use of Recurrent Neural Networks and Transformer based for 
-language modeling 
-5. To distinguish different types of Advanced Neural Networks  
- 
 Module:1  Neural Networks  3 hours  
 The Neuron –Expressing Linear Perceptrons as Neurons – Feed -Forward Neural Networks 
 – Linear Neurons and their Limitations – Sigmoid, Tanh and Relu Functions – Softmax 
@@ -1165,25 +1013,6 @@ Proceedings of the 67th Academic Council (08.08.2022)
 Syllabus Français Fonctionnel
 Course code Course Title L T  P C
 MFRE501L Français Fonctionnel 3 0 0 3
-Pre-requisite NIL Syllabus version
-1.0
-Course Objectives
-1. Demonstrate competence in reading, writing, and speaking basic French, including
-knowledge of vocabulary (related to profession, emotions, food, workplace,
-sports/hobbies, classroom and family).
-2. Achieve proficiency in French culture oriented view point.
-Course Outcome 
-At the end of the course, the student will be able to 
-1. Remember the daily life communicative situations via personal pronouns, emphatic
-pronouns, salutations, negations, interrogations etc.
-2. Create communicative skill effectively in French language via regular / irregular
-verbs.
-3. Demonstrate comprehension of the spoken / written language in translating simple
-sentences.
-4. Understand and demonstrate the comprehension of some particular new range of
-unseen written materials.
-5. Demonstrate a clear understanding of the French culture through the language
-studied.
 Module:1 Saluer, Se présenter, Etablir des contacts. Compétences 
 en lecture - consulter un dictionnaire, appliquer des 
 stratégies de lecture, lire pour comprendre.   9 hours 
@@ -1248,23 +1077,6 @@ Course code Course Title L  T P C
 
 Syllabus Deutsch für Anfänger 
 MGER501L Deutsch für Anfänger 3  0 0 3
-Pre-requisite NIL Syllabus version
-1.0
-Course Objectives
-1. Demonstrate competency in reading, writing and speaking in Basic German.
-2. Achieve proficiency in German culture oriented view point.
-3. Develop basic vocabulary in the technical field.
-Course Outcome
-At the end of the course, the student will be able to
-1. Communicate in German language in their daily life communicative situations.
-2. Apply the German language skill in writing corresponding letters, E-Mailsetc.
-3. Create the talent of translating passages from English-German and vice versa and
-to
-frame simple dialogues  based on given situations.
-4. Understand and demonstrate the comprehension of some particular new range of
-unseen
-written materials.
-5. Develop a general understanding of German culture and society.
 Module:1 Die erste Begegnung 6 hours
 Einleitung, Begrüssungs formen, Länder und Sprachen, Alphabet, Buchstabieren, 
 Personalpronomen, Zahlen (1-100), Telefonnummer und E-Mail Addressenennen W- fragen,  
@@ -1329,21 +1141,6 @@ Proceedings of the 66th Academic Council (16.06.2022) 138
 Syllabus Advanced Competitive Coding
 Course Code Course Title L T P C 
 MSTS601L Advanced Competitive Coding  3 0 0 3 
-Pre-requisite  NIL Syllabus version  
-1.0 
-Course Objectives  
-1.To understand the basic concepts of data structures and algorithm.
-2.To develop the step by step approach in solving problems with the help
-programming techniques  of data structures.
-3.To deploy algorithms in real time applications.
-Course Outcomes  
-At the end of the course the student should be able to 
-1.Provide a basic understanding of  core Java concepts
-2.Use linear and non- linear data structures to solve practical problems.
-3.Identify Bitwise algorithms for solving real world problems.
-4.Illustrate various techniques for searching, sorting and hashing
-5.Understand and implement Dynamic Programming .
-6.Design new algorithms or modify existing algorithms for new application .
 Module:1  Algorithms  6 hours  
 Java Introduction, Features, Structure, Data Types, Basic I/O Operators, Decision 
 making and Control structure, Time & Spac e complexity  
@@ -1474,17 +1271,6 @@ Course Code Course Title L T PC
 
 Syllabus Qualitative Skills Practice
 MSTS501P Qualitative Skills Practice 0 0 3 1.5
-Pre-requisite Nil Syllabus version
-1.0
-Course Objectives:
-1. To develop the quantitative ability for solving basic level problems.
-2. To improve the verbal and professional communication skills.
-Course Outcome: 
-At the end of the course, the student will be able to
-1.Execute appropriate analytical skills.
-2.Solve problems pertaining to quantitative and reasoning ability.
-3.Learn better vocabulary for workplace communication.
-4.Demonstrate appropriate behavior in an organized environment.
 Module:1 Business Etiquette: Social and Cultural Etiquette; Writing
 Company Blogs; Internal Communications and Planning: 
 Writing press release and meeting notes9 hours 
@@ -1544,17 +1330,6 @@ Course Code Course Title L T P C
 
 Syllabus Quantitative Skills Practice
 MSTS502P Quantitative Skills Practice 0 0 3 1.5
-Pre-requisite Nil Syllabus version
- 
-Course Objectives:
-1. To develop the students’ advanced problem solving skills.
-2. To enhance critical thinking and innovative skills.
-Course Outcome: 
-At the end of the course, the student will be able to
-1. Create positive impression during official conversations and interviews.
-2. Demonstrate comprehending skills of various texts.
-3. Improve advanced level thinking ability in general aptitude.
-4. Develop emotional stability to tackle difficult circumstances.
 Module:1 Resume skills – Resume Template; Use of power verbs; 
 Types of resume; Customizing resume 2 hours 
 Structure of a standard resume, Content, color, font, Introduction to Power verbs and Write
