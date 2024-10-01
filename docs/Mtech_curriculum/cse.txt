@@ -2,7 +2,7 @@ School  of Computer  Science  and Engineering
 CURRICULUM  AND  SYLLABI 
 (2024 -2025)  
 M. Tech  Computer  Science  and Engineering  (CSE)
- 
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/MCS-2024-2025.pdf
 CURRICULAM  AND  SYLLABUS 
 2024 -2025  
  
@@ -107,7 +107,7 @@ n L T P J Credits
 3 MSTS502P  Quantitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
 
  
-Syllabus Data Structures and Algorithms 
+Syllabus Data Structures and Algorithms (CSE)
 Course Code  Course Title  L T P C
 MCSE501L  Data Structures and Algorithms  3 0 0 3 .  
 Module:1  Growth of Functions  3 hours  
@@ -205,7 +205,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1646
 
-Syllabus Design and Analysis of Algorithms
+Syllabus Design and Analysis of Algorithms(CSE)
 Course Code  Course Title  L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
 Module:1  Greedy,  Divide  and Conquer Techniques  Introduction  6 hours  
@@ -314,7 +314,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1649
 
-Syllabus Computer Architecture and Organisation (CAO)
+Syllabus Computer Architecture and Organisation (CAO)(CSE)
 Course Code  Course Title  L T P C 
 MCSE503L  Computer Architecture and Organisation  3 0 0 3 
 Module:1  Computer Evolution And Performance  5 hours  
@@ -443,7 +443,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1653
 
-Syllabus Operating Systems 
+Syllabus Operating Systems (CSE)
 Course Code  Course Title  L T P C 
 MCSE504L  Operating Systems  3 0 0 3 
 Module:1  Introduction to Operating Systems  4 hours  
@@ -570,7 +570,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1657
 
-Syllabus Computer Networks
+Syllabus Computer Networks(CSE)
 Course Code  Course Title  L T P C 
 MCSE505L  Computer Networks  3 0 0 3  
 Module:1  Computer Networks and the Internet  7 hours  
@@ -673,7 +673,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1660
 
-Syllabus Database Systems 
+Syllabus Database Systems (CSE)
 Course Code  Course Title  L T P C 
 MCSE506L  Database Systems  3 0 0 3 
 Module:1   Design and Implementation of Relational Model  6 hours  
@@ -816,7 +816,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1664
 
-Syllabus Artificial Intelligence
+Syllabus Artificial Intelligence(CSE)
 Course Code Course Title  L T P C 
 MCSE601L  Artificial Intelligence  3 0 0 3 
 Module:1  Intelligent Agents  and Uninformed Search  6 hours  
@@ -880,7 +880,7 @@ Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1691
 
-Syllabus Machine Learning 
+Syllabus Machine Learning (CSE)
 Course Code Course Title  L T P C 
 MCSE60 2L Machine Learning  2 0 0 2  
 Module:1  Introduction  4 hours  
@@ -1010,7 +1010,7 @@ Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1694
 
-Syllabus Deep Learning
+Syllabus Deep Learning(CSE)
 Course Code Course Title  L T P C 
 MCSE603L  Deep Learning  2 0 0 2 
 Module:1  Neural Networks  3 hours  
@@ -1120,7 +1120,7 @@ Item 67/31 - Annexure - 35
 Proceedings of the 67th Academic Council (08.08.2022) 
 1697
 
-Syllabus Information Security and Risk Management
+Syllabus Information Security and Risk Management(CSE)
 Course Code Course Title L T P C 
 MCSE608L    3 0 0 3 
 Module:1  Information Security Principles  6 hours  
@@ -1177,7 +1177,7 @@ Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1681
 
-Syllabus Cryptosystems
+Syllabus Cryptosystems(CSE)
 Course Code Course Title L T P C 
 MCSE609L     2 0 0 2 
 Module:1  Mathematical Foundations of Cryptosystems  4 hours  
@@ -1275,7 +1275,7 @@ Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1684
 
-Syllabus  Penetration Testing and Vulnerability Assessment 
+Syllabus  Penetration Testing and Vulnerability Assessment (CSE)
 Course Code Course Title L T P C 
 MCSE610L  Penetration Testing and Vulnerability Assessment  2 0 0 2 
 Module:1  Pentesting and Information Security  4 hours  
@@ -1405,7 +1405,7 @@ Item 67/30 - Annexure - 34
 Proceedings of the 67th Academic Council (08.08.2022) 
 1688
 
-Syllabus Big Data Frameworks and Technologies
+Syllabus Big Data Frameworks and Technologies(CSE)
 Course Code Course Title  L T P C 
 MCSE614L  Big Data Frameworks and Technologies  2 0 0 2 
 Module:1  Big Data  3 hours  
@@ -1528,7 +1528,7 @@ Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1672
 
-Syllabus Data Analytics
+Syllabus Data Analytics(CSE)
 Course C ode Course Title  L T P C 
 MCSE6 15L Data Analytics  2 0 0 2 
 Module:1  Introduction to Data Mining  4 hours  
@@ -1641,7 +1641,7 @@ Item 67/29 - Annexure - 33
 Proceedings of the 67th Academic Council (08.08.2022) 
 1675
 
-Syllabus Data Visualization 
+Syllabus Data Visualization (CSE)
 Course Code Course Title  L T P C 
 MCSE616L  Data Visualization  2 0 0 2 
 Module:1  Introduction to Data Visual ization  4 hours  
@@ -2383,7 +2383,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1668
 
-Syllabus Français Fonctionnel 
+Syllabus Français Fonctionnel (CSE)
 Course code Course Title L T  P C
 MFRE501L Français Fonctionnel 3 0 0 3
 Module:1 Saluer, Se présenter, Etablir des contacts. Compétences 
@@ -2447,7 +2447,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 136
 
-Syllabus Deutsch für Anfänger 
+Syllabus Deutsch für Anfänger (CSE) 
 Course code Course Title L  T P C
 MGER501L Deutsch für Anfänger 3  0 0 3
 Module:1 Die erste Begegnung 6 hours
@@ -2511,7 +2511,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 138
 
-Syllabus Advanced Competitive Coding
+Syllabus Advanced Competitive Coding(CSE)
 Course Code Course Title L T P C 
 MSTS601L Advanced Competitive Coding  3 0 0 3 
 Module:1  Algorithms  6 hours  
@@ -2641,7 +2641,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 130
 
-Syllabus Qualitative Skills Practice
+Syllabus Qualitative Skills Practice(CSE)
 Course Code Course Title L T PC
 MSTS501P Qualitative Skills Practice 0 0 3 1.5
 Module:1 Business Etiquette: Social and Cultural Etiquette; Writing
@@ -2700,7 +2700,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 132
 
-Syllabus Quantitative Skills Practice
+Syllabus Quantitative Skills Practice(CSE)
 Course Code Course Title L T P C 
 MSTS502P Quantitative Skills Practice 0 0 3 1.5
 Module:1 Resume skills – Resume Template; Use of power verbs; 

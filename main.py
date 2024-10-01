@@ -85,4 +85,3 @@ if user_input:
 
         # adding chatbot response to chat history
         st.session_state.chat_history.append({"role":"assistant", "content": assistant_response})
-

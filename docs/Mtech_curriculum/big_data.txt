@@ -2,7 +2,8 @@ CURRICULUM  AND  SYLLABI
 (2024 -2025)  
 M.Tech – (Big Data  Analytics)   
 School  of Computer  Science  and Engineering 
- 
+
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/M.TechCSE-BigData_2024_2025.pdf
 CREDIT  STRUCTURE  
  
 Categ ory-wise Credit  distribution   
@@ -77,7 +78,7 @@ n L T P J Credits
 3 MSTS502P  Quantitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
  Specialization  Elective  
  
-Syllabus Analytics  for Internet  of Things  Lab
+Syllabus Analytics  for Internet  of Things  Lab(big data)
 14 MCSE620P  Analytics  for Internet  of Things  Lab Lab Only  1.0 0 0 2 0 1.0 
 Course  code  Course  title L T P C 
 MCSE501L  Data  Structures  and Algorithms  3 0 0 3 
@@ -115,8 +116,6 @@ Reference  Books
 Springer.  
 2. Brass,  Peter.  Advanced  data structures.  Vol. 193. Cambridge:  Cambridge University  Press, 2008.  
 Mode  of Evaluation:  CAT / Written  Assignment /  Quiz  / FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
 
 Syllabus Data  Structures  and Algorithms  LAB
 Course  code  Course  title L T P C 
@@ -160,10 +159,8 @@ Reference  Books
 Springer.  
 2. Brass,  Peter.  Advanced  data structures.  Vol. 193. Cambridge:  Cambridge University  Press, 2008.  
 Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022 
 
-Syllabus Design  and Analysis  of Algorithms
+Syllabus Design  and Analysis  of Algorithms(big data)
 Course  code  Course  title L T P C 
 MCSE502L  Design  and Analysis  of Algorithms  3 0 0 3 
 Module:1  Greedy,  Divide  and Conquer  Techniques  Introduction  6 hours  
@@ -207,8 +204,7 @@ Press,  1995 (Online  Print  — 2013).
 Algorithms,  and Applications,  1st Edition,  Pearson  Education,  2014.  
 3. Jon Kleinberg  and EvaTardos,  Algorithm  Design,  Pearson  Education,  1“Edition,  2014.  
 Mode  of Evaluation:  CAT / Written  Assignment /  Quiz  / FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
+
 
 Syllabus Design  and Analysis  of Algorithms  Lab
 Course  code  Course  title L T P C 
@@ -257,11 +253,9 @@ Press,  1995 (Online  Print  — 2013).
 Algorithms,  and Applications,  1st Edition,  Pearson  Education, 2014.  
 3 Jon Kleinberg  and EvaTardos,  Algorithm  Design,  Pearson  Education,  1“Edition,  2014.  
 Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
-Course  code  Course  title L T P C 
 
-Syllabus Computer  Architecture  and Organization
+Syllabus Computer  Architecture  and Organization(big data)
+Course  code  Course  title L T P C 
 MCSE503L  Computer  Architecture  and Organization  3 0 0 3 
 Module:1  Computer  Evolution  And Performance  5 hours  
 Defining  Computer  Architecture  and Organization,  Overview  of Computer  Components,  Von Neumann 
@@ -303,8 +297,6 @@ Reference  Books
 2. Shameem  Akhter,  Jason  Roberts,  Multi -core Programming: Increasing  Performance  Through  
 Software  Multi -threading,  2010,  Intel Press,  BPB  Publications  
 Mode  of Evaluation:  CAT / Written  Assignment /  Quiz  / FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022
 
 Syllabus Computer  Architecture  and Organization  LAB
 Course  code  Course  title L T P C 
@@ -366,10 +358,8 @@ Reference  Books
 1. Shameem  Akhter,  Jason  Roberts,  Multi -core Programming:  Increasing  Performance  Through  
 Software  Multi -threading,  2010,  Intel Press,  BPB  Publications  
 Mode  of Evaluation:  CAT  / Mid-Term  Lab/ FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
 
-Syllabus OPERATING  SYSTEMS 
+Syllabus OPERATING  SYSTEMS (big data)
 Course  code  Course  title L T P C 
 MCSE504L  OPERATING  SYSTEMS  3 0 0 3 
 Module:1  Introduction  to Operating  Systems  4 hours  
@@ -415,8 +405,6 @@ Reference  Books
 McGraw -Hill Education.  
 3. Portnoy,  M, “Virtualization  Essentials”, 2012,  2nd Edition,  John Wiley  & Sons,  New Jersey,  USA.  
 Mode  of Evaluation:  CAT / Written  Assignment /  Quiz  / FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
 
 Syllabus OPERATING  SYSTEMS  LAB
 Course  code  Course  title L T P C 
@@ -472,11 +460,8 @@ Progra  UNIX  Envir_p3. Addison -Wesley.
 2. Love,  Robert,  “Linux System  Programming:  talking  directly  to the kernel  and C library”,  2013,  2nd 
 Edition,  O’Reilly  Media,  Inc, United States.  
 Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
- 
 
-Syllabus Computer  Networks 
+Syllabus Computer  Networks (big data)
 Course  code  Course  title L T P C 
 MCSE505L  Computer  Networks  3 0 0 3 
 Module:1  Computer  Networks  and the Internet  7 hours  
@@ -521,8 +506,6 @@ Reference  Books
 Morgan  Kaufmann,  United  States  of America.  
 2. Andrew  S. Tanenbaum,  “Computer  Networks”,  2013,  6th Edition, Pearson,  Singapore.  
 Mode  of Evaluation: CAT / Written Assignment / Quiz  / FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
  
 
 Syllabus Computer  Networks  Lab
@@ -563,13 +546,10 @@ iv. Analysis  and Statistics  & Filters.
 Reference  Books  
 1. James  F. Kuross,  Keith  W. Ross,  “Computer  Networking,  A Top-Down  Approach”,  8th Edition  
 (Paperback),  Pearson  Education,  2022.  
-Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
+Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT   
  
+Syllabus DATABASE SYSTEMS(big data)
 Course  code  Course  title L T P C 
-
-Syllabus DATABASE SYSTEMS
 MCSE506L  DATABASE SYSTEMS  3 0 0 3 
 Module:1  Design  and Implementation  of Relational  Model  6 hours  
 Database System Concepts and Architecture, Entity -Relationship (ER) Modelling, Relational Model - 
@@ -614,14 +594,10 @@ Morgan  Kaufmann,  2002.
 3 Dunckley  L. Multimedia  databases:  An object  relational  approach.  Addison -Wesley  Longman  
 Publishing  Co., Inc.; 2003  Jan 1. 
 Mode  of Evaluation:  CAT / Written  Assignment /  Quiz  / FAT 
-Recommended  by Board of 
-Studies  26-07-2022  
-Approved by  Academic  
-Council  No. 67 Date 08-08-2022  
- 
-Course  code  Course  title L T P C 
 
-Syllabus DATABASE  SYSTEMS  LAB 
+ 
+Syllabus DATABASE  SYSTEMS  LAB (big data)
+Course  code  Course  title L T P C 
 MCSE506P  DATABASE  SYSTEMS  LAB  0 0 2 1 
 Pre-requisite  NIL Syllabus  version  
   v. 1.0 
@@ -692,10 +668,8 @@ Implementation and Management”  6th Edition, Pearson India, 2015
 3. Mishra,  Sanjay,  and Alan  Beaulieu.  Mastering  Oracle  SQL:  Putting  Oracle  SQL  to Work.  O'Reilly  
 Media,  Inc., 2004.  
 Mode  of Evaluation:  CAT  / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies  26-07-2022  
-Approved  by Academic  Council  No. 67 Date 08-08-2022  
 
-Syllabus Big Data Frameworks and Technologies 
+Syllabus Big Data Frameworks and Technologies (big data)
 Course Code Course Title  L T P C 
 MCSE614L  Big Data Frameworks and Technologies  2 0 0 2 
 Module:1  Big Data  3 hours  
@@ -747,11 +721,6 @@ Reference Books
 Inc,2012  
 3. Mike Frampton, “Mastering Apache Spark”, Packt Publishing, 2015.  
 Mode of Evaluation: CAT / written assignment /  Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1671
 
 Syllabus Big Data Frameworks and Technologies Lab
 Course Code Course Title  L T P C 
@@ -792,13 +761,8 @@ Spark for Large Scale Data Analysis” – Apress 2015
 5. Adam Shook and Donald Mine,“MapReduce Design Patterns: Building Effective 
 Algorithms and Analytics for Hadoop an d Other Systems” - O’Relly 2012  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1672
 
-Syllabus Data Analytics
+Syllabus Data Analytics(big data)
 Course C ode Course Title  L T P C 
 MCSE6 15L Data Analytics  2 0 0 2 
 Module:1  Introduction to Data Mining  4 hours  
@@ -845,21 +809,11 @@ Edition.
 Jason Brownlee -Data Preparation for Machine Learning: Data Cleaning, Feature 
 Selection, and Data Transforms in Python, First Edition, 2020.  
 Reference Books  
-1. 
- 
- 
-2. 
- Pang -Ning Tan; Michael Steinbach; Anuj Karpatne; Vipin Kumar -Introduction to Data 
+Pang -Ning Tan; Michael Steinbach; Anuj Karpatne; Vipin Kumar -Introduction to Data 
 Mining . By: Publisher:  Pearson, Edition: 2nd, 2019.  
- 
 Guanhua Wang -Distributed Machine Learning with Python, Packt Publishing, 2022.  
   
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1674
 
 Syllabus  Data Analytics Lab 
 Course Code Course Title  L T P C 
@@ -905,13 +859,8 @@ Reference Books
 Selection, and Data Transforms in Python, First Edition, 2020.  
 2.   Guanhua Wang -Distributed Machine Learning with Python, Packt Publishing, 2022.  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1675
 
-Syllabus Data Visualization
+Syllabus Data Visualization(big data)
 Course Code Course Title  L T P C 
 MCSE616L  Data Visualization  2 0 0 2 
 Module:1  Introduction to Data Visual ization  4 hours  
@@ -959,8 +908,6 @@ edition, Springer publication, Germany, 2008.
 3.  Avril Coghlan, A little book of R for multivariate analysis, 1st edition, Welcome Trust 
 Sanger Institute, United Kingd om, 2013.  
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
  
   
  
@@ -1024,12 +971,6 @@ edition, Springer publication, Germany, 2008.
 3. Avril, A little book of R for multivariate analysis, 1st edition, Welcome Trust Sanger 
 Institute, United Kingdom, 2013.  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommende d by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1678
 
 Syllabus  Internship I/ Dissertation I
 Course Code  Course Title  L T P C 
@@ -1167,7 +1108,7 @@ Recommended by Board of Studies 28-02-2024
 Approved by Academic Council No. 73 Date 14-03-2024 
  
  
-Syllabus Français Fonctionnel 
+Syllabus Français Fonctionnel (big data)
 Course code Course Title L T  P C
 MFRE501L Français Fonctionnel 3 0 0 3
 Module:1 Saluer, Se présenter, Etablir des contacts. Compétences 
@@ -1231,7 +1172,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 136
 
-Syllabus Deutsch für Anfänger
+Syllabus Deutsch für Anfänger(big data)
 Course code Course Title L  T P C
 MGER501L Deutsch für Anfänger 3  0 0 3
 Module:1 Die erste Begegnung 6 hours
@@ -1368,7 +1309,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 130
 
-Syllabus Qualitative Skills Practice
+Syllabus Qualitative Skills Practice(big data)
 Course Code Course Title L T PC
 MSTS501P Qualitative Skills Practice 0 0 3 1.5
 Module:1 Business Etiquette: Social and Cultural Etiquette; Writing
@@ -1427,7 +1368,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 132
 
-Syllabus Quantitative Skills Practice
+Syllabus Quantitative Skills Practice(big data)
 Course Code Course Title L T P C 
 MSTS502P Quantitative Skills Practice 0 0 3 1.5
 Module:1 Resume skills – Resume Template; Use of power verbs; 

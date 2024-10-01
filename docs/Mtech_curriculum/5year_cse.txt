@@ -2,7 +2,7 @@ School  of Computer  Science  and Engineering
 (2024 -2025 ) 
 M. Tech. Computer Science and Engineering - 5 year 
 Integrated [In Collaboration with Virtusa]  CURRICULUM AND SYLLABI
-
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/M.TechCSE-Virtusa-Int_2024_2025.pdf
 Category Credit Detail
 Sl.No. Description Credits Maximum Credit
 1 PC - Programme Core 81 81
@@ -179,7 +179,7 @@ nLTPJCredits
 2 EXC4097 Co-Extra Curricular Basket Basket 1.000002.0
  
 10
-Syllabus Advanced C Programming
+Syllabus Advanced C Programming(5year cse_Virtusa)
 CSE2010 Advanced C Programming L T  P J C 
   2 0 2 0  3 
 Module:1  Control Structures, Functions and Pointer 3 hours 
@@ -270,12 +270,8 @@ two dimensional) 6 hours
 structures (with and without pointers) 6 hours 
 8. Programs to manipulate different files (sequential and random) 6 hours 
 Total Laboratory Hours  30 hours 
-Recommended by Board of Studies 09-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 789
 
-
-Syllabus Principles of Database Systems
+Syllabus Principles of Database Systems(5year cse_Virtusa)
 CSI1001 Principles of Database Systems L  T P J C 
   2 0 2 0  3  
 Module:1  DATABASE SYSTEMS CONCEPTS AND 
@@ -349,12 +345,9 @@ Updating using trigger 3 hours
 10. Database Application development 3 hours 
 Total Laboratory Hours  30  hours 
 Mode of assessment: Assessment Examination, FAT Lab Examination 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 810
 
 
-Syllabus Operating System Principles
+Syllabus Operating System Principles(5year cse_Virtusa)
 CSI1002  Operating System Principles L  T P J C 
   2 0 2 0  3 
 Module:1 Introduction 4 hours 
@@ -421,7 +414,7 @@ Approved by Academic Council No. 59 Date 24-09-2020
 Proceedings of the 59th Academic Council [24.09.2020] 812
 
 
-Syllabus Formal Languages and Automata Theory 
+Syllabus Formal Languages and Automata Theory (5year cse_Virtusa)
 CSI1003 Formal Languages and Automata Theory L  T P J C 
   3 0 0 0  3  
 Module:1 Introduction to Languages and Grammars 4 hours 
@@ -468,10 +461,8 @@ Reference Books
 Brokecole Cengage Learning , 2012.  
 4.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 814
-Syllabus Computer Organization And Architecture
+
+Syllabus Computer Organization And Architecture(5year cse_Virtusa)
 CSI1004 Computer Organization And Architecture L  T P J C 
   3 0 0 0  3 
 Module:1 Introduction to computer architecture 4 hours 
@@ -519,12 +510,9 @@ Reference Books
 Computer Architecture and Organization by William Stallings, PHI Pvt. Ltd., Eastern 
 Economy Edition, Sixth Edition, 2003  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020  
-Proceedings of the 59th Academic Council [24.09.2020] 816
 
 
-Syllabus Software Engineering Principles
+Syllabus Software Engineering Principles(5year cse_Virtusa)
 CSI1007  Software Engineering Principles   L T P J C 
   2 0 2 0 3 
 Module:1  Introduction  5 hours  
@@ -597,12 +585,8 @@ Science),Reprint Springer, 2010
 Edition, Auerbach Publications, 2008  
 4. David Gustafson , Schaum's Outline of Software Engineering,1st Edition, 2020  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar/Lab  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-259
-Syllabus DIGITAL LOGIC AND COMPUTER DESIGN
+
+Syllabus DIGITAL LOGIC AND COMPUTER DESIGN(5year cse_Virtusa)
 CSI2001  DIGITAL LOGIC AND COMPUTER DESIGN  L T P J C 
   3 0 2 0 4   
 Module:1  Introduction to  Digital Logic  3 hours  
@@ -672,14 +656,8 @@ Total Laboratory Hours  30 hours
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 261
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  05.02.2020  
-Approved by Academic Council  No. 61  Date  18.02.2021  
  
- 
-  
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-262
-Syllabus Data Structures and Algorithm Analysis
+Syllabus Data Structures and Algorithm Analysis(5year cse_Virtusa)
 CSI2002 Data Structures and Algorithm Analysis L T  P J C 
 3 0 2 0
 Module:1 Introduction to Data Structures 5 hours
@@ -741,12 +719,8 @@ List of Indicative Experiments
 14. Shortest Path Algorithm 
 Total Laboratory Hours 30 hours
 Mode of assessment: CAT / Assignment / Quiz / FAT / Seminar 
-Recommended by Board of Studies 05.02.2020 
-Approved by Academic Council No. 61 Date 18.02.2021 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 264
 
-
-Syllabus Advanced Algorithms 
+Syllabus Advanced Algorithms (5year cse_Virtusa)
 CSI2003  Advanced Algorithms  L T P J C 
   2 0 2 0 3 
 Module:1  Algorithm Design Techniques  5 hours  
@@ -825,12 +799,8 @@ b. Write a program (linear time) to convert that the simple polygon
 of P to a Convex Hull.  2 hours  
 Total Laboratory Hours  30 hours  
 Mode of evaluation: Regular Assignments, Continuous Assessment Test / FAT (Lab)  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-266
-Syllabus Advanced Database Management Systems
+
+Syllabus Advanced Database Management Systems(5year cse_Virtusa)
 CSI2004  Advanced Database Management Systems  L T P J C 
   3 0 0 0 3   
 Module:1  Database Design Techniques  5 hours  
@@ -872,12 +842,8 @@ Databases”, O'Reilly Media, Inc. 2019
 3. S.K.Singh, Database Systems: Concepts, Design & Applications, 2nd Edition, Pearson 
 education, 2011  
 Mode of Evaluation: CAT/ Digital Assignments/ Quiz/ FAT/ Project.  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-268
-Syllabus Principles of Compiler Design
+
+Syllabus Principles of Compiler Design(5year cse_Virtusa)
 CSI2005  Principles of Compiler Design  L T P J C 
   3 0 0 0 3 
 
@@ -919,21 +885,13 @@ Kaufmann, , 2011.
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 269
 Reference Books  
-1. 
- 
-2. 
-3. Andrew A.Appel , Modern Compiler Implementation in Java, 2nd edition,  
+Andrew A.Appel , Modern Compiler Implementation in Java, 2nd edition,  
 Cambridge University Press;, 2002.  
 Allen Holub, Compiler Design in C, Prentice Hall,1990.  
 Torbengidius Mogensen, “Basics of Compiler Design”, Springer, 2011.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-270
-Syllabus Microprocessor and Interfacing Techniques
+
+Syllabus Microprocessor and Interfacing Techniques(5year cse_Virtusa)
 CSI2006  Microprocessor and Interfacing Techniques  L T P J C 
   2 0 2 0 3 
 Module:1  Intel x86/ARM Processors  5 hours  
@@ -979,12 +937,7 @@ Edition, Tata McGraw Hill, 2017.
 Barry B Bray , The Intel Microprocessor 8086/8088, 80186,80286, 80386 and 80486 
 Architecture, programming and interfacing, 8th Edition ,PHI, , 2011  
 Reference Book(s)  
-1. 
- 
-2. 
- 
-3. 
- Douglas V. Hall, SSSP Rao” Microprocessors and Interfacing Programming and 
+Douglas V. Hall, SSSP Rao” Microprocessors and Interfacing Programming and 
 Hardware”. Third edition, Tata McGraw Hill, 2017.   
 Mohamed Rafiquazzaman, “Microprocessor and Microcomputer based system design,” 
 Second edition,  Universal Book stall, 1995  
@@ -1021,12 +974,8 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 16. Seven segment LED DISPLAY using  8086/Intel Arduino  Board  2 hours  
 Total Laboratory Hours  30  hours  
 Mode of evaluation: CAT/FAT/Assignment  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-273 
-Syllabus Data Communication and Networks
+
+Syllabus Data Communication and Networks(5year cse_Virtusa)
 CSI2007  Data Communication and Networks  L T P J C 
   3 0 2 0 4  
 Module:1  Basics  of Data  Communication  and Computer  Network  5 hours  
@@ -1072,12 +1021,7 @@ Pearson, , 2016
 Behrouz A. Forouzan , Data Communications and Networking, , 5th Ed.  McGraw Hill 
 Education ,2012 
 Reference Books  
-1 
-2 
- 
-3 
- 
-4 William Stallings, Data and Computer Communications, 10th Ed, Pearson Education, ,2013.  
+William Stallings, Data and Computer Communications, 10th Ed, Pearson Education, ,2013.  
 Larry Peterson and Bruce Davie, Computer Networks: A Systems Approach, 5th Ed , 
 Elsevier, 2011.  
 Ying-Dar Lin, Ren -Hung Hwang, Fred Baker, “Computer Networks: An Open Source 
@@ -1097,12 +1041,8 @@ Routing protocols  4 hours
 9 Study about Network Simulation tools  2 hours  
 Total Laboratory Hours  30 hours  
 Mode of evaluation: Assignment, CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-275
-Syllabus Programming in Java 
+
+Syllabus Programming in Java (5year cse_Virtusa)
 CSI2008  Programming in Java  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to Java Programming  
@@ -1172,12 +1112,8 @@ through servlets.  3 hours
 through servlets with JDBC  4 hours  
 Total Laboratory Hours  30 hours  
 Mode of evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-277
-Syllabus Cloud Computing Methodologies
+
+Syllabus Cloud Computing Methodologies(5year cse_Virtusa)
 CSI3001  Cloud Computing Methodologies  L T P J C 
         3 0 2 0 4 
 Module:1  Introduction  5 hours  
@@ -1242,12 +1178,8 @@ Collaborative tool  3 hours
 12. Cloud TM Online Collaboration Services (User Defined Applications)  2 hours  
 Total Laboratory Hours  30 hours  
 Mode of assessment: CAT1/CAT2/FAT  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-279
-Syllabus Applied Cryptography and Network Security
+
+Syllabus Applied Cryptography and Network Security(5year cse_Virtusa)
 CSI3002  Applied Cryptography and Network Security  L T P J C 
   2 0 2 0 3 
 Module:1  Introduction to Cryptography  4 hours  
@@ -1322,12 +1254,8 @@ Edition, WILEY, 2015
 H. Silverman, A Friendly Introduction to Number Theory, 4th Ed. Boston: Pearson, 
 2012.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Lab  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-281
-Syllabus Artificial Intelligence and Expert Systems
+
+Syllabus Artificial Intelligence and Expert Systems(5year cse_Virtusa)
 CSI3003  Artificial Intelligence and Expert Systems  L T P J C 
   3 0 0 0 3 
 
@@ -1373,12 +1301,8 @@ Peter Jackson, “Introduction to Expert Systems”, 3rd Edition, Pearson Educat
 Kevin Night and Elaine Rich, Nair B., “Artificial Intelligence (SIE)”, 3rd Edition, McGraw 
 Hill, 2008  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended  by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-283
-Syllabus Advanced Server Side Programming
+
+Syllabus Advanced Server Side Programming(5year cse_Virtusa)
 CSI3023  Advanced Server Side Programming   L T P J C 
   2 0 2 0 3 
 Module:1  Servlets, JSP, JSF and ASP  6 hours  
@@ -1436,12 +1360,8 @@ framework  5 hours
 applications  5 hours  
 Total Laboratory Hours  30 hours  
 Mode of evaluation: CAT//Assignment/ FAT  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-371
-Syllabus Software Application Architecture
+
+Syllabus Software Application Architecture(5year cse_Virtusa)
 CSI3024  Software Application Architecture  L T P J C 
   3 0 0 0 3 
 Module:1  Design Patterns  4 hours  
@@ -1523,12 +1443,8 @@ Web Links:
  http://www.corej2eepatterns.com/   
 Mode of assessment: Continuous Assessment Test / Assignments / Quiz / FAT / Project / 
 Seminar  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-373
-Syllabus Application Development and Deployment 
+
+Syllabus Application Development and Deployment (5year cse_Virtusa)
 CSI3025  Application Development and Deployment 
 Architecture  L T P J C 
   2 0 2 0 3 
@@ -1607,12 +1523,8 @@ with a scenario.  4 hours
 applications with a scenario.  4 hours  
 Total Laboratory Hours  30 hours  
 Mode of assessment: CAT / FAT 
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61 Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-375
-Syllabus Machine Learning
+
+Syllabus Machine Learning(5year cse_Virtusa)
 CSI3026  Machine Learning   L T P J C 
   2 0 2 0 3 
 Module:1  Introduction To Machine Learning  3 hours  
@@ -1677,7 +1589,7 @@ Approved by Academic Council  No. 61  Date  18.02.2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 377
-Syllabus Front End Design and Testing
+Syllabus Front End Design and Testing(5year cse_Virtusa)
 CSI3029  Front End Design and Testing  L T P J C 
   2 0 2 0 3 
 Module:1  HTML and CSS  5 hours  
@@ -1745,7 +1657,7 @@ Approved by Academic Council  No. 61  Date  18.02.2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 369
-Syllabus Fundamentals of Electrical and Electronics Engineering
+Syllabus Fundamentals of Electrical and Electronics Engineering(5year cse_Virtusa)
 EEE1024 Fundamentals of Electrical and Electronics 
 Engineering L T P J C 
   2 0 2  0 3 
@@ -1818,16 +1730,8 @@ International, 2010.
 5. A Course In Electrical And Electronic Measurements And 
 Instrumentation Dhanpat Rai Publications, 2012.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
-Proceedings of the 59th Academic Council [24.09.2020] 818
-Syllabus Discrete Mathematics and Graph Theory
+
+Syllabus Discrete Mathematics and Graph Theory(5year cse_Virtusa)
 MAT1014  Course title  L T P J C 
  Discrete Mathematics and Graph Theory  3 2 0 0 4 
 Module:1  Mathematical Logic and Statement Calculus   6 hours  
@@ -1892,7 +1796,7 @@ Mode of Evaluation
 Digital Assignments,  Quiz, Continuous Assessments, Final Assessment Test  
 Recommended by Board of Studies   
 Approved by Academic Council  No. 47  Date  05-10-2017  
-Syllabus Linear Algebra
+Syllabus Linear Algebra(5year cse_Virtusa)
 MAT102 2 Linear Algebra LTPJC
 30003
 Module:1 System of  Linear Equations : 6 hours
@@ -1938,7 +1842,7 @@ Recommended by Board of Studies 30.06.2021
 Approved by Academic Council 63 Date 23.09.2021Item 63/17 - Annexure - 14
 Proceedings of the 63rd Academic Council [23.09.2021] 907
 
-Syllabus Advanced Data Visualization Techniques
+Syllabus Advanced Data Visualization Techniques(5year cse_Virtusa)
 CSI3005  Advanced Data Visualization Techniques  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to Data Visualization and Visualization 
@@ -1999,7 +1903,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 287
-Syllabus Soft Computing Techniques
+Syllabus Soft Computing Techniques(5year cse_Virtusa)
 CSI3006 Soft Computing Techniques L  T P J C 
 3 0 0   
 Module:1 Introduction to Soft Computing 3 hours  
@@ -2052,12 +1956,9 @@ S, Rajasekaran
 ndEd , PHI Publication,. 2017. 
 George J. Klir,Fuzzy Sets and Fuzzy Logic: Theory and Applications, Prentice Hall, 2015 
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Mode of assessment: 
-Recommended by Board of Studies 11-02-2021
-Approved by Academic Council No. 61 Date 18-02-2021
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 297
 
-Syllabus Advanced Python Programming
+
+Syllabus Advanced Python Programming(5year cse_Virtusa)
 CSI3007 Advanced Python Programming LT P J C 
 2 0 4 0 4 
 Module:1 Data Structures 4 Hours       
@@ -2121,7 +2022,7 @@ Approved by Academic Council No.61 Date 18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 299
 
-Syllabus Internet of Everything
+Syllabus Internet of Everything(5year cse_Virtusa)
 CSI300 8 Internet of Everything  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to Internet of Things  5 Hours  
@@ -2203,12 +2104,8 @@ and send it to MQTT broker.  3 hours
 11. Implement a Theft detection application.  4 hours  
 Total Laboratory Hours  30 hours  
 Mode of evaluation:  CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  11-02-2021
-Approved by Academic Council  No. 61  Date  18-02-2021
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-301
 
-Syllabus Advanced Wireless Networks
+Syllabus Advanced Wireless Networks(5year cse_Virtusa)
 CSI3009  Advanced Wireless Networks  L T P J C 
 3 0 2 0 4 
 
@@ -2376,7 +2273,7 @@ Approved by Academic Council  No.61  Date:  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 305
-Syllabus Computer Graphics and Multimedia
+Syllabus Computer Graphics and Multimedia(5year cse_Virtusa)
 CSI3011  Computer Graphics and Multimedia  L T P J C 
   3 0 2 0 4  
 Module:1  Graphical Concepts and Display Systems     6   hours  
@@ -2443,7 +2340,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 307
-Syllabus Distributed Systems
+Syllabus Distributed Systems(5year cse_Virtusa)
 CSI3012  Distributed Systems  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction  6 hours            
@@ -2514,7 +2411,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 309
-Syllabus Blockchain Technologies
+Syllabus Blockchain Technologies(5year cse_Virtusa)
 CSI3013  Blockchain Technologies  L T P J C 
   3 0 0 4 4 
 Module:1  Blockchain Foundations  7 hours  
@@ -2571,12 +2468,8 @@ Wiley & Sons.
 4 Joseph Bonneau et al, SoK: Research perspectives and challenges for Bitcoin and  
 cryptocurrency, IEEE Symposium on security and Privacy, 2015.  
 Mode of Evaluation:CAT/ Digital Assignments /Quiz/FAT/ Project.  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-311
-Syllabus Software Verification and Validation 
+
+Syllabus Software Verification and Validation (5year cse_Virtusa)
 CSI3014  Software Verification and Validation  L T P J C 
   3 0 0 0 3 
 Module:1  Overview of Software Engineering       5 hours  
@@ -2622,13 +2515,8 @@ Reference Books
 3 William E. Lewis , Software Testing and Continuous Quality Improvement, Third 
 Edition, Auerbach Publications, 2017  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies:  11-02-2021  
-Approved by Academic Council   No.61                                                      Date:         18-02-2021    
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-313
 
-Syllabus Software Project Management
+Syllabus Software Project Management(5year cse_Virtusa)
 CSI3015  Software Project Management  L T P J C 
   3 0 0 0 3 
 Module:1  Introduction to Project Management  7 hours  
@@ -2678,14 +2566,9 @@ Practices, Tools and Techniques, J. Ross Publishing, 2010
 Edition, 2002  
 3. Microsoft Project 2010 Bible,Elaine Marmel  
 Mode of Evaluation:CAT/ Digital Assignments /Quiz/FAT/ Project.  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic  Council  No. 61  Date  18-02-2021  
- 
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-315
 
-Syllabus Robotics: Machines and Controls 
+
+Syllabus Robotics: Machines and Controls (5year cse_Virtusa)
 CSI3016  Robotics: Machines and Controls   L T P J C 
   3 0 0 0 3 
 Module:1  Introduction  3 hours  
@@ -2729,13 +2612,9 @@ edition 2011
 Integrated Approach, Prentice Hall India -New Delhi -2001  
 3. John Craig, “ Introduction to Robotics, Mechanics and Control” February 2017, Pearson  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-317
 
-Syllabus Advanced Data Compression Techniques
+
+Syllabus Advanced Data Compression Techniques(5year cse_Virtusa)
 CSI3019  Advanced Data Compression Techniques  L T P J C 
   3 0 0 0 3 
 Module:1  Introduction  7 hours  
@@ -2776,12 +2655,8 @@ Developers, O’Reilly.2016.
 2. Feng Wu, Advances in Visual Data Compression and Communication Meeting the 
 Requirements of New Applications, Auerbach Publications 2014.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-323
-Syllabus Advanced Graph Algorithms
+
+Syllabus Advanced Graph Algorithms(5year cse_Virtusa)
 CSI3020  Advanced Graph Algorithms  L T P J C 
   3 0 0 0 3 
 Module:1  Basics of Graph and Operations  4 hours  
@@ -2828,13 +2703,8 @@ Reference Books
 Addison Wesley, 1974.  
 T.Kloks  “Advance Graph Algorithms” –  Kloks, 2012  
 Mode of Evaluation: CAT/ Digital Assignments /Quiz/FAT/ Project.  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-325
 
-Syllabus Advanced Computer Architecture
+Syllabus Advanced Computer Architecture(5year cse_Virtusa)
 CSI3021  Advanced Computer Architecture  L T P J C 
   3 0 0 0 3 
 Module:1  Introduction to Advanced Computer Design  5 hours                            
@@ -2880,12 +2750,8 @@ memory, parallel programming (scientific and engineering computation),, 1st Edit
 3. David B Kirk, Wen -mei W Hwu, Programing Massively Parallel Processors: A Handson 
 Approach(Application of GPU Computing Series) , 2 nd Edition, Morgan Kaufmann,2013.  
 Mode of Evaluation: CAT/ Digital Assignments /Quiz/FAT/ Project.  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-327
-Syllabus Cyber Security and Application Security
+
+Syllabus Cyber Security and Application Security(5year cse_Virtusa)
 CSI3022  Cyber Security and Application Security   L T P J C 
   3 0 2 0 4 
 Module:1  Number Theory Basics  5 hours  
@@ -2954,7 +2820,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 329
 
-Syllabus R Programming
+Syllabus R Programming(5year cse_Virtusa)
 CSI3027  R Programming   L T P J C 
   2 0 2 0 3 
 Module:1  Vectors in R  4 hours  
@@ -2991,8 +2857,6 @@ Text Book(s)
 No Starch Press, 2011.  
 2. Wickham, H. & Grolemund, G. , “R for Data Science”. O’Reilly, New York, 2018  
  
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-405
 Reference Books  
 1 Gareth J,Daniela W,Trevor H & Robert T, “An Introduction to Statistical Learning: with 
 Applications in R”, Springer , 2017.  
@@ -3025,7 +2889,7 @@ Approved by Academic Council  No. 61  Date  18.02.2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 406
 
-Syllabus Deep Learning
+Syllabus Deep Learning(5year cse_Virtusa)
 CSI3028  Deep Learning  L T P J C 
 3 0 0 0 3  
 Module:1  Basics of Machine Learning 5 hours  
@@ -3071,14 +2935,9 @@ Deep Neural Networks” Apress, 2018.
 TensorFlow: Explore neural networks with Python", Packt Publisher, 2017.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
 Mode of evaluation: Project/Activity   
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-408
 
 Syllabus Applications of Differential and Difference 
-Equations
+Equations(5year cse_Virtusa)
 MAT2002  Applications of Differential and Difference 
 Equations  L T P J C 
   3 0 2 0 4 
@@ -3162,7 +3021,7 @@ Studies
 Approved by Academic 
 Council  No. 37  Date  16-06-2015  
  
-Syllabus Foundations of Data Science 
+Syllabus Foundations of Data Science (5year cse_Virtusa)
 MDI3002  Foundations of Data Science  L T P J C 
   
  3 0 0 0 3 
@@ -3225,12 +3084,8 @@ Hossein Pishro -Nik, “Introduction to Probability, Statistics, and Random Proc
 Kappa Research, LLC, 2014.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
 Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-293
 
-Syllabus Engineering Chemistry
+Syllabus Engineering Chemistry(5year cse_Virtusa)
 CHY1701 Engineering Chemistry L T P J C 
 3 0 2 0 4 
 Module:1 Water Technology 5 hours SLO: 1,14  
@@ -3340,9 +3195,6 @@ and demonstration of its working
 3. Calcium in food samplesNon-contact hours 
 Total Laboratory Hours  17 hours 
 Mode of Evaluation: Viva-voce and Lab performance & FAT 
-Recommended by Board of 
-Studies 06-06-2018
-Approved by Academic Council 50th ACM Date 14.06.2018 
 
 Syllabus PROBLEM SOLVING AND PROGRAMMING
 CSE1001  PROBLEM SOLVING AND PROGRAMMING  L T P J C 
@@ -3393,8 +3245,6 @@ Severance.
 2. Charles Dierbach.2013.Introduction to computer science using python: a computational 
 problem -solving focus. Wiley Publishers.  
 Mode of Evaluation:      PAT  / CAT  / FAT  
-Recommended by Board of Studies   
-Approved by Academic Council  No. 3 7 Date  16-06-2015  
  
 Syllabus PROBLEM SOLVING AND OBJECT ORIENTED 
 PROGRAMMING 
@@ -3501,11 +3351,9 @@ Reference Books
 3. Maureen Sprankle and Jim Hubbard, Problem solving and Programming concepts, 9th  
 edition, Pearson Eduction, 2014 . 
 Mode of assessment: PAT  / CAT  / FAT  
-Recommended by Board of Studies  04-04-2014  
-Approved by Academic Council  No. 37  Date  16-06-2015  
  
 
-Syllabus Technical English
+Syllabus Technical English(5year cse_Virtusa)
 ENG1901 Technical English -I L T P J C
 0 0 4 0 2 
 Module:1 Advanced Grammar 4 hours  
@@ -3589,10 +3437,8 @@ List of Challenging Experiments (Indicative)
 5. Identifying Errors in a Sentence or Paragraph 
 6. Writing an E-mail by narrating life events 
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
-Syllabus Technical English
+Syllabus Technical English(5year cse_Virtusa)
 ENG1902 Technical English -II L T P J C
 0 0 4 0 2 
 Module:1 Listening for Clear Pronunciation 4 hours  
@@ -3688,10 +3534,8 @@ Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments a
 5. Cloze Test 
 6. Writing a proposal 
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
-Syllabus Advanced Technical English 
+Syllabus Advanced Technical English (5year cse_Virtusa)
 ENG1903 Advanced Technical English L T P J C
 0 0 2 4 2  
 Module:1 Negotiation and Decision Making Skills through Literary 
@@ -3764,8 +3608,6 @@ J-Component Sample Projects
 5.Vlogging 
 Total  Hours (J-Component)  60 Hours  
 Mode of evaluation: Quizzes, Presentation, Discussion, Role play, Assignments and FAT  
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
 Syllabus ETHICS AND VALUES 
 HUM1021  ETHICS AND VALUES  L T P J C 
@@ -3818,10 +3660,8 @@ Substance Abuse: Pharmacological , Developmental and Clinical Considerations”,
 Publishers, U.S.A  
 4. Pandey, P. K (2012), “Sexual Harassment and Law in India”, Lambert Publishers, Germany  
 Mode of Evaluatio n: CAT, Assignment, Quiz, FAT and  Seminar  
-Recommended by Board of Studies  26.07.2017  
-Approved by Academic Council  46th ACM  Date  24.08.2017  
  
-Syllabus Calculus for Engineers
+Syllabus Calculus for Engineers(5year cse_Virtusa)
 MAT1011  Calculus for Engineers  L T P J C 
   3 0 2 0 4 
 Module:1  Application of Single Variable Calculus                      9 hours  
@@ -4066,7 +3906,7 @@ Total Project  60 hours
 Recommended by Board of Studies   08.06.2015  
 Approved by Academic Council  37th ACM  Date  16.06.2015  
  
-Syllabus Engineering Physics 
+Syllabus Engineering Physics (5year cse_Virtusa)
 PHY1701 Engineering Physics  L  T P J C 
   3  0 2 0 4 
 Module:1  Introduction to Modern Physics 6 hours 
@@ -4165,11 +4005,8 @@ Proceedings of the 59th Academic Council [24.09.2020] 593
 15. Demonstration of phase velocity and group velocity (Computer simulation) 2 hrs 
 Total Laboratory Hours  30 hrs 
 Mode of evaluation: CAT / FAT 
-Recommended by Board of Studies  25.06.2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 594
 
-Syllabus Foundation English -I
+Syllabus Foundation English -I(5year cse_Virtusa)
 ENG1000 Foundation English -I L T P J C
 0 0 4 0  2 
 Module:1 Essentials of grammar 3 Hours  
@@ -4249,7 +4086,7 @@ Mode of Evaluation: Quizzes, Presentation, Discussion, Role Play, Assignments
 Recommended by Board of Studies 08-06-2019
 Approved by Academic Council 55 Date 13.06.2019 
 
-Syllabus Foundation English -II
+Syllabus Foundation English -II(5year cse_Virtusa)
 ENG2000 Foundation English -II L T P J C
 0 0 4 0  2 
 Module:1 Grammatical Aspects  4 hours  
@@ -4327,10 +4164,8 @@ List of Challenging Experiments (Indicative)
 5.Drafting SOP (Statement of Purpose) 
 6.Video Profile 
 Mode of Evaluation: Presentation, Discussion, Role Play, Assignments , FAT 
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date 13.06.2019 
 
-Syllabus Environmental Sciences 
+Syllabus Environmental Sciences (5year cse_Virtusa)
 CHY1002  Environmental Sciences  L T P J C 
   3 0 0 0 3 
 Module:1  Environment and Ecosystem                                    7 hours  
@@ -4388,6 +4223,3 @@ Reference Books
 1. David  M.Hassenzahl,  Mary  Catherine  Hager,  Linda  R.Berg  (2011),  Visualizing  
 Environmental Science, 4thEdition, John Wiley & Sons, USA.  
 Mode of evaluation: Internal Assessment (CAT, Quizzes, Digital Assignments) & FAT  
-Recommended by Board of Studies  12.08.2017  
-Approved by Academic Council  No. 46  Date  24.08.2017  
- 

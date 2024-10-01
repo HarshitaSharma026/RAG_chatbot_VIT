@@ -4,8 +4,7 @@ CURRICULUM  AND  SYLLABI
 M. Tech. Computer Science and Engineering (Artificial  
 Intelligence  and Machine  Learning)  
 CURRICULUM  
-M. Tech. Computer Science and Engineering (Artificial 
-Intelligence and Machine Learning)  - (2024 ) 
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/MAI-2024-2025.pdf
  
 
 Category  
@@ -97,7 +96,7 @@ n L T P J Credits
 3 MSTS502P  Quantitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
  
  
-Syllabus Data Structures and Algorithms
+Syllabus Data Structures and Algorithms (AI/ML)
 Course Code  Course Title  L T P C 
 MCSE501L  Data Structures and Algorithms  3 0 0 3 
 Module:1  Growth of Functions  3 hours  
@@ -141,11 +140,7 @@ edition, 2020, Springer.
 2. Brass, Peter.  Advanced data structures . Vol. 193. Cambridge: Cambridge University 
 Press, 2008.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1645
+
 
 Syllabus Data Structures and Algorithms L
 Course Code  Course Title  L T P C 
@@ -189,13 +184,9 @@ edition, 2020, Springer.
 2. Brass, Peter.  Advanced data structures . Vol. 193. Cambridge: Cambridge University 
 Press, 2008.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1646
 
-Syllabus Design and Analysis of Algorithms 
+
+Syllabus Design and Analysis of Algorithms (AI/ML)
 Course Code  Course Title  L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3  
 Module:1  Greedy,  Divide  and Conquer Techniques  Introduction  6 hours  
@@ -243,11 +234,6 @@ Press, 1995 (Online Print — 2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014.  
 3. Jon Kleinberg and EvaTardos, Algorithm Design, Pearson Education, 1“Edition, 2014.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1648
 
 Syllabus Design and Analysis of Algorithms Lab 
 Course Code  Course Title  L T P C 
@@ -296,15 +282,8 @@ Press, 1995 (Online Print — 2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014.  
 3 Jon Kleinberg and EvaTardos, Algorithm Design, Pearson Education, 1“Edition, 2014.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1649
 
-Syllabus Computer Architecture and Organisation (CAO)
+Syllabus Computer Architecture and Organisation (CAO) (AI/ML)
 Course Code  Course Title  L T P C 
 MCSE503L  Computer Architecture and Organisation(CAO)  3 0 0 3 
 Module:1  Computer Evolution And Performance  5 hours  
@@ -356,11 +335,7 @@ Edition, 2012, Morgan Kauffmann Publishers.
 2. Shameem Akhter, Jason Roberts, Multi -core Programming: Increasing Performance 
 Through Software Multi -threading, 2010, Intel Press,  BPB Publications  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1651
+
 
 Syllabus Computer Architecture and Organisation Lab
 Course Code  Course Title  L T P C 
@@ -427,13 +402,9 @@ Reference Books
 1. Shameem Akhter, Jason Roberts, Multi -core Programming: Increasing Performance 
 Through Software Multi -threading, 2010, Intel Press,  BPB Publications  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1653
 
-Syllabus Operating Systems
+
+Syllabus Operating Systems (AI/ML)
 Course Code  Course Title  L T P C 
 MCSE504L  Operating Systems  3 0 0 3 
 Module:1  Introduction to Operating Systems  4 hours  
@@ -486,11 +457,7 @@ Edition, Tata McGraw -Hill Education.
 3. Portnoy, M, “Virtualization Essentials”, 2012, 2nd Edition, John Wiley &  Sons, New 
 Jersey, USA.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No.67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1655
+
 
 Syllabus Operating  Systems Lab
 Course Code  Course Title  L T P C 
@@ -554,13 +521,9 @@ Environment: Advanc Progra UNIX Envir_p3 . Addison -Wesley.
 2. Love, Robert, “Linux System Programming: talking directly to the kernel and C library”, 
 2013, 2nd Edition, O’Reilly Media, Inc, United States.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1657
 
-Syllabus Computer Networks
+
+Syllabus Computer Networks (AI/ML)
 Course Code  Course Title  L T P C 
 MCSE505L  Computer Networks  3 0 0 3  
 Module:1  Computer Networks and the Internet  7 hours  
@@ -609,11 +572,7 @@ Reference Books
 Edition , Morgan Kaufmann, United States of America.  
 2. Andrew S. Tanenbaum, “Computer Networks”, 2013, 6th Edition, Pearson, Singapore.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1659
+
 
 Syllabus Computer Networks Lab
 Course Code  Course Title  L T P C 
@@ -657,13 +616,9 @@ Reference Books
 1. James F. Kuross, Keith W. Ross, “Computer Networking, A Top -Down Approach”, 
 8thEdition( Paperback), Pearson Education, 2022.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1660
 
-Syllabus Artificial Intelligence
+
+Syllabus Artificial Intelligence (AI/ML)
 Course Code Course Title  L T P C 
 MCSE601L  Artificial Intelligence  3 0 0 3 
 Module:1  Intelligent Agents  and Uninformed Search  6 hours  
@@ -721,13 +676,9 @@ McGraw Hill Edu cation, 2017.
 Charu C. Aggarwal, “Data Classification: Algorithms and Applications”, CRC Press, 
 2014.  
 Mode of Evaluation: CAT, Assignment, Quiz and FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
- Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1691
 
-Syllabus Machine Learning
+
+Syllabus Machine Learning (AI/ML)
 Course Code Course Title  L T P C 
 MCSE602L Machine Learning  2 0 0 2 
 Module:1  Introduction  4 hours  
@@ -769,11 +720,6 @@ Learning”, MIT Press, 2nd  Edition, 2018.
 Wiley  & Sons, Hoboken, 2000.  
 3 Tom Mitchell, “Machine Learning”, McGraw Hill, 3rd Edition, 1997.  
 Mode of Evaluation: C AT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022   
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1693
 
 Syllabus Machine Learning Lab
 Course Code Course Title L T P C 
@@ -819,13 +765,8 @@ O'Reilly Media, Inc, United States.
 2. Wes McKinney, “Python for Data Analysis: Data Wrangli ng with Pandas, NumPy, and 
 IPython", 2017, 2nd Edition, O'Reilly Media, Inc, United States.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1694
 
-Syllabus Deep Learning
+Syllabus Deep Learning (AI/ML)
 Course Code Course Title  L T P C 
 MCSE603L  Deep Learning  2 0 0 2 
 Module:1  Neural Networks  3 hours  
@@ -875,11 +816,6 @@ Reference Books
 2. Deep Learning: A Practitioner's Approach, Josh Patterson, Adam Gibson, O'R eilly 
 Media, 2017  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1696
 
 Syllabus Deep Learning Lab
 Course Code Course Title  L T P C 
@@ -928,12 +864,6 @@ Networks, Umberto Michelucci, Apress, 2018.
 3. Deep Learning with TensorFlow: Explore neural networks with Python, Giancarlo 
 Zaccone, Md. RezaulKarim, Ahmed Menshawy, Packt Publisher, 2017. 
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1697
 
 Syllabus Internship I/ Dissertation I    
 Course Code  Course Title  L T P C 
@@ -1010,7 +940,7 @@ Item 67/28 - Annexure - 32
 Proceedings of the 67th Academic Council (08.08.2022) 
 1668
 
-Syllabus Français Fonctionnel
+Syllabus Français Fonctionnel (AI/ML)
 Course code Course Title L T  P C
 MFRE501L Français Fonctionnel 3 0 0 3
 Module:1 Saluer, Se présenter, Etablir des contacts. Compétences 
@@ -1075,7 +1005,7 @@ Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 136
 Course code Course Title L  T P C
 
-Syllabus Deutsch für Anfänger 
+Syllabus Deutsch für Anfänger (AI/ML) 
 MGER501L Deutsch für Anfänger 3  0 0 3
 Module:1 Die erste Begegnung 6 hours
 Einleitung, Begrüssungs formen, Länder und Sprachen, Alphabet, Buchstabieren, 
@@ -1138,7 +1068,7 @@ Recommended by Board of Studies 19-05-2022
 Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 138
 
-Syllabus Advanced Competitive Coding
+Syllabus Advanced Competitive Coding (AI/ML)
 Course Code Course Title L T P C 
 MSTS601L Advanced Competitive Coding  3 0 0 3 
 Module:1  Algorithms  6 hours  
@@ -1189,14 +1119,9 @@ applicatio ns”, 2017, Second Edition, Tata Mc Graw Hill.
 2.  Richard M. Reese, Jennifer L. Reese, Alexey Grigorev,  Java: Data Science 
 Made Easy , 2019  Pocket Publishing.  
 Mode of Evaluation:   CAT, Written assignment, Quiz,  Project  & FAT. 
-Recommended by Board of St udies  24-02-2023
-Approved by Academic Council  No. 69 Date  16-03-2023
-Item 69/31 - Annexure - 28
-Proceedings of the 69th Academic Council (16.03.2023)
-192
-Course code Course Title L T P C
 
 Syllabus Technical Report Writing
+Course code Course Title L T P C
 MENG501P Technical Report Writing 0 0 4 2
 Pre-requisite Nil Syllabus version 
  
@@ -1269,7 +1194,7 @@ Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 130
 Course Code Course Title L T PC
 
-Syllabus Qualitative Skills Practice
+Syllabus Qualitative Skills Practice  (AI/ML)
 MSTS501P Qualitative Skills Practice 0 0 3 1.5
 Module:1 Business Etiquette: Social and Cultural Etiquette; Writing
 Company Blogs; Internal Communications and Planning: 
@@ -1328,7 +1253,7 @@ Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
 Proceedings of the 66th Academic Council (16.06.2022) 132
 Course Code Course Title L T P C 
 
-Syllabus Quantitative Skills Practice
+Syllabus Quantitative Skills Practice (AI/ML)
 MSTS502P Quantitative Skills Practice 0 0 3 1.5
 Module:1 Resume skills – Resume Template; Use of power verbs; 
 Types of resume; Customizing resume 2 hours 

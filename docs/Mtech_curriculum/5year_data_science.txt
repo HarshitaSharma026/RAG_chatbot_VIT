@@ -1,7 +1,7 @@
 School  of Computer  Science  and Engineering 
 CURRICULUM  AND  SYLLABI 
 M.Tech (CSE) – (Data  Science) – 5 year  Integrated(2024-2025)
-
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/MID-2024-25.pdf
 
 Category Credit Detail
 Sl.No. Description Credits Maximum Credit
@@ -202,7 +202,7 @@ nLTPJCredits
 Report On : 28-08-2024 10:39:16 AM Page 5 of
 6
 
-Syllabus Principles of Database Systems
+Syllabus Principles of Database Systems (5 year data science)
 CSI1001 Principles of Database Systems L  T P J C 
   2 0 2 0  3 
 Module:1  DATABASE SYSTEMS CONCEPTS AND 
@@ -252,8 +252,7 @@ Reference Books
 Tata McGraw Hill, 2015. 
 2. Thomas  Connolly,  Carolyn  Begg,  Database  Systems:  A  Prac tical  Approach  to  Design, 
 Implementation and Management,6thEdition,Pearson,2015 
-3. 
- C. J. Date, A. Kannan, 
+3. C. J. Date, A. Kannan, 
 Edition, Pearson Education, 2006 
 Mode of Evaluation:CAT/ Digital Assignment /Quiz/FAT/ Project. 
 List of  Experiments   
@@ -276,17 +275,8 @@ Updating using trigger 3 hours
 10. Database Application development 3 hours 
 Total Laboratory Hours  30  hours 
 Mode of assessment: Assessment Examination, FAT Lab Examination 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
- 
- 
- 
- 
- 
- 
-Proceedings of the 59th Academic Council [24.09.2020] 810
 
-Syllabus Operating System Principles
+Syllabus Operating System Principles(5 year data science)
 CSI1002  Operating System Principles L  T P J C 
   2 0 2 0  3 
 Module:1 Introduction 4 hours 
@@ -352,7 +342,7 @@ Recommended by Board of Studies 16-09-2020
 Approved by Academic Council No. 59 Date 24-09-2020 
  Proceedings of the 59th Academic Council [24.09.2020] 812
 
-Syllabus Formal Languages and Automata Theory
+Syllabus Formal Languages and Automata Theory(5 year data science)
 CSI1003 Formal Languages and Automata Theory L  T P J C 
   3 0 0 0  3 
 Module:1 Introduction to Languages and Grammars 4 hours 
@@ -399,11 +389,8 @@ Reference Books
 Brokecole Cengage Learning , 2012.  
 4.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020  
-Proceedings of the 59th Academic Council [24.09.2020] 814
 
-Syllabus Computer Organization And Architecture
+Syllabus Computer Organization And Architecture(5 year data science)
 CSI1004  Computer Organization And Architecture L  T P J C 
   3 0 0 0  3 
 Module:1 Introduction to computer architecture 4 hours 
@@ -451,11 +438,8 @@ Reference Books
 Computer Architecture and Organization by William Stallings, P HI Pvt. Ltd., Eastern 
 Economy Edition, Sixth Edition, 2003  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 816
 
-Syllabus Software Engineering Principles
+Syllabus Software Engineering Principles(5 year data science)
 CSI1007 Software Engineering Principles  L T P J C 
   2 0 2 0 3 
 Module:1 Introduction 5 hours 
@@ -526,13 +510,9 @@ Science),Reprint Springer, 2010
 3. William E. Lewis , “Software Testing and Continuous Quality Improvement”, Third 
 Edition, Auerbach Publications, 2008 
 4. David Gustafson , Schaum's Outline of Software Engineering,1st Edition, 2020 
-Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar/Lab 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 259
+Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar/Lab   
 
-Syllabus DIGITAL LOGIC AND COMPUTER DESIGN 
+Syllabus DIGITAL LOGIC AND COMPUTER DESIGN (5 year data science)
 CSI2001  DIGITAL LOGIC AND COMPUTER DESIGN  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to  Digital Logic  3 hours  
@@ -601,16 +581,9 @@ customers leaving and joining the queue respe ctively. Design a circuit that dis
 number of customers waiting in the queue in binary format using LEDs. Binary 1 is 
 represented by LED glow and 0 otherwise.  
 Total Laboratory Hours  30 hours  
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 261
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  05.02.2020  
-Approved by Academic Council  No. 61  Date  18.02.2021  
- 
- 
-  
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 262
 
-Syllabus Data Structures and Algorithm Analysis
+Syllabus Data Structures and Algorithm Analysis(5 year data science)
 CSI2002 Data Structures and Algorithm Analysis L T  P J C 
 3 0 2 0
 Module:1 Introduction to Data Structures 5 hours
@@ -672,11 +645,8 @@ List of Indicative Experiments
 14. Shortest Path Algorithm 
 Total Laboratory Hours 30 hours
 Mode of assessment: CAT / Assignment / Quiz / FAT / Seminar 
-Recommended by Board of Studies 05.02.2020 
-Approved by Academic Council No. 61 Date 18.02.2021 
-Proceedings of the 61st Meeting of the Academic Cou ncil [18.02.2021] 264
 
-Syllabus Advanced Algorithms
+Syllabus Advanced Algorithms(5 year data science)
 CSI2003 Advanced Algorithms L T P J C 
   2 0 2 0 3 
 Module:1 Algorithm Design Techniques 5 hours 
@@ -754,12 +724,8 @@ b. Write a program (linear time) to convert that the simple polygon
 of P to a Convex Hull. 2 hours 
 Total Laboratory Hours 30 hours 
 Mode of evaluation: Regular Assignments, Continuous Assessment Test / FAT (Lab)  
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 266
 
-Syllabus Advanced Database Management Systems
+Syllabus Advanced Database Management Systems(5 year data science)
 CSI2004 Advanced Database Management Systems L T P J C 
   3 0 0 0 3 
 Module:1 Database Design Techniques 5 hours 
@@ -800,12 +766,8 @@ Databases”, O'Reilly Media, Inc. 2019
 3. S.K.Singh, Database Systems: Concepts, Design & Applications, 2nd Edition, Pearson 
 education, 2011 
 Mode of Evaluation: CAT/ Digital Assignments/ Quiz/ FAT/ Project. 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 268
 
-Syllabus Principles of Compiler Design 
+Syllabus Principles of Compiler Design (5 year data science)
 CSI2005 Principles of Compiler Design L T P J C 
   3 0 0 0 3 
 Module:1 Introduction to Compilation and Lexcial Analysis 7 hours 
@@ -853,13 +815,8 @@ Cambridge University Press;, 2002.
 Allen Holub, Compiler Design in C, Prentice Hall,1990. 
 Torbengidius Mogensen, “Basics of Compiler Design”, Springer, 2011.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 270
 
-Syllabus Microprocessor and Interfacing Techniques
+Syllabus Microprocessor and Interfacing Techniques(5 year data science)
 CSI2006 Microprocessor and Interfacing Techniques L T P J C 
   2 0 2 0 3 
 Module:1 Intel x86/ARM Processors 5 hours 
@@ -945,12 +902,8 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 272
 16. Seven segment LED DISPLAY using  8086/Intel Arduino  Board 2 hours 
 Total Laboratory Hours 30  hours 
 Mode of evaluation: CAT/FAT/Assignment 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 273
 
-Syllabus Data Communication and Networks 
+Syllabus Data Communication and Networks (5 year data science)
 CSI2007 Data Communication and Networks L T P J C 
   3 0 2 0 4 
 Module:1 Basics of Data Communication and Computer Network 5 hours 
@@ -995,17 +948,12 @@ Pearson, , 2016
 Behrouz A. Forouzan , Data Communications and Networking, , 5th Ed.  McGraw Hill 
 Education ,2012 
 Reference Books 
-1 
-2 
- 
-3 
- 
-4 William Stallings, Data and Computer Communications, 10th Ed, Pearson Education, ,2013. 
+1.William Stallings, Data and Computer Communications, 10th Ed, Pearson Education, ,2013. 
 Larry Peterson and Bruce Davie, Computer Networks: A Systems Approach, 5th Ed , 
 Elsevier, 2011. 
-Ying-Dar Lin, Ren- Hung Hwang, Fred Baker, “Computer Networks: An Open Source 
+2.Ying-Dar Lin, Ren- Hung Hwang, Fred Baker, “Computer Networks: An Open Source 
 Approach”, McGraw Hill, 2012.  
-Andrew S Tanenbaum, “Computer Networks”, 5th Edition, Pearson, 2011. 
+3.Andrew S Tanenbaum, “Computer Networks”, 5th Edition, Pearson, 2011. 
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
 List of Experiments   
 1. Basic Networking  Commands  using Linux 1 hour 
@@ -1020,12 +968,8 @@ Routing protocols 4 hours
 9 Study about Network Simulation tools 2 hours 
 Total Laboratory Hours 30 hours 
 Mode of evaluation: Assignment, CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 275
 
-Syllabus Programming in Java 
+Syllabus Programming in Java (5 year data science)
 CSI2008 Programming in Java L T P J C 
   3 0 2 0 4 
 Module:1 Introduction to Java Programming  
@@ -1094,12 +1038,8 @@ through servlets. 3 hours
 through servlets with JDBC 4 hours 
 Total Laboratory Hours 30 hours 
 Mode of evaluation: CAT / Assignment / Quiz / FAT 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 277
 
-Syllabus Cloud Computing Methodologies
+Syllabus Cloud Computing Methodologies(5 year data science)
 CSI3001 Cloud Computing Methodologies L T P J C 
         3 0 2 0 4 
 Student Learning Outcomes (SLO): 5,9,17 
@@ -1163,13 +1103,9 @@ Collaborative tool 3 hours
 11. Hadoop as a Service  2 hours 
 12. Cloud TM Online Collaboration Services (User Defined Applications) 2 hours 
 Total Laboratory Hours  30 hours 
-Mode of assessment: CAT1/CAT2/FAT 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 279
+Mode of assessment: CAT1/CAT2/FAT
 
-Syllabus Applied Cryptography and Network Security
+Syllabus Applied Cryptography and Network Security(5 year data science)
 CSI3002 Applied Cryptography and Network Security L T P J C 
   2 0 2 0 3 
 Module:1 Introduction to Cryptography  4 hours 
@@ -1243,12 +1179,8 @@ Edition, WILEY, 2015
 H. Silverman, A Friendly Introduction to Number Theory, 4th Ed. Boston: Pearson, 
 2012.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Lab 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18.02.2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 281
 
-Syllabus Artificial Intelligence and Expert Systems
+Syllabus Artificial Intelligence and Expert Systems(5 year data science)
 CSI3003 Artificial Intelligence and Expert Systems L T P J C 
   3 0 0 0 3 
 Module:1 Introduction to Artificial Intelligence 5 hours 
@@ -1292,12 +1224,8 @@ Peter Jackson, “Introduction to Expert Systems”, 3rd Edition, Pearson Educat
 Kevin Night and Elaine Rich, Nair B., “Artificial Intelligence (SIE)”, 3rd Edition, McGraw 
 Hill, 2008 
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 283
 
-Syllabus Data Science Programming
+Syllabus Data Science Programming(5 year data science)
 CSI3004  Data Science Programming  L T P J C 
   2 0 2 0 3 
 Module:1  Introduction  3 hours  
@@ -1372,7 +1300,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 285
 
-Syllabus Advanced Data Visualization Techniques
+Syllabus Advanced Data Visualization Techniques(5 year data science)
 CSI3005  Advanced Data Visualization Techniques  L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to Data Visualization and Visualization 
@@ -1435,7 +1363,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 287
 
 Syllabus Fundamentals of Electrical and Electronics 
-Engineering
+Engineering(5 year data science)
 EEE1024 Fundamentals of Electrical and Electronics 
 Engineering L T P J C 
   2 0 2  0 3 
@@ -1508,12 +1436,9 @@ International, 2010.
 5. A Course In Electrical And Electronic Measurements And 
 Instrumentation Dhanpat Rai Publications, 2012.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 16-09-2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 818
 
 
-Syllabus Discrete Mathematics and Graph Theory
+Syllabus Discrete Mathematics and Graph Theory(5 year data science)
 MAT1014  Course title L T P J C 
  Discrete Mathematics and Graph Theory  3 2 0 0 4 
 Module:1  Mathematical Logic and Statement Calculus   6 hours  
@@ -1579,7 +1504,7 @@ Digital Assignments,  Quiz, Continuous Assessments, F inal Assessment Test
 Recommended by Board of Studies   
 Approved by Academic Council  No. 47  Date  05-10-2017  
  
-Syllabus Linear Algebra
+Syllabus Linear Algebra(5 year data science)
 MAT1022 Linear Algebra LTPJC
 30003
 Module:1 System of  Linear Equations : 6 hours
@@ -1786,7 +1711,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 291
 
-Syllabus Foundations of Data Science
+Syllabus Foundations of Data Science(5 year data science)
 MDI3002  Foundations of Data Science  L T P J C 
   
  3 0 0 0 3 
@@ -1848,13 +1773,8 @@ Frontline‟, O‟Reilly Media, 2013.
 Hossein Pishro -Nik, “Introduction to Probability, Statistics, and Random Processes”, 
 Kappa Research, LLC, 2014.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-293
 
-Syllabus Machine Learning for Data Science
+Syllabus Machine Learning for Data Science(5 year data science)
 MDI4001  Machine Learning for Data Science   L T P J C 
   3 0 2 0 4 
 Module:1  Introduction to Machine Learning  6 hours  
@@ -1917,7 +1837,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 295
 
-Syllabus  User Interface Design
+Syllabus  User Interface Design(5 year data science)
 CSI1005  User Interface Design   L T P J C 
   2 0 2 0 3  
 Module:1  Interactive Software a nd Interaction Device  4 hours  
@@ -1988,7 +1908,7 @@ Approved by Academic Council  No. 61  Date  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 331
 
-Syllabus Soft Computing Techniques 
+Syllabus Soft Computing Techniques (5 year data science)
 CSI3006 Soft Computing Techniques L  T P J C 
 3 0 0   
 Module:1 Introduction to Soft Computing 3 hours  
@@ -2041,12 +1961,8 @@ S, Rajasekaran
 ndEd , PHI Publication,. 2017. 
 George J. Klir,Fuzzy Sets and Fuzzy Logic: Theory and Applications, Prentic e Hall, 2015 
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Mode of assessment: 
-Recommended by Board of Studies 11-02-2021
-Approved by Academic Council No. 61 Date 18-02-2021
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 297
 
-Syllabus Advanced Python Programming
+Syllabus Advanced Python Programming(5 year data science)
 CSI3007 Advanced Python Programming LT P J C 
 2 0 4 0 4 
 Module:1 Data Structures 4 Hours       
@@ -2110,7 +2026,7 @@ Approved by Academic Council No.61 Date 18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 299
 
-Syllabus Internet of Everything
+Syllabus Internet of Everything(5 year data science)
 CSI3008 Internet of Everything L T P J C 
   3 0 2 0 4 
 Module:1 Introduction to Internet of Things 5 Hours 
@@ -2191,11 +2107,8 @@ and send it to MQTT broker. 3 hours
 11. Implement a Theft detection application. 4 hours 
 Total Laboratory Hours 30 hours 
 Mode of evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 11-02-2021
-Approved by Academic Council No. 61 Date 18-02-2021
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 301
 
-Syllabus Advanced Wireless Networks
+Syllabus Advanced Wireless Networks(5 year data science)
 CSI3009 Advanced Wireless Networks L T P J C 
 3 0 2 0 4 
 Module:1 Introduction 7 hours 
@@ -2263,7 +2176,7 @@ Approved by Academic Council No. 61 Date 18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 303
 
-Syllabus Computer Graphics and Multimedia
+Syllabus Computer Graphics and Multimedia(5 year data science)
 CSI3011 Computer Graphics and Multimedia L T P J C 
   3 0 2 0 4  
 Module:1 Graphical Concepts and Display Systems    6   hours 
@@ -2292,9 +2205,6 @@ communication standards − JPEG, MPEG .
 Module:8 Recent Trends    2   hours 
  Total Lecture hours: 45 hours 
 Text Book(s) 
-1. 
- 
- 
 2. Hearn, Donald, M. Pauline Baker, and Warren R. Carithers. Computer graphics with 
 OpenGL. Upper Saddle River, NJ: Pearson Prentice Hall, 2014. [Module 1 - Module 5] 
 Steinmetz, Ralf, and Klara Nahrstedt. Multimedia systems. Springer Science & Business 
@@ -2323,13 +2233,8 @@ primitives 4 hours
 8 Create a 2D animation using 2D modelling software. 8 hours 
 Total Laboratory Hours 30 hours 
 Mode of evaluation: CAT / Assignment / Quiz / FAT / Project  
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 307
 
-Syllabus Distributed Systems
+Syllabus Distributed Systems(5 year data science)
 CSI3012 Distributed Systems L T P J C 
   3 0 2 0 4 
 Module:1 Introduction 6 hours       
@@ -2399,7 +2304,7 @@ Approved by Academic Council No. 61 Date 18-02-2021
  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 309
 
-Syllabus Blockchain Technologies
+Syllabus Blockchain Technologies(5 year data science)
 CSI3013 Blockchain Technologies  L T P J C 
   3 0 0 4 4 
 Module:1 Blockchain Foundations 7 hours 
@@ -2455,12 +2360,8 @@ Wiley & Sons.
 4 Joseph Bonneau et al, SoK: Research perspectives and challenges for Bitcoin and 
 cryptocurrency, IEEE Symposium on security and Privacy, 2015. 
 Mode of Evaluation:CAT/ Digital Assignments /Quiz/FAT/ Project. 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 311
 
-Syllabus Software Verification and Validation 
+Syllabus Software Verification and Validation (5 year data science)
 CSI3014 Software Verification and Validation  L T P J C 
   3 0 0 0 3 
 Module:1 Overview of Software Engineering      5 hours 
@@ -2505,12 +2406,8 @@ Reference Books
 3 William E. Lewis , Software Testing and Continuous Quality Improvement, Third 
 Edition, Auerbach Publications, 2017 
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies: 11-02-2021  
-Approved by Academic Council   No.61                                                     Date:         18-02-2021    
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 313
 
-Syllabus Software Project Management
+Syllabus Software Project Management(5 year data science)
 CSI3015  Software Project Management  L T P J C 
   3 0 0 0 3  
 Module:1  Introduction to Project Management  7 hours  
@@ -2559,13 +2456,8 @@ Practices, Tools and Techniques, J. Ross Publishing, 2010
 Edition, 2002 
 3. Microsoft Project 2010 Bible,Elaine Marmel 
 Mode of Evaluation:CAT/ Digital Assignments /Quiz/FAT/ Project. 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 315
 
-Syllabus Machines and Controls 
+Syllabus Machines and Controls (5 year data science)
 CSI3016 Robotics: Machines and Controls  L T P J C 
   3 0 0 0 3 
 Module:1 Introduction  3 hours  
@@ -2608,12 +2500,8 @@ edition 2011
 Integrated Approach, Prentice Hall India-New Delhi- 2001  
 3. John Craig, “ Introduction to Robotics, Mechanics and Control” February 2017, Pearson  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 317
 
-Syllabus Advanced Data Compression Techniques
+Syllabus Advanced Data Compression Techniques(5 year data science)
 CSI3019  Advanced Data Compression Techniques L T P J C 
   3 0 0 0 3 
 Module:1 Introduction 7 hours 
@@ -2653,12 +2541,8 @@ Developers, O’Reilly.2016.
 2. Feng Wu, Advances in Visual Data Compression and Communication Meeting the 
 Requirements of New Applications, Auerbach Publications 2014.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 323
 
-Syllabus Advanced Graph Algorithms
+Syllabus Advanced Graph Algorithms(5 year data science)
 CSI3020 Advanced Graph Algorithms L T P J C 
   3 0 0 0 3 
 Module:1 Basics of Graph and Operations 4 hours 
@@ -2705,11 +2589,8 @@ Addison Wesley, 1974.
 T.Kloks  “Advance Graph Algorithms” –   Kloks, 2012 
 Mode of Evaluation: CAT/ Digital Assignments /Quiz/FAT/ Project. 
 Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 325
 
-Syllabus Advanced Computer Architecture
+Syllabus Advanced Computer Architecture(5 year data science)
 CSI3021 Advanced Computer Architecture L T P J C 
   3 0 0 0 3 
 Module:1 Introduction to Advanced Computer Design  5 hours       
@@ -2754,12 +2635,8 @@ memory, parallel programming (scientific and engineering computation),, 1st Edit
 3. David B Kirk, Wen-mei W Hwu, Programing Massively Parallel Processors: A Handson 
 Approach(Application of GPU Computing Series) , 2 nd Edition, Morgan Kaufmann,2013. 
 Mode of Evaluation: CAT/ Digital Assignments /Quiz/FAT/ Project. 
-Recommended by Board of Studies 11-02-2021  
-Approved by Academic Council No. 61 Date 18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 327
 
-Syllabus Cyber Security and Application Security 
+Syllabus Cyber Security and Application Security (5 year data science)
 CSI3022 Cyber Security and Application Security  L T P J C 
   3 0 2 0 4 
 Module:1 Number Theory Basics 5 hours 
@@ -2826,7 +2703,7 @@ Recommended by Board of Studies 11-02-2021
 Approved by Academic Council No. 61 Date 18-02-2021  
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021] 329
 
-Syllabus Applications of Differential and Difference 
+Syllabus Applications of Differential and Difference (5 year data science)
 MAT2002  Applications of Differential and Difference 
 Equations  L T P J C 
   3 0 2 0 4 
@@ -2909,7 +2786,7 @@ Studies
 Approved by Academic 
 Council  No. 37  Date  16-06-2015  
  
-Syllabus Engineering Chemistry
+Syllabus Engineering Chemistry(5 year data science)
 CHY1701 Engineering Chemistry L T P J C 
 3 0 2 0 4 
 Module:1 Water Technology 5 hours SLO: 1,14  
@@ -3019,9 +2896,6 @@ and demonstration of its working
 3. Calcium in food samplesNon-contact hours 
 Total Laboratory Hours  17 hours 
 Mode of Evaluation: Viva-voce and Lab performance & FAT  
-Recommended by Board of 
-Studies 06-06-2018
-Approved by Academic Council 50th ACM Date 14.06.2018 
 
 Syllabus PROBLEM SOLVING AND PROGRAMMING
 CSE1001  PROBLEM SOLVING AND PROGRAMMING  L T P J C 
@@ -3072,8 +2946,6 @@ Severance.
 2. Charles Dierbach.2013.Introduction to computer science using python: a computational 
 problem-solving focus. Wiley Publishers. 
 Mode of Evaluation:      PAT / CAT  / FAT  
-Recommended by Board of Studies  
-Approved by Academic Council No. 37 Date 16-06-2015 
  
 
 Syllabus PROBLEM SOLVING AND OBJECT ORIENTED 
@@ -3181,11 +3053,9 @@ Reference Books
 3. Maureen Sprankle and Jim Hubbard, Problem solving and Programming concepts, 9th 
 edition, Pearson Eduction, 2014. 
 Mode of assessment: PAT / CAT  / FAT  
-Recommended by Board of Studies 04-04-2014 
-Approved by Academic Council No. 37 Date 16-06-2015 
  
 
-Syllabus Technical English - I 
+Syllabus Technical English - I(5 year data science) 
 ENG1901 Technical English - I L T P J C
 0 0 4 0 2 
 Module:1 Advanced Grammar 4 hours  
@@ -3269,10 +3139,8 @@ List of Challenging Experiments (Indicative)
 5. Identifying Errors in a Sentence or Paragraph 
 6. Writing an E-mail by narrating life events 
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
-Syllabus Technical English - II
+Syllabus Technical English - II(5 year data science)
 ENG1902 Technical English - II L T P J C
 0 0 4 0 2 
 Module:1 Listening for Clear Pronunciation 4 hours  
@@ -3369,9 +3237,8 @@ Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments a
 6. Writing a proposal 
 Mode of evaluation:  Quizzes, Presentation, Discussion, Role play, Assignments and FAT 
 Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
-Syllabus Advanced Technical English
+Syllabus Advanced Technical English(5 year data science)
 ENG1903 Advanced Technical English L T P J C
 0 0 2 4 2 
 Module:1 Negotiation and Decision Making Skills through Literary 
@@ -3444,8 +3311,6 @@ J- Component Sample Projects
 5.Vlogging 
 Total  Hours (J-Component)  60 Hours  
 Mode of evaluation: Quizzes, Presentation, Discussion, Role play, Assignments and FAT  
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date: 13.06.2019 
 
 Syllabus ETHICS AND VALUES
 HUM1021 ETHICS AND VALUES L T P J C 
@@ -3498,11 +3363,9 @@ Substance Abuse: Pharmacological , Developmental and Clinical Considerations”,
 Publishers, U.S.A 
 4. Pandey, P. K (2012), “Sexual Harassment and Law in India”, Lambert Publishers, Germany  
 Mode of Evaluatio n: CAT, Assignment, Quiz, FAT and  Seminar 
-Recommended by Board of Studies 26.07.2017 
-Approved by Academic Council 46th ACM Date 24.08.2017 
  
 
-Syllabus Calculus for Engineers
+Syllabus Calculus for Engineers(5 year data science)
 MAT1011  Calculus for Engineers  L T P J C 
   3 0 2 0 4 
 Module:1  Application of Single Variable Calculus                      9 hours  
@@ -3748,7 +3611,9 @@ Project
 Total Project 60 hours 
 Recommended by Board of Studies  08.06.2015 
 Approved by Academic Council 37th ACM Date 16.06.2015 
- 
+
+
+ syllabus for Engineering Physics(5 year data science)
 PHY1701 Engineering Physics  L  T P J C 
   3  0 2 0 4 
 Module:1  Introduction to Modern Physics 6 hours 
@@ -3847,11 +3712,8 @@ Proceedings of the 59th Academic Council [24.09.2020] 593
 15. Demonstration of phase velocity and group velocity (Computer simulation ) 2 hrs 
 Total Laboratory Hours  30 hrs 
 Mode of evaluation: CAT / FAT 
-Recommended by Board of Studies  25.06.2020 
-Approved by Academic Council No. 59 Date 24-09-2020 
-Proceedings of the 59th Academic Council [24.09.2020] 594
 
-Syllabus Advanced C Programming 
+Syllabus Advanced C Programming  (5 year data science)
 CSE2010 Advanced C Programming L T  P J C 
   2 0 2 0  3  
 Module:1  Control Structures, Functions and Pointer 3 hours 
@@ -4046,7 +3908,7 @@ Approved by Academic Council  No.61  Date:  18-02-2021
 Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 305
 
-Syllabus Business Intelligence
+Syllabus Business Intelligence(5 year data science)
 CSI3017  Business Intelligence  L T P J C 
   3 1 0 0 4 
 Module:1  BI Fundamentals  4 hours  
@@ -4102,13 +3964,8 @@ Joseph H.  Silverman , “ Introduction to Number Theory, 4th Ed. Boston”,  Pe
 Ramesh Sharda, Dursun Delen, and Efraim Turban., “Business Intelligence and Analytics: 
 Systems for Decision Support” , 10th edition, Pearson Education, 2014.  
 Mode of Evaluation:  CAT / Assignment / Quiz / FAT / Lab  
-Recommended by Board of Studies  11-02-2021  
-Approved by Academic Council  No. 61  Date  18-02-2021  
- 
-Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
-319
 
-Syllabus Advanced Java 
+Syllabus Advanced Java (5 year data science)
 CSI3018  Advanced Java   L T P J C 
   2 0 2 0 3  
 Module:1  JDBC Programming  4 hours  
@@ -4190,7 +4047,7 @@ Proceedings of the 61st Meeting of the Academic Council [18.02.2021]
 321
 
 Syllabus Advances in Data Base Administration and 
-Security
+Security(5 year data science)
 MDI4007 Advances in Data Base Administration and 
 SecurityLTPJC
 30003
@@ -4232,7 +4089,7 @@ Reference Books
 R. Elmasri, S.B.  
 Pearson Education/Addison Wesley, 2010.
 
-Syllabus Foundation English
+Syllabus Foundation English(5 year data science)
 ENG1000 Foundation English -I L T P J C
 0 0 4 0  2 
 Module:1 Essentials of grammar 3 Hours  
@@ -4312,7 +4169,7 @@ Mode of Evaluation: Quizzes, Presentation, Discussion, Role Play, Assignments
 Recommended by Board of Studies 08-06-2019
 Approved by Academic Council 55 Date 13.06.2019 
 
-Syllabus Foundation English -II
+Syllabus Foundation English -II(5 year data science)
 ENG2000 Foundation English -II L T P J C
 0 0 4 0  2 
 Module:1 Grammatical Aspects  4 hours  
@@ -4390,10 +4247,8 @@ List of Challenging Experiments (Indicative)
 5.Drafting SOP (Statement of Purpose) 
 6.Video Profile 
 Mode of Evaluation: Presentation, Discussion, Role Play, Assignments , FAT 
-Recommended by Board of Studies 08.06.2019 
-Approved by Academic Council 55 Date 13.06.2019 
 
-Syllabus Environmental Sciences
+Syllabus Environmental Sciences(5 year data science)
 CHY1002  Environmental Sciences  L T P J C 
   3 0 0 0 3 
 Module:1  Environment and Ecosystem                                    7 hours  
@@ -4450,7 +4305,4 @@ Principles, Connections and Solutions, 17th Edition, Brooks/Cole, USA.
 Reference Books  
 1. David  M.Hassenzahl,  Mary  Catherine  Hager,  Linda  R.Berg  (2011),  Visualizing  
 Environmental Science, 4thEdition, John Wiley & Sons, USA.  
-Mode of evaluation: Internal Assessment (CAT, Quizzes, Digital Assignments) & FAT  
-Recommended by Board of Studies  12.08.2017  
-Approved by Academic Council  No. 46  Date  24.08.2017  
- 
+Mode of evaluation: Internal Assessment (CAT, Quizzes, Digital Assignments) & FAT   

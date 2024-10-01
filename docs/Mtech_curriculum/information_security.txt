@@ -2,9 +2,8 @@ School of Computer Science and Engineering
 CURRICULUM AND SYLLABI 
 (2024-2025) 
 M.Tech. Computer Science and Engineering (Information Security)  
-M. Tech Computer Science and Engineering 
-Specialization in Information Security 
- 
+M. Tech Computer Science and Engineering, Specialization in Information Security 
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/08/M.TechCSE-IS_2024_2025.pdf
  
  
 CREDIT STRUCTURE  
@@ -65,7 +64,7 @@ S. No. Course Code  Course Title  Course Type  Version L T P J C
  
 Discipline Core 
 
-Syllabus Data Structures  and Algorithms
+Syllabus Data Structures  and Algorithms (Information Security)
 Course code Course title L T P C 
 MCSE501L  Data Structures  and Algorithms  3 0 0 3 
 Module:1  Growth of Functions  3 hours 
@@ -102,8 +101,6 @@ Reference  Books
 Springer. 
 2. Brass, Peter. Advanced  data structures.  Vol. 193. Cambridge:  Cambridge University  Press, 2008. 
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
 Syllabus Data Structures  and Algorithms  LAB
 Course code Course title L T P C 
@@ -147,10 +144,8 @@ Reference  Books
 Springer. 
 2. Brass, Peter. Advanced  data structures.  Vol. 193. Cambridge:  Cambridge University  Press, 2008. 
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
-Syllabus Design and Analysis of Algorithms
+Syllabus Design and Analysis of Algorithms(Information Security)
 Course code Course title L T P C 
 MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
 Module:1  Greedy, Divide and Conquer  Techniques  Introduction  6 hours 
@@ -194,8 +189,6 @@ Press, 1995 (Online Print  2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014. 
 3. Jon Kleinberg  and EvaTardos,  Algorithm  Design, Pearson Education,   2014. 
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
 Syllabus Design and Analysis of Algorithms Lab
 Course code Course title L T P C 
@@ -244,10 +237,8 @@ Press, 1995 (Online Print  2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014. 
 3 Jon Kleinberg  and EvaTardos,  Algorithm  Design, Pearson Education,   2014. 
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
-Syllabus Computer  Architecture  and Organization 
+Syllabus Computer  Architecture  and Organization (Information Security)
 Course code Course title L T P C 
 MCSE503L  Computer  Architecture  and Organization  3 0 0 3 
 Module:1  Computer  Evolution  And Performance  5 hours 
@@ -289,8 +280,6 @@ Reference  Books
 2. Shameem  Akhter, Jason Roberts, Multi-core Programming: Increasing  Performance  Through 
 Software Multi-threading, 2010, Intel Press, BPB Publications 
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
 Syllabus  Computer  Architecture  and Organization  LAB
 Course code Course title L T P C 
@@ -351,11 +340,9 @@ edition, Morgan Kaufmann
 Reference  Books 
 1. Shameem  Akhter, Jason Roberts, Multi-core Programming:  Increasing  Performance  Through 
 Software Multi-threading, 2010, Intel Press, BPB Publications 
-Mode of Evaluation:  CAT / Mid-Term Lab/ FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
+Mode of Evaluation:  CAT / Mid-Term Lab/ FAT  
 
-Syllabus  OPERATING  SYSTEMS
+Syllabus  OPERATING  SYSTEMS (Information Security)
 Course code Course title L T P C 
 MCSE504L  OPERATING  SYSTEMS  3 0 0 3 
 Module:1  Introduction  to Operating  Systems 4 hours 
@@ -401,8 +388,6 @@ Reference  Books
 McGraw-Hill Education.  
 3. Portnoy,   2nd Edition, John Wiley  & Sons, New Jersey,  USA. 
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
 
 Syllabus OPERATING  SYSTEMS  LAB
 Course code Course title L T P C 
@@ -458,10 +443,9 @@ Progra UNIX Envir_p3. Addison-Wesley.
 2. Love, Robert,  Programming: talking directly to the kernel and C  2013, 2nd 
 Edition,  Media, Inc, United States. 
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
+
  
-Syllabus Computer  Networks
+Syllabus Computer  Networks (Information Security)
 Course code Course title L T P C 
 MCSE505L  Computer  Networks  3 0 0 3 
 Module:1  Computer  Networks  and the Internet 7 hours 
@@ -506,8 +490,6 @@ Reference  Books
 Morgan Kaufmann, United States of America. 
 2. Andrew S. Tanenbaum,    2013, 6th Edition, Pearson,  Singapore.  
 Mode of Evaluation: CAT / Written Assignment / Quiz  / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
  
 Syllabus Computer  Networks  Lab
 Course code Course title L T P C 
@@ -548,11 +530,9 @@ Reference  Books
 1. James F. Kuross, Keith W. Ross,  Networking, A Top-Down  8th Edition 
 (Paperback), Pearson Education, 2022. 
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
  
 
-Syllabus DATABASE SYSTEMS
+Syllabus DATABASE SYSTEMS (Information Security)
 Course code Course title L T P C 
 MCSE506L  DATABASE SYSTEMS  3 0 0 3 
 Module:1  Design and Implementation  of Relational  Model 6 hours 
@@ -598,10 +578,6 @@ Morgan Kaufmann, 2002.
 3 Dunckley  L. Multimedia  databases:  An object relational  approach.  Addison-Wesley Longman  
 Publishing Co., Inc.; 2003 Jan 1. 
 Mode of Evaluation:  CAT / Written  Assignment /  Quiz / FAT 
-Recommended by Board of 
-Studies 26-07-2022 
-Approved by Academic 
-Council No. 67 Date 08-08-2022 
  
 
 Syllabus DATABASE  SYSTEMS  LAB
@@ -676,15 +652,11 @@ Implementation and  6th Edition, Pearson India, 2015
 3. Mishra, Sanjay, and Alan Beaulieu.  Mastering  Oracle SQL: Putting Oracle SQL to Work. O'Reilly 
 Media, Inc., 2004. 
 Mode of Evaluation:  CAT / Mid-Term Lab/  FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
- 
  
 
 Discipline Elective 
 
-Syllabus INFORMATION SECURITY AND RISK 
-MANAGEMENT
+Syllabus INFORMATION SECURITY AND RISK MANAGEMENT (Information Security)
 Course code INFORMATION SECURITY AND RISK 
 MANAGEMENT L T P C 
 MCSE608L   3 0 0 3 
@@ -730,11 +702,9 @@ Reference  Books
 framework and software as a tool for compliance with information security  First 
 Edition, Apple Academic Press, New York. 
 Mode of Evaluation:  CAT / Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No.67 Date 08-08-2022 
 
 
-Syllabus CRYPTOSYSTEMS
+Syllabus CRYPTOSYSTEMS (Information Security)
 Course code CRYPTOSYSTEMS  L T P C 
 MCSE609L   2 0 0 2 
 Module:1  Mathematical  Foundations  of Cryptosystems  4 hours 
@@ -780,9 +750,7 @@ Reference  Books
 2. Behrouz A Forouzan,  Debdeep Mukhopadhyay,   and Network  2011, 
 Tata Mcgraw Hill education private limited, India 
 Mode of Evaluation: CAT /  Assignment / Quiz  / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No.67 Date 08-08-2022 
- 
+
 Syllabus CRYPTOSYSTEMS  LAB 
 Course code CRYPTOSYSTEMS  LAB L T P C 
 MCSE609P   0 0 2 1 
@@ -820,13 +788,11 @@ Reference  Books(s)
 20th edition, John Wiley & Sons, New York. 
 2. Behrouz A Forouzan, Debdeep Mukhopadhyay,  and Network  2011, 
 Tata Mcgraw Hill education private limited, India 
-Mode of Evaluation:  Continuous  Assessment  / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
+Mode of Evaluation:  Continuous  Assessment  / FAT  
  
 
 Syllabus PENETRATION TESTING AND VULNERABILITY 
-ASSESSMENT
+ASSESSMENT (Information Security)
 Course code PENETRATION TESTING AND VULNERABILITY 
 ASSESSMENT L T P C 
 MCSE610L   2 0 0 2 
@@ -874,8 +840,6 @@ security with Red Team and Blue Team  2018, Packt Publishing Ltd, United Kingdom
 2. Andrew Whitaker,  and Daniel P. Newman.   Testing and Network  2005, Cisco 
 Press, New Jersey. 
 Mode of Evaluation:  CAT / Assignment /  Quiz / FAT 
-Recommended  by Board of Studies 26-07-2022 
-Approved  by Academic  Council No.67 Date 08-08-2022 
 
 Syllabus PENETRATION  TESTING  AND VULNERABILITY 
 ASSESSMENT LAB 
@@ -929,5 +893,3 @@ Reference Book(s)
 2. 
 New Jersey. 
 Mode of Evaluation: Continuous Assessment / FAT 
-Recommended by Board of Studies 26-07-2022 
-Approved  by Academic  Council No. 67 Date 08-08-2022 
