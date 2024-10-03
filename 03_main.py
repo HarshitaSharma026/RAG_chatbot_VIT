@@ -1,9 +1,4 @@
-"""
-Trying to use prompt template with the model
-"""
-
 import os
-import json
 import streamlit as st
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
@@ -25,7 +20,7 @@ os.environ["LANGCHAIN_TRACING_V2"]="true"
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 def setup_vector_store():
-    persist_directory = f"{working_dir}/vector_db_dir"
+    persist_directory = f"{working_dir}/vector_db"
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
     vectorstore = Chroma(persist_directory=persist_directory,
     embedding_function = embeddings)
@@ -44,6 +39,8 @@ def chat_chain(vectorstore):
         "formulate a standalone question which can be understood without the chat history. "
         "Do NOT answer the question, just reformulate it if needed and otherwise return it as is."
     )
+
+    # here passing rephrase prompt + history of the chat + current user input
     repharse_prompt = ChatPromptTemplate.from_messages(
         [
             ("system", rephrase_question_prompt),
@@ -51,7 +48,8 @@ def chat_chain(vectorstore):
             ("human", "{input}"),
         ]
     )
-    # Create a history-aware retriever
+
+    # Creating RETRIEVER for storing history, and retrieving documents
     history_aware_retriever = create_history_aware_retriever(
         model, retriever, repharse_prompt
     )
@@ -60,6 +58,7 @@ def chat_chain(vectorstore):
     system_prompt = (
         "Answer the question as detailed as possible from the provided context, make sure to provide all the details. "
         "Cross-question the user if needed to clarify the question further so that you can answer it properly. "
+        "If the user asks you about listing syllabus for any subject, just provide what's present is the knowledge base provided to you. Do not explain each of the topics in the syllabus unless the asks you to. Just provide the whole syllabus as it is mentioned in the knowledge base."
         "The link to the original document is provided in the document itself. "
         "Provide the link to the user if you're unable to get the complete answer. "
         "If the answer is not in the provided context just say, 'answer is not available in the context', "
@@ -77,10 +76,10 @@ def chat_chain(vectorstore):
         ]
     )
 
-    # Create a question-answering chain
+    # creating QA chain to extract relevent documents
     question_answer_chain = create_stuff_documents_chain(model, qa_prompt)
 
-    # Create a RAG chain using the retriever and the question-answering chain
+    # RAG chain = retriever + qa chain
     rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
     return rag_chain
 
@@ -94,21 +93,33 @@ st.title("📑 Multi document chatbot")
 
 # session state in streamlit
 # when the user is using the app, that time all the history will be stored there, but as soon as the user presses refresh the history of the last session will be lost and new session will be created.
-# Initialize session state for chat history and vectorstore
+
+# Initialize session state for chat history if its not already there
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
+# chat_history = [{"user": "how are you?"}, {"assistant", "i am good, i am ai"}]
+
+# check if session_state already has "vectorstore" variable, if not it'll call the setup_vector_store() method to intialize the vector store
 if "vectorstore" not in st.session_state:
     st.session_state.vectorstore = setup_vector_store()
 
+# checks if it already has "cconversational_chain" variable, if not it'll call chat_chain(vectorstore) method and pass vector stores to create the chain.
+# Initializing the conversational_chain here ensures that the chatbot can process user queries by retrieving relevant information and formulating coherent, informed responses.
 if "conversational_chain" not in st.session_state:
     st.session_state.conversational_chain = chat_chain(st.session_state.vectorstore)
 
 
-# here we are displaying the history of all the messages in one session
 # Display the history of messages in the current session
+# chat_history : stores messages as dictionaries, with each dictionary containing a role (either "user" or "assistant") and the corresponding content (the actual text of the message).
+# ------ This code is responsible for displaying the conversation history in the Streamlit app.  -------
 for message in st.session_state.chat_history:
+    # This line sets up a context for displaying the message in the chat format, with the appropriate role.
     with st.chat_message(message["role"]):
+    # This line displays the actual text content of the message using the st.markdown() function.
+    # The message["content"] retrieves the actual text of the message (either the user's input or the chatbot's response).
+    # st.markdown() renders the text in the app using Markdown, which is a lightweight markup language for formatting text.
+    # It displays the message content in the chat interface with any Markdown-supported formatting (such as bold, italics, or lists).
         st.markdown(message["content"])
 
 # Input for user to ask questions
@@ -123,9 +134,15 @@ if user_input:
 
     # Get the response from the conversational chain
     with st.chat_message("assistant"):
+        # calling conversational_chain, while also passing user_input and chat_history
         response = st.session_state.conversational_chain.invoke({"input": user_input, "chat_history": st.session_state.chat_history})
+
+        # The response from the model is retrieved using the "answer" key, and it is then rendered using st.markdown().
         assistant_response = response["answer"]
         st.markdown(assistant_response)
+
+        print(response["answer"])
+       
 
         # Add the assistant's response to the chat history
         st.session_state.chat_history.append({"role": "assistant", "content": assistant_response})
