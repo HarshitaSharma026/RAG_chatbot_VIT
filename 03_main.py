@@ -56,7 +56,7 @@ def chat_chain(vectorstore):
 
     # System prompt for actual question answering
     system_prompt = (
-        "Answer the question as detailed as possible from the provided context, make sure to provide all the details. "
+        "Answer the question as detailed as possible from the documents that's provided to you, make sure to provide all the details. "
         "Cross-question the user if needed to clarify the question further so that you can answer it properly. "
         "If the user asks you about listing syllabus for any subject, just provide what's present is the knowledge base provided to you. Do not explain each of the topics in the syllabus unless the asks you to. Just provide the whole syllabus as it is mentioned in the knowledge base."
         "The link to the original document is provided in the document itself. "
@@ -141,7 +141,8 @@ if user_input:
         assistant_response = response["answer"]
         st.markdown(assistant_response)
 
-        print(response["answer"])
+# Document(metadata={'source': './docs/academic_calender.txt'}, page_content="......"})
+        print(response['source'])
        
 
         # Add the assistant's response to the chat history
