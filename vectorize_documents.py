@@ -18,17 +18,17 @@ for file in os.listdir(dir_path):
         # append the raw document list to the external documents[] list
         # documents = [[mca1_doc], [ai_ml_doc], [cse_doc]]
         documents.extend(raw_doc_list)
-text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+text_splitter = CharacterTextSplitter(chunk_size=1500, chunk_overlap=100)
 text_chunks = text_splitter.split_documents(documents)
 print("Total chunks: ", len(text_chunks))
 vectordb = Chroma.from_documents(
     documents=text_chunks, 
     embedding=embeddings,
-    persist_directory="./vector_db"
+    persist_directory="./vectordb"
 )
 print(f"Document vectorization complete !!")
 
-# query = "Give me syllabus for Data Structues in mtech cse?"
-# matched_docs = vectordb.similarity_search(query)
-# for ind, doc in enumerate(matched_docs):
-#     print(f"-------- Document {ind}\nContents:\n{doc.page_content}")
+query = "Give me syllabus for Data Structues in mtech cse?"
+matched_docs = vectordb.similarity_search(query)
+for ind, doc in enumerate(matched_docs):
+    print(f"-------- Document {ind}\nContents:\n{doc.page_content}")

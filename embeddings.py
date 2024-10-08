@@ -24,7 +24,7 @@ embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
 # LOADING MULTIPLE FILES-----------------------------
 documents = []         # hold the text of all the docs present in the directory
-dir_path = "./docs"
+dir_path = "./dummy"
 for file in os.listdir(dir_path):
     if file.endswith(".txt"):
         complete_file_path = os.path.join(dir_path, file)
@@ -39,11 +39,12 @@ vectordb = Chroma.from_documents(
     embedding=embeddings,
     persist_directory="./dummydb"
 )
+print("Embedding complete !!")
 
-query = "What is the syllabus of probability and stats for MCA curriculum?"
-matched_docs = vectordb.similarity_search(query)
-for ind, doc in enumerate(matched_docs):
-    print(f"-------- Document {ind}\nContents:\n{doc.page_content}")
+# query = "What is the syllabus of Linear Algebra  for mtech cse 5 year integrated?"
+# matched_docs = vectordb.similarity_search(query)
+# for ind, doc in enumerate(matched_docs):
+#     print(f"-------- Document {ind}\nContents:\n{doc.page_content}")
 
 
 

@@ -20,7 +20,7 @@ os.environ["LANGCHAIN_TRACING_V2"]="true"
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 def setup_vector_store():
-    persist_directory = f"{working_dir}/vector_db"
+    persist_directory = f"{working_dir}/dummydb"
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
     vectorstore = Chroma(persist_directory=persist_directory,
     embedding_function = embeddings)
@@ -35,9 +35,10 @@ def chat_chain(vectorstore):
 # this prompt is to instruct the llm to reconstruct the question as a standalone question if the user has asked a question referening to previous question, or answer. "what is the syllabus of it?", so here "it" will be replaced with the actual course
     # This prompt is to reformulate the question into a standalone one
     rephrase_question_prompt = (
-        "Given a chat history and the latest user question which might reference context in the chat history, "
-        "formulate a standalone question which can be understood without the chat history. "
-        "Do NOT answer the question, just reformulate it if needed and otherwise return it as is."
+        "Given the previous conversation and the latest user question, reformulate the question into a standalone query. "
+        "Ensure that the rephrased question can be fully understood without needing any prior context from the conversation. "
+        "Do not modify the meaning or intent of the original question—simply make it independent of the chat history. "
+        "If no rephrasing is needed, return the question as is without making changes."
     )
 
     # here passing rephrase prompt + history of the chat + current user input
@@ -56,17 +57,18 @@ def chat_chain(vectorstore):
 
     # System prompt for actual question answering
     system_prompt = (
-        "Answer the question as detailed as possible from the documents that's provided to you, make sure to provide all the details. "
-        "Cross-question the user if needed to clarify the question further so that you can answer it properly. "
-        "If the user asks you about listing syllabus for any subject, just provide what's present is the knowledge base provided to you. Do not explain each of the topics in the syllabus unless the asks you to. Just provide the whole syllabus as it is mentioned in the knowledge base."
-        "The link to the original document is provided in the document itself. "
-        "Provide the link to the user if you're unable to get the complete answer. "
-        "If the answer is not in the provided context just say, 'answer is not available in the context', "
-        "DO NOT provide the wrong answer.\n\n"
-        "Context:\n {context}?\n"
-        "Question:\n {input}\n"
+        "Your goal is to answer the user's question accurately based on the documents provided. "
+        "When answering, provide as much relevant detail as possible from the available context, but avoid unnecessary information. "
+        "If the user's question is unclear, ask for clarification before proceeding to ensure you give the correct answer. "
+        "For syllabus-related questions, return only the full syllabus as it appears in the knowledge base. Do not elaborate on each topic unless explicitly requested by the user. "
+        "If you are unable to retrieve a complete answer from the provided documents, offer the document source or link to the user. "
+        "If the information requested is not available in the context, respond with: 'Answer is not available in the provided context.' "
+        "Avoid making assumptions or giving incorrect answers.\n\n"
+        "Context: {context}\n"
+        "Question: {input}\n"
         "Answer:"
     )
+
     # Chat prompt template for the answer generation
     qa_prompt = ChatPromptTemplate.from_messages(
         [
@@ -89,7 +91,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📑 Multi document chatbot")
+st.title("📑 RAG Chatbot")
 
 # session state in streamlit
 # when the user is using the app, that time all the history will be stored there, but as soon as the user presses refresh the history of the last session will be lost and new session will be created.
@@ -142,7 +144,8 @@ if user_input:
         st.markdown(assistant_response)
 
 # Document(metadata={'source': './docs/academic_calender.txt'}, page_content="......"})
-        print(response['source'])
+        # print(response.metadata.get('source','Unknown source'))
+        # print(type(response))
        
 
         # Add the assistant's response to the chat history

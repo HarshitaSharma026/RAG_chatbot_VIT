@@ -1,12 +1,9 @@
 School  of Computer  Science  and Engineering   
-CURRICULUM  AND  SYLLABI 
-(2024 -2025)  
-M. Tech  Computer  Science  and Engineering  (CSE)
-Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/MCS-2024-2025.pdf
-CURRICULAM  AND  SYLLABUS 
-2024 -2025  
+M. Tech  Computer  Science  and Engineering  (CSE) CURRICULUM  AND  SYLLABI (2024 -2025)  
+
+Get your syllabus from here: https://vit.ac.in/wp-content/uploads/2024/09/MCS-2024-2025.pdf  
  
- Category  Credit  Detail   
+Category  Credit  Detail   
 Sl.No.  Description  Credits  Maximum  Credit  
 1 DC - Discipline  Core 24 24 
 2 DE - Discipline  Elective  12 12 
@@ -14,10 +11,9 @@ Sl.No.  Description  Credits  Maximum  Credit
 4 OE - Open Elective  3 3 
 5 SE - Skill  Enhancement  5 5 
 Total  Credits  70 
+
 Discipline  Core  
-sl.no  Course  Code  Course Title  Course Type  Ver 
-sio 
-n L T P J Credits  
+sl.no  Course  Code  Course Title  Course Type  Version L T P J Credits  
 1 MCSE501L  Data  Structures  and Algorithms  Theory  Only  1.0 3 0 0 0 3.0 
 2 MCSE501P  Data  Structures  and Algorithms  Lab Lab Only  1.0 0 0 2 0 1.0 
 3 MCSE502L  Design  and Analysis  of Algorithms  Theory  Only  1.0 3 0 0 0 3.0 
@@ -30,10 +26,9 @@ n L T P J Credits
 10 MCSE505P  Computer  Networks  Lab Lab Only  1.0 0 0 2 0 1.0 
 11 MCSE506L  Database  Systems  Theory  Only  1.0 3 0 0 0 3.0 
 12 MCSE506P  Database  Systems  Lab Lab Only  1.0 0 0 2 0 1.0 
+
 Discipline  Elective  
-sl.no  Course  Code  Course Title  Course Type  Ver 
-sio 
-n L T P J Credits  
+sl.no  Course  Code  Course Title  Course Type  Version L T P J Credits  
 1 MCSE601L  Artificial  Intelligence  Theory  Only  1.0 3 0 0 0 3.0 
 2 MCSE602L  Machine  Learning  Theory  Only  1.0 2 0 0 0 2.0 
 3 MCSE602P  Machine  Learning  Lab Lab Only  1.0 0 0 2 0 1.0 
@@ -42,10 +37,7 @@ n L T P J Credits
 6 MCSE604L  Speech  and Natural  Language  Processing  Theory  Only  1.0 3 0 0 0 3.0 
 7 MCSE605L  Machine  Vision  Theory  Only  1.0 3 0 0 0 3.0 
 8 MCSE606L  Cognitive  Robotics  Theory  Only  1.0 3 0 0 0 3.0 
-9 MCSE607L  Game  Programming  Theory  Only  1.0 2 0 0 0 2.0 
- 
-M.Tech  Computer  Science  and Engineering   
- 
+9 MCSE607L  Game  Programming  Theory  Only  1.0 2 0 0 0 2.0    
 10 MCSE607P  Game  Programming  Lab Lab Only  1.0 0 0 2 0 1.0 
 11 MCSE608L  Information  Security  and Risk Management  Theory  Only  1.0 3 0 0 0 3.0 
 12 MCSE609L  Cryptosystems  Theory  Only  1.0 2 0 0 0 2.0 
@@ -80,134 +72,41 @@ M.Tech  Computer  Science  and Engineering
 41 MCSE626L  Industry  4.0 Theory  Only  1.0 3 0 0 0 3.0 
  
 Projects  and Internship  
-sl.no  Course  Code  Course Title  Course Type  Ver 
-sio 
-n L T P J Credits  
+sl.no  Course  Code  Course Title  Course Type  Version L T P J Credits  
 1 MCSE698J  Internship  I/ Dissertation  I Project  1.0 0 0 0 0 10.0 
 2 MCSE699J  Internship  II / Dissertation  II Project  1.0 0 0 0 0 12.0 
 3 MSET695J  Project  Work  Project  1.0 0 0 0 0 4.0 
- 
-M.Tech  Computer  Science  and Engineering   
- 
- 
+
+
 Open  Elective  
-sl.no  Course  Code  Course Title  Course Type  Ver 
-sio 
-n L T P J Credits  
+sl.no  Course  Code  Course Title  Course Type  Version L T P J Credits  
 1 MFRE501L  Francais  Fonctionnel  Theory  Only  1.0 3 0 0 0 3.0 
 2 MGER501L  Deutsch  fuer Anfaenger  Theory  Only  1.0 3 0 0 0 3.0 
 3 MSTS601L  Advanced  Competitive  Coding  Soft Skill 1.0 3 0 0 0 3.0 
  
 Skill  Enhancement  
-sl.no  Course  Code  Course Title  Course Type  Ver 
-sio 
-n L T P J Credits  
+sl.no  Course  Code  Course Title  Course Type  Version L T P J Credits  
 1 MENG501P  Technical  Report  Writing  Lab Only  1.0 0 0 4 0 2.0 
 2 MSTS501P  Qualitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
 3 MSTS502P  Quantitative  Skills  Practice  Soft Skill 1.0 0 0 3 0 1.5 
 
  
 Syllabus Data Structures and Algorithms (CSE)
-Course Code  Course Title  L T P C
-MCSE501L  Data Structures and Algorithms  3 0 0 3 .  
-Module:1  Growth of Functions  3 hours  
-Overview and importance of algorithms and data structures - Algorithm specification, 
-Recursion, Performance analysis, Asymptotic Notation - The Big -O, Omega and Theta 
-notation, Programming Style, Refinement of Coding - Time -Space Trade Off, Testing, Data 
-Abstraction . 
-Module:2  Elementary Data Structures  6 hours  
-Array, Stack, Queue, Linked -list and its types, Various Representations, Operations & 
-Applications of Linear Data Structures  
-Module:3  Sorting  and Searching  7 hours  
-Insertion sort, merge sort, sorting in l inear Time -Lower bounds for sorting, Radix sort, Bitonic 
-sort, Cocktail sort, Medians and Order Statistics -Minimum and maximum, Selection in 
-expected linear time, Selection in worst -case linear time, linear search, I nterpolation search, 
-Exponential search.  
-Module:4  Trees  6 hours  
-Binary trees - Properties of Binary trees, B -tree, B -Tree definition - Operations on B -Tree: 
-Searching a B -tree, Creating, Splitting, Inserting and Deleting, B+ -tree. 
-Module:5  Advanced Trees  8 hours  
-Threaded binary trees, Leftist trees, Tournament trees, 2 -3 tree, Splay tree, Red -black trees, 
-Range trees.  
-Module:6  Graphs  7 hours  
-Representation of graphs, Topological sorting, Shortest path algorithms - Dijkstra's algorithm , 
-Floyd- Warshall algorithm , Minimum spanning trees - Reverse delete algorithm, Boruvka's 
-algorithm.  
-Module:7  Heap and Hashing  6 hours  
-Heaps as priority queues, Binary heaps, binomial and Fibonacci heaps, Heaps in Huffman 
-coding, E xtendible hashing . 
-Module:8  Contemporary I ssues  2 hours  
- 
- Total Lecture hours:  45 hours  
-Text Book(s)  
-1. Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford 
-Stein.  Introduction to algorithms . MIT press, 2022 . 
-Reference Books  
-1. Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)." 3rd 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1644
-edition, 2020, Springer.  
-2. Brass, Peter.  Advanced data structures . Vol. 193. Cambridge: Cambridge University 
-Press, 2008.  
-Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1645
+Course Code: MCSE501L  
+Course Title: Data Structures and Algorithms
+Module:1 Growth of Functions 3 hours Overview and importance of algorithms and data structures - Algorithm specification, Recursion, Performance analysis, Asymptotic Notation - The Big -O, Omega and Theta notation, Programming Style, Refinement of Coding - Time -Space Trade Off, Testing, Data Abstraction . Module:2 Elementary Data Structures 6 hours Array, Stack, Queue, Linked -list and its types, Various Representations, Operations & Applications of Linear Data Structures Module:3 Sorting and Searching 7 hours Insertion sort, merge sort, sorting in l inear Time -Lower bounds for sorting, Radix sort, Bitonic sort, Cocktail sort, Medians and Order Statistics -Minimum and maximum, Selection in expected linear time, Selection in worst -case linear time, linear search, I nterpolation search, Exponential search. Module:4 Trees 6 hours Binary trees - Properties of Binary trees, B -tree, B -Tree definition - Operations on B -Tree: Searching a B -tree, Creating, Splitting, Inserting and Deleting, B+ -tree. Module:5 Advanced Trees 8 hours Threaded binary trees, Leftist trees, Tournament trees, 2 -3 tree, Splay tree, Red -black trees, Range trees. Module:6 Graphs 7 hours Representation of graphs, Topological sorting, Shortest path algorithms - Dijkstra's algorithm , Floyd- Warshall algorithm , Minimum spanning trees - Reverse delete algorithm, Boruvka's algorithm. Module:7 Heap and Hashing 6 hours Heaps as priority queues, Binary heaps, binomial and Fibonacci heaps, Heaps in Huffman coding, E xtendible hashing . Module:8 Contemporary I ssues 2 hours Total Lecture hours: 45 hours Text Book(s) 1. Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to algorithms . MIT press, 2022 . Reference Books 1. Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)." 3rd edition, 2020, Springer. 2. Brass, Peter. Advanced data structures . Vol. 193. Cambridge: Cambridge University Press, 2008. Mode of Evaluation: CAT / Written Assignment / Quiz / FAT
+
 
 Syllabus Data Structures and Algorithms Lab
-Course Code  Course Title  L T P C 
-MCSE501P  Data Structures and Algorithms Lab 0 0 2 1 
-Pre-requisite  NIL Syllabus version  
-  1.0 
-Course Objectives  
-1. To familiarize the concepts of data structures and algorithm focusing on space 
-and time complexity.  
-2. To provide a deeper insight on the basic and advanced data structures.  
-3. To develop the knowledge for application of the advanced trees and graphs in 
-real world scenarios.  
-Course Outcome  
-1. Understand and analyze the space and time complexity of the algorith ms. 
-2. Identification of suitable data structure for a given problem.  
-3. Implementation of graph algorithms in various real -life applications.   
-4. Implementation of heaps and trees for querying and searching.  
-5. Use of basic data structures in advanced data structure operations.  
-6. Use of searching and sorting in various real -life applications.  
- 
-Indicative Experiments  
-1. Analyzing the complexity of iterative and recursive algorithms  
-2. Implement Linear data structures (Stacks, Queues, Linked Lists)  
-3. Linear time sorting techniques  
-4. Interpolation search & Exponential search  
-5. Binary tree & Tree traversals  
-6. B-trees & B+ trees  
-7. Advanced Trees: 2 -3 tree, splay tree, red black tree etc.  
-8. Advanced Trees: Threaded Binary trees, tournament trees  
-9. Graph traversals (BFS, DFS, Topological sorting)  
-10. Determining the Shortest path between pair of nodes in the given graph  
-11. Minimum Spanning trees - reverse delete & Boruvka’s algorithm  
-12. Heaps & Hashing  
-Total Laboratory Hours  30 hours  
-Text Book(s)  
-1. Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford 
-Stein.  Introduction to algorithms . MIT press, 2022 . 
-Reference Books  
-1. Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)." 3rd 
-edition, 2020, Springer.  
-2. Brass, Peter.  Advanced data structures . Vol. 193. Cambridge: Cambridge University 
-Press, 2008.  
-Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1646
+Course Code: MCSE501P  
+Course Title: Data Structures and Algorithms Lab
+Indicative Experiments 1. Analyzing the complexity of iterative and recursive algorithms 2. Implement Linear data structures (Stacks, Queues, Linked Lists) 3. Linear time sorting techniques 4. Interpolation search & Exponential search 5. Binary tree & Tree traversals 6. B-trees & B+ trees 7. Advanced Trees: 2 -3 tree, splay tree, red black tree etc. 8. Advanced Trees: Threaded Binary trees, tournament trees 9. Graph traversals (BFS, DFS, Topological sorting) 10. Determining the Shortest path between pair of nodes in the given graph 11. Minimum Spanning trees - reverse delete & Boruvka’s algorithm 12. Heaps & Hashing Total Laboratory Hours 30 hours Text Book(s) 1. Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to algorithms . MIT press, 2022 . Reference Books 1. Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)." 3rd edition, 2020, Springer. 2. Brass, Peter. Advanced data structures . Vol. 193. Cambridge: Cambridge University Press, 2008. Mode of Evaluation: CAT / Mid -Term Lab/ FAT
+
 
 Syllabus Design and Analysis of Algorithms(CSE)
-Course Code  Course Title  L T P C 
-MCSE502L  Design and Analysis of Algorithms  3 0 0 3 
+Course Code: MCSE502L  
+Course Title: Design and Analysis of Algorithms 
+   3 0 0 3 
 Module:1  Greedy,  Divide  and Conquer Techniques  Introduction  6 hours  
 Overview and Importance of Algorithms - Stages of algorithm development: Describing the  
 problem,  Identifying a suitable technique, Design of an algorithm, Illustration of Design 
@@ -239,9 +138,7 @@ Cover and Travelling salesman.
 Module:8  Contemporary I ssues  2 hours  
  
  Total Lecture hours:  45 hours  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1647
+
  
 Text Book(s)  
 1. Cormen, Thomas H., Charles E. Leiserson , Ronald L. Rivest, and Clifford 
@@ -253,11 +150,7 @@ Press, 1995 (Online Print — 2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014.  
 3. Jon Kleinberg and EvaTardos, Algorithm Design, Pearson Education, 1“Edition, 2014.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1648
+
 
 Syllabus Design and Analysis of Algorithms Lab
 Course Code  Course Title  L T P C 
@@ -306,13 +199,7 @@ Press, 1995 (Online Print — 2013).
 Algorithms, and Applications, 1st Edition, Pearson Education, 2014.  
 3 Jon Kleinberg and EvaTardos, Algorithm Design, Pearson Education, 1“Edition, 2014.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1649
+
 
 Syllabus Computer Architecture and Organisation (CAO)(CSE)
 Course Code  Course Title  L T P C 
@@ -346,9 +233,7 @@ Performance Primitives (IPP)
 Module:7  Energy Efficient Architectures  5 hours  
 Overview of power issues, CMOS Device -level Power dissipation basics, Sources of energy 
 Consumption, Strategies to save power or Energy, Low power designs, Power management 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1650
+
  
   techniques  
 Module:8  Contemporary Issues  1 hours  
@@ -366,11 +251,7 @@ Edition, 2012, Morgan Kauffmann Publishers.
 2. Shameem Akhter, Jason Roberts, Multi -core Programming: Increasing Performance 
 Through Software Multi -threading, 2010, Intel Press,  BPB Publications  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1651
+
 
 Syllabus Computer Architecture and Organi sation Lab
 Course Code  Course Title  L T P C 
@@ -425,9 +306,7 @@ Quicksort,  Minimum Spanning Tree
 10.  Write a CUDA C/C++ program that add two array of  elements and store the   result in 
 third array  
 11.  Write a CUDA C/C++ program that Reverses Single Block in an Array; CUDA C/C++  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1652
+
 12.  Write a CUDA C program for Matrix addition and Multiplication using Shared memory  
 Total Laboratory Hours  30 hours  
 Text Book(s)  
@@ -437,11 +316,7 @@ Reference Books
 1. Shameem Akhter, Jason Roberts, Multi -core Programming: Increasing Performance 
 Through Software Multi -threading, 2010, Intel Press,  BPB Publications  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1653
+
 
 Syllabus Operating Systems (CSE)
 Course Code  Course Title  L T P C 
@@ -545,21 +420,14 @@ Total Laboratory Hours  30 hours
 Text Book(s)  
 1. Vijay Mukhi, “The C Odyssey: UNIX: v. 3”, 2004, 3rd Edition, BPB Publications, New 
 Delhi, India.  
- 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1656
+
 Reference Books  
 1. Stevens, W. R., & Rago, S. A. (2013).  Advanced Programming in the UNIX 
 Environment: Advanc Progra UNIX Envir_p3 . Addison -Wesley.  
 2. Love, Robert, “Linux System Programming: talking directly to the kernel and C library”, 
 2013, 2nd Edition, O’Reilly Media, Inc, United States.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1657
+]
 
 Syllabus Computer Networks(CSE)
 Course Code  Course Title  L T P C 
@@ -596,10 +464,7 @@ Wireless LANs - Mobility Management: Principles - Wireless and Mobility: Impact 
 Layer Protocol - Security in Computer Network - Message Integrity and Digital Signatures  - 
 Network -Layer Security: IPsec and Virtual Private Networks      
 Module:8  Contemporary I ssues  2 hours  
- 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1658
+
  
  Total Lecture hours:  45 hours  
 Text Book(s)  
@@ -610,11 +475,7 @@ Reference Books
 Edition , Morgan Kaufmann, United States of America.  
 2. Andrew S. Tanenbaum, “Computer Networks”, 2013, 6th Edition, Pearson, Singapore.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1659
+
 
 Syllabus Computer Networks Lab
 Course Code  Course Title  L T P C 
@@ -658,11 +519,6 @@ Reference Books
 1. James F. Kuross, Keith W. Ross, “Computer Networking, A Top -Down Approach”, 
 8thEdition( Paperback), Pearson Education, 2022.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1660
 
 Syllabus Database Systems (CSE)
 Course Code  Course Title  L T P C 
@@ -696,10 +552,7 @@ Database Security Issues, Security Models, Different threats to databases, Chall
 maintaining database security  
  
 Module:8  Contemporary  Issues  2 hours  
- 
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1661
+
  Total Lecture hours:  45 hours  
 Text Book(s)  
 1 Abraham Silberschatz, Henry F. Korth, and S. Sudharsan, “Database System 
@@ -714,11 +567,7 @@ GIS”. Morgan Kaufmann, 2002.
 3 Dunckley L. Multimedia databases: An object relational approach. Addison -Wesley 
 Longman Publishing Co., Inc.; 2003 Jan 1.  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1662
+
 
 Syllabus Database Systems Lab 
 Course Code  Course Title  L T P C 
@@ -774,9 +623,7 @@ distance between two spatial objects, find the area of a polygon
 • Store and retrieve images from a multimedia database  
 9. Create an XML document and validate it against an XML Schema/DTD.  
 Use XQuery to query and view the contents of the database  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1663
+
 10. Exec ute XPATH expressions on a database.  
 11. Perform the following using a MongoDB Database  
 • Create an Employee Collection and insert a few documents ( sample document 
@@ -801,11 +648,7 @@ Implementation and Management”  6th Edition, Pearson India, 2015
 3. Mishra, Sanjay, and Alan Beaulieu. Mastering Oracle SQL: Putting Oracle SQL to Work.  
 O'Reilly Media, Inc., 2004.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1664
+
 
 Syllabus Artificial Intelligence(CSE)
 Course Code Course Title  L T P C 
@@ -837,9 +680,7 @@ Planning Problem –STRIPS representation - Com plexity of planning - Algorithms
 as State Space Search – Partial order Planning – Hierarchical Planning.  
 Module:7  Data Driven Learning Agents  5 hours  
 Forms of learning – Supervised Learning - Decision Trees – CART  - Univariate Linear 
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1690
+
 Regressi on, Multivariate  Linear Regression.   
 Module:8  Contemporary I ssues  2 hours  
  
@@ -865,11 +706,7 @@ McGraw Hill Edu cation, 2017.
 Charu C. Aggarwal, “Data Classification: Algorithms and Applications”, CRC Press, 
 2014.  
 Mode of Evaluation: CAT, Assignment, Quiz and FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67 Date  08-08-2022   
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1691
+
 
 Syllabus Machine Learning (CSE)
 Course Code Course Title  L T P C 
@@ -904,9 +741,7 @@ Text Book(s)
 1 S. Shalev -Shwartz, S.Ben -David, “Understanding Machine Learning: From Theory to 
 Algorithms”, Cambridge University Press, 2014.  
 Reference Books  
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1692
+
 1 Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar "Foundations of Machin e 
 Learning”, MIT Press, 2nd  Edition, 2018.  
 2 Duda, Richard, Peter Hart, and David Stork, “Pattern Classification,”  2nd Edition,  John 
@@ -940,10 +775,7 @@ Approved by Academic Council  No. 67  Date  08-08-2022
   
  
  
-  
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1693
+
 
 Syllabus Machine Learning Lab
 Course Code Course Title L T P C 
@@ -989,17 +821,10 @@ O'Reilly Media, Inc, United States.
 2. Wes McKinney, “Python for Data Analysis: Data Wrangli ng with Pandas, NumPy, and 
 IPython", 2017, 2nd Edition, O'Reilly Media, Inc, United States.  
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
+
   
  
-  
- 
- 
- 
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1694
+
 
 Syllabus Deep Learning(CSE)
 Course Code Course Title  L T P C 
@@ -1034,9 +859,7 @@ and Positional Encoding; –Bidirectional Encoder Representations from Transform
 Module:7  Advanced Neural Networks  4 hours  
 Generative Adversarial Networks – Generator, Discriminator, Training, GAN variants; 
 Autoencoder: Architecture, Denoising and Sparcity; DALL -E, DALL -E 2 and I MAGEN   
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1695
+
 Module:8  Contemporary Issues  1 hour  
  
  
@@ -1051,11 +874,7 @@ Reference Books
 2. Deep Learning: A Practitioner's Approach, Josh Patterson, Adam Gibson, O'R eilly 
 Media, 2017  
 Mode of Evaluation: CAT / Written Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1696
+
 
 Syllabus Deep Learning Lab
 Course Code Co urse Title  L T P C 
@@ -1104,12 +923,8 @@ Networks, Umberto Michelucci, Apress, 2018.
 3. Deep Learning with TensorFlow: Explore neural networks with Python, Giancarlo 
 Zaccone, Md. RezaulKarim, Ahmed Menshawy, Packt Publisher, 2017. 
 Mode of Evaluation: CAT / Mid -Term Lab/ FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-Item 67/31 - Annexure - 35
-Proceedings of the 67th Academic Council (08.08.2022) 
-1697
+
+
 
 Syllabus Information Security and Risk Management(CSE)
 Course Code Course Title L T P C 
@@ -1149,9 +964,7 @@ Module:8  Contemporary Issues  2 hours
 Text Book(s)  
 1. Andy Taylor, David Alexander, Amanda Finch and David Sutton, “Information 
 Security Principles”,2020, Third Edition, BCS, United Kingdom.  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1680
+
 2. Michael E. Whitman and Herbert J. Mattord, “Management of Information Security”, 
 2018, Sixth Edition, Cengage Learning, United States of America.  
 Reference Books  
@@ -1162,11 +975,7 @@ America.
 novel framework and software as a tool for compliance with information security 
 standards”, 2018, First Edition, Apple Academic Press, New York.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommen ded by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1681
+
 
 Syllabus Cryptosystems(CSE)
 Course Code Course Title L T P C 
@@ -1207,19 +1016,13 @@ Text Book(s)
 1. Douglas R. Stinson, “Cryptography: Theory and Practice ”, 2018, 4th Edition, CRC 
 Press, United states.  
 Reference Books  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1682
+
 1. Bruce Schneier, “Applied Cryptography: Protocols, Algorithms and Source code in C ”, 
 2017, 20th edition, John Wiley & Sons, New York.  
 2. Behrouz A Forouzan, Debdeep Mukhopadhyay, “Cryptography and Network Security ”, 
 2011, Tata Mcgraw  Hill education private limited, India  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022   
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1683
+
 
 Syllabus Cryptosystems Lab
 Course Code Course Title L T P C 
@@ -1260,11 +1063,7 @@ Reference Books (s)
 2. Behrouz A Forouzan, Debdeep Mukhopadhyay, “Cryptography and Network Security ”, 
 2011, Tata Mcgraw Hill education private limited, India  
 Mode of Evaluation: Continuous Assessment / FAT 
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1684
+
 
 Syllabus  Penetration Testing and Vulnerability Assessment (CSE)
 Course Code Course Title L T P C 
@@ -1302,9 +1101,7 @@ Compliances using OWASP ZAP.
 Module:7  Escalation  4 hours  
 Trojan, Viruses and Backdoor Applications - Detection Mechanism - Unix Permission 
 and Root Access – Buffer overflow – Memory Architecture – Examples – Escalation – 
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1685
+
 Linux – Window – Preventing Mechanism – DDOS – Detection and Prevention – 
 Tools.  
 Module:8  Contemporary Issues  1 hours  
@@ -1323,11 +1120,6 @@ Packt Publishing Ltd, United Kingdom .
 2. Andrew Whitaker, and Daniel P. Newman. “Penetration Testing and Network 
 Defense”, 2005, Cisco Press, New Jersey.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022   
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1686
 
 Syllabus Penetration  Testing  and Vulnerability  
 Assessment Lab
@@ -1380,9 +1172,7 @@ Ethical Hacker”, 2020, Wiley , United  States.
 2. Sabih, Zaid, “Learn Ethical Hacking from Scratch: Your stepping stone to 
 penetration testing”, 2018 Packt Publishing Ltd, United Kingdom.  
  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1687
+
 Reference  Book(s)  
 1. Diogenes, Yuri, and Erdal Ozkaya, “ Cybersecurity??? Attack and Defense 
 Strategies: Infrastructure security with Red Team and Blue Team tactics” , 2018, 
@@ -1390,11 +1180,7 @@ Packt Publishing Ltd, United Kingdom .
 2. Andrew Whitaker  and Daniel P. Newman. “Penetration Testing and  Network 
 Defense”, 2005, Cisco Press, New Jersey.  
 Mode of Evaluation: Continuous A ssessment / FAT  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council    No. 67  Date  08-08-2022  
-Item 67/30 - Annexure - 34
-Proceedings of the 67th Academic Council (08.08.2022) 
-1688
+
 
 Syllabus Big Data Frameworks and Technologies(CSE)
 Course Code Course Title  L T P C 
@@ -1431,9 +1217,7 @@ Module:8  Contemporary Issues  1 hour
  
  
  Total Lecture hours:  30 hours  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1670
+
 Text Book(s)  
 1. 
  
@@ -1468,11 +1252,7 @@ Approved by Academic Council  No. 67  Date  08-08-2022
  
  
  
- 
- 
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1671
+
 
 Syllabus Big Data Frameworks and Technologies Lab
 Course Code Course Title  L T P C 
@@ -1513,11 +1293,7 @@ Spark for Large Scale Data Analysis” – Apress 2015
 5. Adam Shook and Donald Mine,“MapReduce Design Patterns: Building Effective 
 Algorithms and Analytics for Hadoop an d Other Systems” - O’Relly 2012  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1672
+
 
 Syllabus Data Analytics(CSE)
 Course C ode Course Title  L T P C 
@@ -1556,10 +1332,7 @@ Module:8  Contemporary Issues  1 hour
  Total Lecture hours  30 hours  
 Text Book(s)  
 1. John D. Kelleher, Brian Mac Namee, Aoife D'Arcy -Fundamentals of Machine Learning 
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1673
- 
+
  
  2. for Predictive Data Analytics: Algorithms, Worked Examples, MIT Press 2020  , 2nd 
 Edition.  
@@ -1576,11 +1349,7 @@ Mining . By: Publisher:  Pearson, Edition: 2nd, 2019.
 Guanhua Wang -Distributed Machine Learning with Python, Packt Publishing, 2022.  
   
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1674
+
 
 Syllabus Data Analytics Lab 
 Course Code Course Title  L T P C 
@@ -1626,11 +1395,7 @@ Reference Books
 Selection, and Data Transforms in Python, First Edition, 2020.  
 2.   Guanhua Wang -Distributed Machine Learning with Python, Packt Publishing, 2022.  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1675
+
 
 Syllabus Data Visualization (CSE)
 Course Code Course Title  L T P C 
@@ -1667,9 +1432,7 @@ Module:8  Contemporary Issues  1 hour
  Total Lecture hours:  30 hours  
 Text Book(s)  
 1. Tamara Munzer, Visualization Analysis and Design, 1st edition, CRC Press, United 
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1676
+
 States, 201 5. 
 2 Michael Fry, Jeffrey Ohlmann, Jeffrey Camm, James Cochran, Data Visualization: 
 Exploring and Explaining with Data, South -Western College Publishing, 2021  
@@ -1680,11 +1443,7 @@ edition, Springer publication, Germany, 2008.
 3.  Avril Coghlan, A little book of R for multivariate analysis, 1st edition, Welcome Trust 
 Sanger Institute, United Kingd om, 2013.  
 Mode of Evaluation: CAT / written assignment / Quiz / FAT / Project / Seminar  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1677
+
 
 Syllabus Data Visualization Lab
 Course Code Course Title  L T P C 
@@ -1726,12 +1485,9 @@ edition, Springer publication, Germany, 2008.
 3. Avril, A little book of R for multivariate analysis, 1st edition, Welcome Trust Sanger 
 Institute, United Kingdom, 2013.  
 Mode of Assessment: Continuous Assessment / FAT / Oral examination and others  
-Recommende d by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-Item 67/29 - Annexure - 33
-Proceedings of the 67th Academic Council (08.08.2022) 
-1678
+
+
+
 
 Syllabus Control Engineering
 Course Code Course Title L T P C 
@@ -1787,9 +1543,6 @@ Text Book(s)
 1. Norman S. Nise, ”Control System Engineering”, John Wiley & Sons, 8th Edition, 2019.  
 2. K.Ogata, ”Discrete -Time Control Systems”, Pearson, 2015.  
 Reference Books  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1629
 1. K. Ogata,” Modern Control Engineering” , Pearson,5th Edition,2010.  
 2. R.C. Dorf & R.H. Bishop, “Modern Control Systems”, Pearson Education 13th Edition, 
 2017.  
@@ -1802,11 +1555,7 @@ Publishers, 6th Edition, 2018.
 6. M. Gopal, “Digital Control and State Variable Methods”, Tata McGraw -Hill Publications, 
 4th Edition, 2012.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1630
+
 
 Syllabus Control Engineering Lab 
 Course C ode Course Title L T P C 
@@ -1849,12 +1598,7 @@ Tests
 15. Data Acquisition and Controller Design Using NI Educational Controller  
 Total Laboratory Hours  30 hours  
 Mode of assessment: Continuous Assessment / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-   
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1631
+
 
 Syllabus Framework of Cyber Physical  Systems
 Course Code Course Title L T P C 
@@ -1911,9 +1655,7 @@ Constrained Network and Constrained Devices - Internet Access - M2M Gateway Devi
 Network Domain - Personal Area Network - Constrained Devices and its Architecture - 
 Wireless Sensor Network - Multi -PHY Management and SUN WPAN - Network Architecture 
 for WPAN - Routing Protocols for Sensor Networks - Constrained Application Protocol 
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1632
+
 (CoRE).  
 Module:8  Contemporary Issues  2 hours  
  
@@ -1933,13 +1675,7 @@ Science Department, Carnegie Mellon University.2013.
 3. P.Venkata Krishna, V.Saritha and H.P.Sultana. Challenges, Opportunities, and 
 Dimensions of Cyber -Physical Systems. IGI Global, ISBN – 978-1466673120, 2014.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1633
+
 
 Syllabus Cyber Physical Systems Design
 Course Code Course Title L T P C 
@@ -1995,9 +1731,7 @@ Text Book(s)
 1. Edward A. Lee and Sanjit A. Seshia, Introduct ion to Embedded Systems, A Cyber -
 Physical Systems Approach, Second Edition, http://Leeseshia.org, ISBN 978-1- 312-
 42740 -2, 2015.  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1634
+
 2. Rajeev Alur, Principles of Cyber -Physical systems. MIT Press. 2015. Charu C. 
 Aggarwal,” Recommender systems: The Textbook”, First Ed., Springer, 2016.  
 Reference Books  
@@ -2011,14 +1745,9 @@ Opportunities, and Dimensions of Cyber -Physical Systems. IGI Global, ISBN – 9
 4. Griffor ER, Greer C, Wollman  DA, Burns MJ. Framework for cyber -physical systems: 
 Volume 1, Overview. 2017 Jun 26.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1635
- 
+
+
+
 Syllabus Cyber Physical Systems Design  Lab
 Course Code Course Title L T P C 
 MCSE623P  Cyber Physical Systems Design  Lab 0 0 2 1 
@@ -2066,14 +1795,7 @@ Indicative Ex periments
 • Automotive  
 Total Laboratory Hours  30 hours  
 Mode of assessment: Continuous assessment / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1636
- 
+
 
 Syllabus Real Time Systems 
 Course Code Course Title L T P C 
@@ -2131,9 +1853,8 @@ Module 8  Contemporary Issues  2 hours
  Total Lecture Hours  30 hours  
 Text Book(s)  
 1. Phillip A. Laplante, Real-Time Systems Design and Analysis, 2013, 4th Edition, Prentice 
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1637
+
+
 Hall of India.  
 2. Rajib Mall, “Real -time Systems: Theory and Practice”,  2009, Pearson Education.  
 Reference Books  
@@ -2148,13 +1869,8 @@ India.
 5. C.M Krishna and Kang G. Shin, “Real -Time Systems”, 1997, McGraw -Hill International 
 Editions.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1638
+
+
 
 Syllabus Fault Tolerant Systems
 Course Code Course Title L T P C 
@@ -2210,10 +1926,8 @@ Text Book(s)
 1.  Elena Dubrova; Fault -Tolerant Design; Springer, 2013  
 2. Israel  Koren  and C. Mani  Krishna;  FFault-Tolerant  Systems;  Morgan -Kaufman  Publishers,  
 2007.  
-   
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1639
+
+
 Reference Books  
 1. Michael R. Lyu; Handbook of Software Reliability Engineering; IEEE Computer Society 
 Press (and McGraw -Hill), 1996.  
@@ -2221,13 +1935,8 @@ Press (and McGraw -Hill), 1996.
 Analysis, and  Design; John Wiley & Sons Inc., 2002.  
 3. Fault Tolerant Computer System design by D. K. Pradhan, Prentice Hall.(1996)  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recom mended by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
-  
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1640
+
+
 
 Syllabus Industry 4.0 
 Course Code Course Title L T P C 
@@ -2283,21 +1992,15 @@ Text Book(s)
 1. Diego Galar Pascual, Pasquale Daponte, Uday Kumar, "Handbook Of Industry 4.0 and 
 Smart Systems", CRC Press, 2020.  
 2.  Peter Matthews, Steven Greenspan, "Automation and Col laborative Robotics: A Guide 
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1641
+
+
 to the Future of Work", Apress Publisher, 2020  
 Reference Books  
 1. Jesús Hamilton Ortiz, Industry 4.0 Current Status and Future Trends, Intech open 
 publisher, 2020.  
 Mode of Evaluation: CAT / Assignment / Quiz / FAT  
-Recommen ded by Board of Studies  29-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
- 
- 
-Item 67/27 - Annexure - 31
-Proceedings of the 67th Academic Council (08.08.2022) 
-1642
+
+
 
 Syllabus Internship I/ Dissertation I  
 Course Code  Course Title  L T P C 
@@ -2330,11 +2033,10 @@ added advantage.
  
 Mode o f Evaluation:  Assessment on the project - Dissertation report to be submitted, 
 presentation, project reviews and Final Oral Viva Examination.  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1667
+
+
+
+
 
 Syllabus Internship II/ Dissertation II
 Course Code  Course Title  L T P C 
@@ -2368,11 +2070,8 @@ Module Content  (Project duration: one semester)
  
 Mode of Evaluation: Assessment on the project - Dissertation report to be submitted, 
 presentation, project reviews and Final Oral Viva Examination.  
-Recommended by Board of Studies  26-07-2022  
-Approved by Academic Council  No. 67  Date  08-08-2022  
-Item 67/28 - Annexure - 32
-Proceedings of the 67th Academic Council (08.08.2022) 
-1668
+
+
 
 Syllabus Français Fonctionnel (CSE)
 Course code Course Title L T  P C
@@ -2408,8 +2107,10 @@ phrases en ordre, masculin/féminin ; singulier/pluriel- Associez les phrases- l
 temps (ensuite/hier/puis….)
 Module:6 Comment écrire un passage - développer des  
 ompétences rédactionnelles. Discussion de groupe 
-(donnez un sujet et demandez aux élèves de partager 5 hours Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 135
+(donnez un sujet et demandez aux élèves de partager 5 hours 
+
+
+
 leurs idées)
 Décrivez La Famille -La Maison -L’université -Les Loisirs-La Vie quotidienne- La ville natale-
 Un personnage célèbre
@@ -2434,9 +2135,8 @@ Prozopublishing, Jan 2019.
 2019 
 Modeof Evaluation : Continuous Assessment Tests, Quizzes, Assignment, Final 
 Assessment Test
-Recommended by Board of Studies 19-05-2022
-Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 136
+
+
 
 Syllabus Deutsch für Anfänger (CSE) 
 Course code Course Title L  T P C
@@ -2477,8 +2177,8 @@ Meine Universität, Das Essen, mein Freund odermeine Freundin, meine Familie, ei
 Deutschlandusw. 
 Module:7 Übersetzungen 6 hours
 Übersetzungen : (Deutsch – Englisch / Englisch –Deutsch) 
-Lernziel : Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 137
+Lernziel :
+
 Grammatik – Wortschatz – Übung
 Module:8 Trainierung den Sprachfähigkeiten 2 hours
 Total Lecture hours: 45 hours 
@@ -2498,9 +2198,8 @@ hueber.de, klett-sprachen.de
 www.deutschtraning.org
 Mode of  Evaluation  : Continuous Assessment Tests, Quizzes, Assignment, Final 
 Assessment Test
-Recommended by Board of Studies 19-05-2022
-Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 138
+
+
 
 Syllabus Advanced Competitive Coding(CSE)
 Course Code Course Title L T P C 
@@ -2532,9 +2231,8 @@ pattern matching , Pots of gold game
 Module:6  Linked list, Stack, Queue  6 hours  
 Loop Detection, Sort the bitonic DLL, Segregate even & odd nodes in a LL , Merge 
 sort for DLL ,Minimum Stack, The Celebrity problem, Iterati ve Tower of Hanoi Stock 
-Item 69/31 - Annexure - 28
-Proceedings of the 69th Academic Council (16.03.2023)
-191
+
+
 Span problem, Priority Queue using DLL, Sort without extra Space, Max Sliding 
 Window, Stack permutations  
 Module:7  Trees, Graphs , Heaps, Maps  6 hours  
@@ -2553,11 +2251,8 @@ applicatio ns”, 2017, Second Edition, Tata Mc Graw Hill.
 2.  Richard M. Reese, Jennifer L. Reese, Alexey Grigorev,  Java: Data Science 
 Made Easy , 2019  Pocket Publishing.  
 Mode of Evaluation:   CAT, Written assignment, Quiz,  Project  & FAT. 
-Recommended by Board of St udies  24-02-2023
-Approved by Academic Council  No. 69 Date  16-03-2023
-Item 69/31 - Annexure - 28
-Proceedings of the 69th Academic Council (16.03.2023)
-192
+
+
 
 Syllabus Technical Report Writing
 Course code Course Title L T P C
@@ -2609,8 +2304,10 @@ Thesis statement, Developing unity and coherence
 Avoiding Plagiarism, Best practices for writers
 14. Supplementary Texts
 Appendix – Index – Glossary – References – Bibliography - Notes 
-15PresentationItem 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 129
+15Presentation
+
+
+
 Presenting Technical Reports
 Planning, creating anddigital presentation of reports 
 Total Laboratory hours : 60 hours
@@ -2628,9 +2325,8 @@ for Engineers, Oxford University Press.
 Communication, Fifth Edition, Oxford University Press. 
 Mode of Evaluation  : Continuous Assessment Tests, Quizzes, Assignment, Final 
 Assessment Test
-Recommended by Board of Studies 19-05-2022
-Approved by Academic Council No. 66 Date 16-06-2022Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 130
+
+
 
 Syllabus Qualitative Skills Practice(CSE)
 Course Code Course Title L T PC
@@ -2664,8 +2360,8 @@ proportions.
 Module:5 Reasoning Ability - L1 – Analytical Reasoning 8 hours
 Data Arrangement (Linear and circular & Cross Variable Relationship), Blood Relations,
 Ordering / ranking / grouping, Puzzle test, Selection Decision table. 
-Module:6 Verbal Ability -L1 – Vocabulary Building 7 hoursItem 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 131
+Module:6 Verbal Ability -L1 – Vocabulary Building 7 hours
+
 Synonyms & Antonyms, One word substitutes, Word Pairs, Spellings, Idioms, Sentence
 completion, Analogies. 
 Total Lecture hours: 45 hours
@@ -2687,9 +2383,8 @@ Websites:
 5.www.eguru.ooo 
 Mode of Evaluation: Continuous Assessment Tests, Quizzes, Assignment, Final Assessme nt 
 Test
-Recommended by Board of Studies 19-05-2022
-Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 132
+
+
 
 Syllabus Quantitative Skills Practice(CSE)
 Course Code Course Title L T P C 
@@ -2721,8 +2416,8 @@ Basic rules of logarithms, Introduction to functions, Basic rules of functions, 
 Quadratic Equations, Rules & probabilities of Quadratic Equations, Basic concepts of Venn 
 Diagram. 
 Module:5 Reasoning ability - L3 – Logical reasoning; Data Analysis 
-and Interpretation 7 hours Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 133
+and Interpretation 7 hours
+
 Syllogisms, Binary logic, Sequential output tracing, Crypto arithmetic, Data Sufficiency, Data
 Interpretation-Advanced, Interpretation tables, pie charts & bar chats. 
 Module:6 Verbal Ability - L3 – Comprehension and Critical 
@@ -2748,6 +2443,5 @@ Websites:
 5.www.eguru.ooo 
 Mode of Evaluation:Continuous Assessment Tests, Quizzes, Assignment, Final 
 Assessment Test
-Recommended by Board of Studies19-05- 2022
-Approved by Academic Council No.66 Date 16-06-2022Item 66/8 - Annexure - 4
-Proceedings of the 66th Academic Council (16.06.2022) 134
+
+
