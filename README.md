@@ -8,7 +8,7 @@ Its an ongoing project done individually, that is why the use cases covered are 
 - Curriculum (syllabus) information - only for MCA and MTech courses provided by university.
 - Facult information (only covering facult of MCA for now)
 
-## Technologies Used
+## :technologist: Technologies Used
 1. LangChain, for implementing retrieval-based pipelines.
 2. Chroma, for document vector storage and similarity search.
 3. Streamlit, for creating the chatbot interface.
@@ -16,7 +16,7 @@ Its an ongoing project done individually, that is why the use cases covered are 
 5. Python, for all backend operations.
 6. dotenv, for API key management.
 
-## Installation guide 
+## :technologist: Installation guide 
 1. Clone the repo 
 ```
 git clone https://github.com/<your-name>/RAG_chatbot_VIT.git
@@ -65,4 +65,4 @@ streamlit run 03_main.py
 - The chat history is maintained throughout the session to ensure continuity in conversation.
 
 
-**This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.**
+**:dart:This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.**
