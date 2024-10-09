@@ -50,8 +50,3 @@ streamlit run 03_main.py
 **embeddings.py** : file that is converting text documents to their vector formats. Uses Chroma db to store the embedding.
 **problems_faced.md** : consists of the list of problems I faced, and how I solved it, including link of resources used to solve the problem. 
 **requirements.txt** : consists of all the dependencies required to build the chatbot
-**using_pypdf** : 
-
-
-
-
