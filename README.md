@@ -1,4 +1,4 @@
-# Multidocument RAG-based Conversational Chatbot
+# :robot: Multidocument RAG-based Conversational Chatbot
 This chatbot project is specifically designed for educational institutions (my own university for now) to answer students queries based on a large set of documents using a Retrieval-Augmented Generation (RAG) approach. The chatbot retrieves relevant documents, processes user inputs while maintaining session history, and formulates accurate responses using the context from the documents. It utilizes a history-aware retriever to maintain the chat flow and provide detailed responses based on prior questions or user references. 
 
 Its an ongoing project done individually, that is why the use cases covered are limited. For now the chatbot can answer queries related to university's:
