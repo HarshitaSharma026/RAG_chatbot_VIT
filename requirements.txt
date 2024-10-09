@@ -4,11 +4,11 @@ streamlit
 langchain_community
 langserve
 pypdf
-faiss-cpu
+# faiss-cpu
 google-generativeai
 chromadb
 langchain-chroma
 langchain_google_genai
-marker-pdf
-unstructured
-unstructured[pdf]
+# marker-pdf
+# unstructured
+# unstructured[pdf]
