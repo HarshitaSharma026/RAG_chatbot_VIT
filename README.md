@@ -19,7 +19,7 @@ Its an ongoing project done individually, that is why the use cases covered are 
 ## Installation guide 
 1. Clone the repo 
 ```
-git clone https://github.com/<your-name>/chatbot-project.git
+git clone https://github.com/<your-name>/RAG_chatbot_VIT.git
 ```
 2. Navigate to project directory
 ```
@@ -41,12 +41,19 @@ streamlit run 03_main.py
 
 ## Project Structure
 **convert_pdf** : contains files to convert the pdf document into raw text documents or md files. This conversion is essential because a pdf contains a lot of unstrctured and complex data, which is difficult to convert into vectors and difficult for llm model to understand. That is why we need to convert it into simple text, or md file. 
+
 **docs** : the directory which contains all the text documents that are used as knowledge base of this chatbot.
+
 **dummy** : same as docs, but this directory is being referred in **embeddings.py** to convert embedding of text files.
+
 **dummydb** : hold the vector embeddings of all the text documents.
 
 **03_main.py** : the main applications file to launch the chatbot using streamlit
+
 **concepts.md** : file that contains explaination of all the new concepts that I can across while learning to develop the chatbot. More concepts will be added to this file as the project progresses.
+
 **embeddings.py** : file that is converting text documents to their vector formats. Uses Chroma db to store the embedding.
+
 **problems_faced.md** : consists of the list of problems I faced, and how I solved it, including link of resources used to solve the problem. 
+
 **requirements.txt** : consists of all the dependencies required to build the chatbot
