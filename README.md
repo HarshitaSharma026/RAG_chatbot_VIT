@@ -57,3 +57,12 @@ streamlit run 03_main.py
 **problems_faced.md** : consists of the list of problems I faced, and how I solved it, including link of resources used to solve the problem. 
 
 **requirements.txt** : consists of all the dependencies required to build the chatbot
+
+## How to Use the Chatbot
+- Refer to the text documents in "dummy" directory to get an idea of what type of questions (from the documents) can be asked. 
+- Enter your query in the input box.
+- The chatbot will retrieve relevant documents and provide detailed answers based on the context.
+- The chat history is maintained throughout the session to ensure continuity in conversation.
+
+
+** This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance. **
