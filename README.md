@@ -65,4 +65,4 @@ streamlit run 03_main.py
 - The chat history is maintained throughout the session to ensure continuity in conversation.
 
 
-** This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance. **
+**This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.**
