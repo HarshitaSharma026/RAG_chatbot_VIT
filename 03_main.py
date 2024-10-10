@@ -86,12 +86,12 @@ def chat_chain(vectorstore):
     return rag_chain
 
 st.set_page_config(
-    page_title = "Multichat chatbot",
+    page_title = "Multi-document RAG chatbot",
     page_icon="📑",
     layout="centered"
 )
 
-st.title("📑 RAG Chatbot")
+st.title("📑 Multi-document RAG chatbot")
 
 # session state in streamlit
 # when the user is using the app, that time all the history will be stored there, but as soon as the user presses refresh the history of the last session will be lost and new session will be created.
@@ -125,7 +125,7 @@ for message in st.session_state.chat_history:
         st.markdown(message["content"])
 
 # Input for user to ask questions
-user_input = st.chat_input("Ask AI...")
+user_input = st.chat_input("How can I help you today?")
 
 # Handle user input
 if user_input:
