@@ -29,13 +29,13 @@ import os
 
 
 # for converting single file
-filename = "./docs/pdf_docs/mca_syllabus.pdf"
+filename = "./docs/pdf_docs/vit_milestones.pdf"
 reader = PdfReader(filename)
 
 # Replace the PDF extension with .txt
 text_filename = os.path.basename(filename).replace(".pdf", ".txt")
 # Join the directory and filename
-text_filepath = os.path.join("./docs", text_filename)
+text_filepath = os.path.join("./dummy", text_filename)
 
 # Open the text file for writing the extracted text
 with open(text_filepath, "w", encoding="utf-8") as txt_file:
